@@ -1,0 +1,89 @@
+name: Fetch RSS Feed
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install rss-parser
+        run: npm install rss-parser
+
+      - name: Fetch RSS feeds and generate JSON + HTML
+        run: |
+          node << 'EOF'
+          const RSSParser = require('rss-parser');
+          const fs = require('fs');
+          const parser = new RSSParser();
+
+          const feeds = [
+            { name: 'TechCrunch AI', url: 'https://techcrunch.com/category/artificial-intelligence/feed/' },
+            { name: 'VentureBeat AI', url: 'https://venturebeat.com/category/ai/feed/' },
+            { name: 'The Verge AI',   url: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml' }
+          ];
+
+          async function main() {
+            const allItems = [];
+            for (const feed of feeds) {
+              try {
+                const parsed = await parser.parseURL(feed.url);
+                const items = (parsed.items || []).slice(0, 5).map(item => ({
+                  source: feed.name,
+                  title: item.title || '',
+                  summary: item.contentSnippet
+                    ? item.contentSnippet.substring(0, 140) + '...'
+                    : '',
+                  link: item.link || '',
+                  isoDate: item.isoDate || new Date().toISOString()
+                }));
+                allItems.push(...items);
+              } catch (e) {
+                console.error('Failed ' + feed.name + ': ' + e.message);
+              }
+            }
+
+            allItems.sort((a, b) => new Date(b.isoDate) - new Date(a.isoDate));
+
+            fs.writeFileSync('rss-feed.json',
+              JSON.stringify({ generated: new Date().toISOString(), items: allItems }, null, 2)
+            );
+
+            const cards = allItems.map(item => `  <div class="news-card">
+              <div class="news-source">${item.source}</div>
+              <h3>${item.title}</h3>
+              <p>${item.summary}</p>
+              <div class="news-meta">${new Date(item.isoDate).toLocaleDateString('en-GB',{day:'numeric',month:'short'})} <span>AI</span></div>
+            </div>`).join('\n');
+
+            fs.writeFileSync('rss-feed.html',
+              '<!-- Generated: ' + new Date().toISOString() + ' -->\n<div class="news-grid">\n' + cards + '\n</div>'
+            );
+
+            console.log('Done: ' + allItems.length + ' items written.');
+          }
+
+          main().catch(e => { console.error(e); process.exit(1); });
+          EOF
+
+      - name: Commit RSS files
+        run: |
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add rss-feed.json rss-feed.html
+          git diff --staged --quiet || git commit -m "chore: update RSS feed [skip ci]"
+          git push
