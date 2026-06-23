@@ -326,17 +326,17 @@ footer{background:var(--bg);border-top:1px solid var(--border);padding:3rem 2rem
 const NEWS_SOURCES = [
   {
     name: 'TechCrunch AI',
-    rss: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Ftechcrunch.com%2Fcategory%2Fartificial-intelligence%2Ffeed%2F&api_key=public&count=6',
+    rss: 'https://techcrunch.com/category/artificial-intelligence/feed/',
     color: '#00d084'
   },
   {
     name: 'VentureBeat AI',
-    rss: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fventurebeat.com%2Fcategory%2Fai%2Ffeed%2F&api_key=public&count=6',
+    rss: 'https://venturebeat.com/category/ai/feed/',
     color: '#ff6b35'
   },
   {
     name: 'The Verge AI',
-    rss: 'https://api.rss2json.com/v1/api.json?rss_url=https%3A%2F%2Fwww.theverge.com%2Frss%2Fai-artificial-intelligence%2Findex.xml&api_key=public&count=6',
+    rss: 'https://www.theverge.com/rss/ai-artificial-intelligence/index.xml',
     color: '#7c3aed'
   }
 ];
@@ -360,7 +360,7 @@ async function loadNews() {
   try {
     // Try to fetch from RSS2JSON API
     const promises = NEWS_SOURCES.map(src => 
-      fetch(src.rss).then(r => r.json()).then(d => ({...d, sourceName: src.name})).catch(() => null)
+      fetch('https://api.allorigins.win/get?url='+encodeURIComponent(src.rss)).then(r=>r.json()).then(d=>{const p=new DOMParser(),x=p.parseFromString(d.contents,'text/xml'),its=Array.from(x.querySelectorAll('item')).slice(0,3).map(i=>({title:i.querySelector('title')?.textContent||'',link:i.querySelector('link')?.textContent||'',description:(i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').substring(0,120)+'…',pubDate:i.querySelector('pubDate')?.textContent||''}));return{items:its,sourceName:src.name};}).catch(()=>null)
     );
     
     const results = await Promise.allSettled(promises);
