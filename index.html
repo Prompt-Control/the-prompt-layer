@@ -405,16 +405,39 @@ function renderNews(items) {
 
 // ── NEWSLETTER ────────────────────────────────────────────
 function handleSubscribe() {
-  const email = document.getElementById('email-input').value;
-  const msg = document.getElementById('newsletter-msg');
-  if (!email || !email.includes('@')) {
-    msg.textContent = 'Please enter a valid email address.';
-    msg.style.color = '#f87171';
-    return;
-  }
-  msg.textContent = '🎉 You're on the list! Check your inbox for a welcome email.';
-  msg.style.color = '#a855f7';
-  document.getElementById('email-input').value = '';
+    const email = document.getElementById('email-input').value;
+    const msg = document.getElementById('newsletter-msg');
+    if (!email || !email.includes('@')) {
+          msg.textContent = 'Please enter a valid email address.';
+          msg.style.color = '#f87171';
+          return;
+    }
+    const btn = document.querySelector('.newsletter-form .btn-primary');
+    btn.disabled = true;
+    btn.textContent = 'Subscribing\u2026';
+    fetch('https://formspree.io/f/REPLACE_WITH_YOUR_FORMSPREE_ID', {
+          method: 'POST',
+          headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
+          body: JSON.stringify({email: email})
+    })
+    .then(r => r.json())
+    .then(data => {
+          if (data.ok) {
+                  msg.textContent = '\uD83C\uDF89 You\'re on the list! Check your inbox for a welcome email.';
+                  msg.style.color = '#a855f7';
+                  document.getElementById('email-input').value = '';
+          } else {
+                  throw new Error(data.error || 'Submission failed');
+          }
+    })
+    .catch(() => {
+          msg.textContent = '\u26A0\uFE0F Something went wrong. Please try again.';
+          msg.style.color = '#f87171';
+    })
+    .finally(() => {
+          btn.disabled = false;
+          btn.textContent = 'Subscribe Free';
+    });
 }
 
 // ── SMOOTH SCROLL ─────────────────────────────────────────
