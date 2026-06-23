@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Prompt Layer – AI as a Life Operating System</title>
 <meta name="description" content="The Prompt Layer: tips, tools, and trending AI news for professionals who want to use AI as a life operating system, not just a chatbot.">
+<link rel="alternate" type="application/rss+xml" title="The Prompt Layer AI News" href="./rss-feed.xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 <style>
@@ -299,8 +300,9 @@ footer{background:var(--bg);border-top:1px solid var(--border);padding:3rem 2rem
       <span class="section-label">Stay Sharp</span>
       <h2 class="section-title">Never Miss an <span class="grad">AI Breakthrough</span></h2>
       <p style="color:var(--muted);margin-bottom:.5rem">Get weekly AI tips, tool reviews, and curated news straight to your inbox. No spam. Unsubscribe anytime.</p>
-      <form class="newsletter-form" onsubmit="handleSubscribe(event)">
-        <input type="email" id="email-input" placeholder="your@email.com" name="email" required>
+      <form class="newsletter-form" id="newsletter-form" action="https://formspree.io/f/xojovwgr" method="POST" onsubmit="handleSubscribe(event)">
+        <input type="hidden" name="_subject" value="New Prompt Layer subscriber">
+        <input type="email" id="email-input" placeholder="your@email.com" name="email" autocomplete="email" required>
         <button type="submit" class="btn-primary">Subscribe Free</button>
       </form>
       <div class="newsletter-msg" id="newsletter-msg"></div>
@@ -341,122 +343,188 @@ const NEWS_SOURCES = [
   }
 ];
 
+// For static hosting, RSS should be generated server-side into this JSON file.
+// The client also has two public proxy fallbacks so the news cards still load
+// if rss-feed.json has not been generated yet.
+const LOCAL_RSS_JSON = './rss-feed.json';
+
 // Curated fallback news in case RSS fails
 const FALLBACK_NEWS = [
   {source:'TechCrunch',title:'OpenAI launches new initiative to help find and patch open source bugs',summary:'OpenAI is expanding its security efforts to include open source software vulnerability detection and patching programs.',time:'8 hours ago',tag:'Security'},
   {source:'TechCrunch',title:'AI chipmaker Groq confirms $650M raise after Nvidia deal',summary:'Groq has confirmed a major funding round as it positions itself as a key alternative in the AI inference chip market.',time:'12 hours ago',tag:'Funding'},
-  {source:'TechCrunch',title:'Google DeepMind bets $75M on AI's future in Hollywood with A24 deal',summary:'Google DeepMind partners with A24 in a $75M bet on AI-generated content for the entertainment industry.',time:'13 hours ago',tag:'Media'},
-  {source:'VentureBeat',title:'The AI world is getting loopy — and that's a feature, not a bug',summary:'Agentic AI loops are becoming the dominant paradigm, with models calling themselves recursively to solve complex problems.',time:'11 hours ago',tag:'Trends'},
+  {source:'TechCrunch',title:'Google DeepMind bets $75M on AI\'s future in Hollywood with A24 deal',summary:'Google DeepMind partners with A24 in a $75M bet on AI-generated content for the entertainment industry.',time:'13 hours ago',tag:'Media'},
+  {source:'VentureBeat',title:'The AI world is getting loopy — and that\'s a feature, not a bug',summary:'Agentic AI loops are becoming the dominant paradigm, with models calling themselves recursively to solve complex problems.',time:'11 hours ago',tag:'Trends'},
   {source:'VentureBeat',title:'Amazon is testing Alexa+ in India with Hindi language support',summary:'Amazon is rolling out its next-generation Alexa AI assistant in India, with support for Hindi to tap into a massive new market.',time:'14 hours ago',tag:'Products'},
   {source:'The Verge',title:'Major tech layoffs in 2026 where employers cited AI as the reason',summary:'A running list of tech companies that have cited AI automation as a key reason for reducing their workforce this year.',time:'6 hours ago',tag:'Industry'},
-  {source:'The Verge',title:'Beyond Siri: practical AI features coming to iPhone in iOS 27',summary:'Apple's iOS 27 will include a major overhaul of on-device AI capabilities, moving well beyond Siri's traditional role.',time:'2 days ago',tag:'Apple'},
+  {source:'The Verge',title:'Beyond Siri: practical AI features coming to iPhone in iOS 27',summary:'Apple\'s iOS 27 will include a major overhaul of on-device AI capabilities, moving well beyond Siri\'s traditional role.',time:'2 days ago',tag:'Apple'},
   {source:'TechCrunch',title:'Snap spins off AI video team into new company called Dotmo',summary:'Snap is separating its AI video generation team into an independent startup, citing high operational costs as the driving factor.',time:'4 days ago',tag:'Startups'},
   {source:'VentureBeat',title:'Nobel laureate John Jumper leaves DeepMind for rival Anthropic',summary:'The AlphaFold co-creator and Nobel laureate is joining Anthropic in a major talent move within the AI research community.',time:'3 days ago',tag:'Research'}
 ];
 
+function escapeHTML(value) {
+  return String(value || '').replace(/[&<>'"]/g, char => ({
+    '&': '&amp;',
+    '<': '&lt;',
+    '>': '&gt;',
+    "'": '&#39;',
+    '"': '&quot;'
+  }[char]));
+}
+
+function stripHTML(value) {
+  const div = document.createElement('div');
+  div.innerHTML = value || '';
+  return div.textContent || div.innerText || '';
+}
+
+function formatFeedDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return 'Latest';
+  return date.toLocaleString('en-GB', { day: 'numeric', month: 'short' });
+}
+
+function normalizeFeedItem(item, sourceName) {
+  const summary = item.summary || item.description || item.contentSnippet || item.content || '';
+  return {
+    source: item.source || sourceName || 'AI News',
+    title: stripHTML(item.title).trim(),
+    summary: stripHTML(summary).trim().substring(0, 140) + (stripHTML(summary).length > 140 ? '…' : ''),
+    link: item.link || item.guid || '',
+    isoDate: item.isoDate || item.pubDate || item.published || item.updated || '',
+    time: formatFeedDate(item.isoDate || item.pubDate || item.published || item.updated),
+    tag: item.tag || 'AI'
+  };
+}
+
+async function fetchLocalFeed() {
+  const res = await fetch(`${LOCAL_RSS_JSON}?t=${Date.now()}`, { cache: 'no-store' });
+  if (!res.ok) throw new Error('Local RSS JSON not found');
+  const data = await res.json();
+  const items = Array.isArray(data.items) ? data.items : [];
+  return items.map(item => normalizeFeedItem(item, item.source));
+}
+
+async function fetchViaRss2Json(source) {
+  const url = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(source.rss)}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('rss2json failed');
+  const data = await res.json();
+  if (data.status !== 'ok' || !Array.isArray(data.items)) throw new Error('Invalid rss2json response');
+  return data.items.slice(0, 3).map(item => normalizeFeedItem(item, source.name));
+}
+
+async function fetchViaAllOrigins(source) {
+  const url = `https://api.allorigins.win/raw?url=${encodeURIComponent(source.rss)}`;
+  const res = await fetch(url);
+  if (!res.ok) throw new Error('AllOrigins failed');
+  const xmlText = await res.text();
+  const xml = new DOMParser().parseFromString(xmlText, 'text/xml');
+  const nodes = Array.from(xml.querySelectorAll('item, entry')).slice(0, 3);
+  return nodes.map(node => normalizeFeedItem({
+    title: node.querySelector('title')?.textContent || '',
+    description: node.querySelector('description, summary, content')?.textContent || '',
+    link: node.querySelector('link')?.getAttribute('href') || node.querySelector('link')?.textContent || '',
+    pubDate: node.querySelector('pubDate, published, updated')?.textContent || ''
+  }, source.name));
+}
+
 async function loadNews() {
   const container = document.getElementById('news-container');
-  
   try {
-    // First, try to load from the pre-generated rss-feed.json (updated hourly by GitHub Action)
     let allItems = [];
-    try {
-      const res = await fetch('./rss-feed.json?t=' + Date.now());
-      if (res.ok) {
-        const data = await res.json();
-        if (data.items && data.items.length > 0) {
-          allItems = data.items.slice(0, 9).map(item => ({
-            source: item.source,
-            title: item.title,
-            summary: item.summary,
-            link: item.link,
-            time: new Date(item.isoDate).toLocaleString('en-GB', {day:'numeric', month:'short'}),
-            tag: 'AI'
-          }));
-        }
-      }
-    } catch(_) {}
 
-    if (allItems.length > 0) {
-      renderNews(allItems);
-    } else {
-      // Fallback: try client-side allorigins proxy
-      const promises = NEWS_SOURCES.map(src =>
-        fetch('https://api.allorigins.win/get?url='+encodeURIComponent(src.rss))
-          .then(r=>r.json())
-          .then(d=>{
-            const p=new DOMParser(),
-                  x=p.parseFromString(d.contents,'text/xml'),
-                  its=Array.from(x.querySelectorAll('item')).slice(0,3).map(i=>({
-                    source: src.name,
-                    title: i.querySelector('title')?.textContent||'',
-                    summary: (i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').substring(0,120)+'…',
-                    link: i.querySelector('link')?.textContent||'',
-                    time: new Date(i.querySelector('pubDate')?.textContent||'').toLocaleString('en-GB',{day:'numeric',month:'short'}),
-                    tag: 'AI'
-                  }));
-            return its;
-          })
-          .catch(()=>[])
-      );
-      const settled = await Promise.allSettled(promises);
-      const proxyItems = [];
-      settled.forEach(r => { if (r.status==='fulfilled') proxyItems.push(...r.value); });
-      renderNews(proxyItems.length > 0 ? proxyItems.slice(0,9) : FALLBACK_NEWS);
+    try {
+      allItems = await fetchLocalFeed();
+    } catch (_) {
+      const rss2jsonResults = await Promise.allSettled(NEWS_SOURCES.map(fetchViaRss2Json));
+      rss2jsonResults.forEach(result => {
+        if (result.status === 'fulfilled') allItems.push(...result.value);
+      });
+
+      if (allItems.length === 0) {
+        const allOriginsResults = await Promise.allSettled(NEWS_SOURCES.map(fetchViaAllOrigins));
+        allOriginsResults.forEach(result => {
+          if (result.status === 'fulfilled') allItems.push(...result.value);
+        });
+      }
     }
-  } catch(e) {
+
+    const validItems = allItems
+      .filter(item => item.title && item.summary)
+      .sort((a, b) => new Date(b.isoDate || 0) - new Date(a.isoDate || 0))
+      .slice(0, 9);
+
+    renderNews(validItems.length ? validItems : FALLBACK_NEWS);
+  } catch (error) {
+    container.innerHTML = '';
     renderNews(FALLBACK_NEWS);
   }
 }
 
 function renderNews(items) {
   const container = document.getElementById('news-container');
-  container.innerHTML = '<div class="news-grid">' + items.map(item => `
-    <div class="news-card" ${item.link ? 'onclick="window.open(\''+item.link+'\',\'_blank\')" style="cursor:pointer"' : ''}>
-      <div class="news-source">${item.source}</div>
-      <h3>${item.title}</h3>
-      <p>${item.summary}</p>
-      <div class="news-meta">${item.time} <span>${item.tag}</span></div>
-    </div>
-  `).join('') + '</div>';
+  container.innerHTML = '<div class="news-grid">' + items.map(item => {
+    const link = item.link ? escapeHTML(item.link) : '';
+    return `
+      <article class="news-card" ${link ? `onclick="window.open('${link}','_blank','noopener,noreferrer')" style="cursor:pointer" tabindex="0" role="link"` : ''}>
+        <div class="news-source">${escapeHTML(item.source)}</div>
+        <h3>${escapeHTML(item.title)}</h3>
+        <p>${escapeHTML(item.summary)}</p>
+        <div class="news-meta">${escapeHTML(item.time)} <span>${escapeHTML(item.tag)}</span></div>
+      </article>
+    `;
+  }).join('') + '</div>';
 }
 
 // ── NEWSLETTER ────────────────────────────────────────────
-function handleSubscribe(e) {
-    if (e) e.preventDefault();
-    const email = document.getElementById('email-input').value;
-    const msg = document.getElementById('newsletter-msg');
-    if (!email || !email.includes('@')) {
-          msg.textContent = 'Please enter a valid email address.';
-          msg.style.color = '#f87171';
-          return;
-    }
-    const btn = document.querySelector('.newsletter-form button');
-    btn.disabled = true;
-    btn.textContent = 'Subscribing\u2026';
-    fetch('https://formspree.io/f/xojovwgr', {
-          method: 'POST',
-          headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
-          body: JSON.stringify({email: email})
-    })
-    .then(r => r.json())
-    .then(data => {
-          if (data.ok) {
-                  msg.textContent = '\uD83C\uDF89 You\'re on the list! Check your inbox for a welcome email.';
-                  msg.style.color = '#a855f7';
-                  document.getElementById('email-input').value = '';
-          } else {
-                  throw new Error(data.error || 'Submission failed');
-          }
-    })
-    .catch(() => {
-          msg.textContent = '\u26A0\uFE0F Something went wrong. Please try again.';
-          msg.style.color = '#f87171';
-    })
-    .finally(() => {
-          btn.disabled = false;
-          btn.textContent = 'Subscribe Free';
+async function handleSubscribe(e) {
+  if (e) e.preventDefault();
+
+  const form = document.getElementById('newsletter-form');
+  const emailInput = document.getElementById('email-input');
+  const msg = document.getElementById('newsletter-msg');
+  const btn = form.querySelector('button[type="submit"]');
+  const email = emailInput.value.trim();
+
+  if (!emailInput.checkValidity()) {
+    msg.textContent = 'Please enter a valid email address.';
+    msg.style.color = '#f87171';
+    emailInput.focus();
+    return;
+  }
+
+  btn.disabled = true;
+  btn.textContent = 'Subscribing…';
+  msg.textContent = '';
+
+  try {
+    const formData = new FormData(form);
+    formData.set('email', email);
+
+    const response = await fetch(form.action, {
+      method: 'POST',
+      headers: { 'Accept': 'application/json' },
+      body: formData
     });
+
+    let data = {};
+    try { data = await response.json(); } catch (_) {}
+
+    if (!response.ok || data.error || (data.errors && data.errors.length)) {
+      const errorMessage = data.error || data.errors?.[0]?.message || 'Subscription failed';
+      throw new Error(errorMessage);
+    }
+
+    msg.textContent = '🎉 You\'re on the list! Check your inbox for a welcome email.';
+    msg.style.color = '#a855f7';
+    form.reset();
+  } catch (error) {
+    msg.textContent = '⚠️ Something went wrong. Please try again or email us directly.';
+    msg.style.color = '#f87171';
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Subscribe Free';
+  }
 }
 
 // ── SMOOTH SCROLL ─────────────────────────────────────────
