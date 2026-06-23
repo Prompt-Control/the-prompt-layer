@@ -415,7 +415,7 @@ function handleSubscribe() {
     const btn = document.querySelector('.newsletter-form .btn-primary');
     btn.disabled = true;
     btn.textContent = 'Subscribing\u2026';
-    fetch('https://formspree.io/f/REPLACE_WITH_YOUR_FORMSPREE_ID', {
+    fetch('https://formspree.io/f/xojovwgr', {
           method: 'POST',
           headers: {'Content-Type': 'application/json', 'Accept': 'application/json'},
           body: JSON.stringify({email: email})
