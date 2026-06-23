@@ -299,10 +299,10 @@ footer{background:var(--bg);border-top:1px solid var(--border);padding:3rem 2rem
       <span class="section-label">Stay Sharp</span>
       <h2 class="section-title">Never Miss an <span class="grad">AI Breakthrough</span></h2>
       <p style="color:var(--muted);margin-bottom:.5rem">Get weekly AI tips, tool reviews, and curated news straight to your inbox. No spam. Unsubscribe anytime.</p>
-      <div class="newsletter-form">
-        <input type="email" id="email-input" placeholder="your@email.com">
-        <button class="btn-primary" onclick="handleSubscribe()">Subscribe Free</button>
-      </div>
+      <form class="newsletter-form" onsubmit="handleSubscribe(event)">
+        <input type="email" id="email-input" placeholder="your@email.com" name="email" required>
+        <button type="submit" class="btn-primary">Subscribe Free</button>
+      </form>
       <div class="newsletter-msg" id="newsletter-msg"></div>
     </div>
   </div>
@@ -358,33 +358,51 @@ async function loadNews() {
   const container = document.getElementById('news-container');
   
   try {
-    // Try to fetch from RSS2JSON API
-    const promises = NEWS_SOURCES.map(src => 
-      fetch('https://api.allorigins.win/get?url='+encodeURIComponent(src.rss)).then(r=>r.json()).then(d=>{const p=new DOMParser(),x=p.parseFromString(d.contents,'text/xml'),its=Array.from(x.querySelectorAll('item')).slice(0,3).map(i=>({title:i.querySelector('title')?.textContent||'',link:i.querySelector('link')?.textContent||'',description:(i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').substring(0,120)+'…',pubDate:i.querySelector('pubDate')?.textContent||''}));return{items:its,sourceName:src.name};}).catch(()=>null)
-    );
-    
-    const results = await Promise.allSettled(promises);
-    const allItems = [];
-    
-    results.forEach((result, i) => {
-      if (result.status === 'fulfilled' && result.value && result.value.items) {
-        result.value.items.slice(0, 3).forEach(item => {
-          allItems.push({
-            source: NEWS_SOURCES[i].name,
+    // First, try to load from the pre-generated rss-feed.json (updated hourly by GitHub Action)
+    let allItems = [];
+    try {
+      const res = await fetch('./rss-feed.json?t=' + Date.now());
+      if (res.ok) {
+        const data = await res.json();
+        if (data.items && data.items.length > 0) {
+          allItems = data.items.slice(0, 9).map(item => ({
+            source: item.source,
             title: item.title,
-            summary: item.description ? item.description.replace(/<[^>]+>/g, '').substring(0, 120) + '…' : '',
+            summary: item.summary,
             link: item.link,
-            time: new Date(item.pubDate).toLocaleDateString('en-GB', {day:'numeric', month:'short'}),
+            time: new Date(item.isoDate).toLocaleString('en-GB', {day:'numeric', month:'short'}),
             tag: 'AI'
-          });
-        });
+          }));
+        }
       }
-    });
-    
+    } catch(_) {}
+
     if (allItems.length > 0) {
-      renderNews(allItems.slice(0, 9));
+      renderNews(allItems);
     } else {
-      renderNews(FALLBACK_NEWS);
+      // Fallback: try client-side allorigins proxy
+      const promises = NEWS_SOURCES.map(src =>
+        fetch('https://api.allorigins.win/get?url='+encodeURIComponent(src.rss))
+          .then(r=>r.json())
+          .then(d=>{
+            const p=new DOMParser(),
+                  x=p.parseFromString(d.contents,'text/xml'),
+                  its=Array.from(x.querySelectorAll('item')).slice(0,3).map(i=>({
+                    source: src.name,
+                    title: i.querySelector('title')?.textContent||'',
+                    summary: (i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').substring(0,120)+'…',
+                    link: i.querySelector('link')?.textContent||'',
+                    time: new Date(i.querySelector('pubDate')?.textContent||'').toLocaleString('en-GB',{day:'numeric',month:'short'}),
+                    tag: 'AI'
+                  }));
+            return its;
+          })
+          .catch(()=>[])
+      );
+      const settled = await Promise.allSettled(promises);
+      const proxyItems = [];
+      settled.forEach(r => { if (r.status==='fulfilled') proxyItems.push(...r.value); });
+      renderNews(proxyItems.length > 0 ? proxyItems.slice(0,9) : FALLBACK_NEWS);
     }
   } catch(e) {
     renderNews(FALLBACK_NEWS);
@@ -404,7 +422,8 @@ function renderNews(items) {
 }
 
 // ── NEWSLETTER ────────────────────────────────────────────
-function handleSubscribe() {
+function handleSubscribe(e) {
+    if (e) e.preventDefault();
     const email = document.getElementById('email-input').value;
     const msg = document.getElementById('newsletter-msg');
     if (!email || !email.includes('@')) {
@@ -412,7 +431,7 @@ function handleSubscribe() {
           msg.style.color = '#f87171';
           return;
     }
-    const btn = document.querySelector('.newsletter-form .btn-primary');
+    const btn = document.querySelector('.newsletter-form button');
     btn.disabled = true;
     btn.textContent = 'Subscribing\u2026';
     fetch('https://formspree.io/f/xojovwgr', {
