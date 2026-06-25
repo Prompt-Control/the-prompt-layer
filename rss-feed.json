@@ -1,47 +1,54 @@
 {
-  "generated": "2026-06-25T10:23:49.942Z",
+  "generated": "2026-06-25T18:35:16.115Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows....",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "isoDate": "2026-06-25T17:38:27.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop some...",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "isoDate": "2026-06-25T16:55:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "summary": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems....",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "isoDate": "2026-06-25T16:48:11.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go l...",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "isoDate": "2026-06-25T14:55:38.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
+      "summary": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 ...",
+      "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
+      "isoDate": "2026-06-25T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
+      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challen...",
+      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "isoDate": "2026-06-25T12:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Facebook’s Creator Studio has been revived as an AI companion app",
       "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back ...",
       "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
       "isoDate": "2026-06-25T09:06:19.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Europe is pushing back on Washington’s chip war",
-      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first...",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "isoDate": "2026-06-25T00:08:36.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI....",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "isoDate": "2026-06-24T23:26:52.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
-      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors....",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "isoDate": "2026-06-24T22:41:41.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
-      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data....",
-      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
-      "isoDate": "2026-06-24T21:56:41.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI researchers continue to leave Google for its rivals",
-      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer...",
-      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
-      "isoDate": "2026-06-24T21:42:07.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas f...",
       "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
       "isoDate": "2026-06-24T16:15:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI reveals its first AI processor: Jalapeño",
-      "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "isoDate": "2026-06-24T14:36:47.000Z"
     },
     {
       "source": "VentureBeat AI",
