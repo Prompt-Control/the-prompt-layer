@@ -1,6 +1,55 @@
 {
-  "generated": "2026-06-24T17:33:30.573Z",
+  "generated": "2026-06-25T10:23:49.942Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
+      "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back ...",
+      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "isoDate": "2026-06-25T09:06:19.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Europe is pushing back on Washington’s chip war",
+      "summary": "As ASML CEO Christophe Fouquet told TechCrunch in May, what China can currently buy are older-generation deep ultraviolet tools — gear first...",
+      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "isoDate": "2026-06-25T00:08:36.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
+      "summary": "Backed by Mayfield and Aramco Ventures, Vishal Sikka’s new venture brings together veterans from SAP, Infosys, and VianAI....",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "isoDate": "2026-06-24T23:26:52.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
+      "summary": "In its first earnings report since going public, the AI chipmaker forecast a narrower gross margin in its core business, scaring investors....",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "isoDate": "2026-06-24T22:41:41.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+      "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data....",
+      "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+      "isoDate": "2026-06-24T21:56:41.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI researchers continue to leave Google for its rivals",
+      "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer...",
+      "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+      "isoDate": "2026-06-24T21:42:07.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Congresswoman denies staff used AI to write defense funding amendment",
+      "summary": "Rep. Anna Paulina Luna (R-FL) says her staff used AI for \"spellcheck\" in an amendment summary for  a major defense bill, but denies it was u...",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "isoDate": "2026-06-24T19:36:46.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "The $27 million Al proxy war over Alex Bores ends in a draw",
@@ -9,39 +58,11 @@
       "isoDate": "2026-06-24T17:25:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Facebook rolls out an AI companion app for creators",
-      "summary": "The new app, which is currently being tested with select creators, will have Facebook's recently-launched AI creator assistant built into it...",
-      "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
-      "isoDate": "2026-06-24T17:16:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
-      "summary": "Agility Robotics, the humanoid robotics startup that spun out of Oregon State University in 2015, expects to generate $620 million in procee...",
-      "link": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
-      "isoDate": "2026-06-24T16:48:43.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Figma adds code layers, support for animations, more AI features in new update",
-      "summary": "Figma's update adds a new code layer, support for motion and shaders, and the ability to create custom plug-ins for various tasks using AI....",
-      "link": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
-      "isoDate": "2026-06-24T16:15:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Figma now has AI motion graphics and shader tools",
-      "summary": "Figma has unveiled some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas f...",
+      "summary": "Figma has revealed some new design and coding product updates at its annual Config conference that aim to help creatives \"push their ideas f...",
       "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
       "isoDate": "2026-06-24T16:15:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems....",
-      "link": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
-      "isoDate": "2026-06-24T14:54:46.000Z"
     },
     {
       "source": "The Verge AI",
@@ -49,27 +70,6 @@
       "summary": "OpenAI has just revealed a new \"intelligence processor\" chip for AI servers made in partnership with Broadcom. The chip, called Jalapeño, is...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
       "isoDate": "2026-06-24T14:36:47.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
-      "summary": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 ...",
-      "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
-      "isoDate": "2026-06-24T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The Google Home Speaker sounds good and looks great — but it’s finicky",
-      "summary": "The Speaker comes in four colors… but red is the way. | Photo: David Pierce / The Verge\t\n\nRight out of the box, the new Google Home Speaker ...",
-      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "isoDate": "2026-06-24T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google Home will soon get better at recognizing you",
-      "summary": "A new update for Google Home could make it less likely your smart home cameras mistake you for someone else, just because you're facing away...",
-      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "isoDate": "2026-06-23T22:28:19.000Z"
     },
     {
       "source": "VentureBeat AI",
