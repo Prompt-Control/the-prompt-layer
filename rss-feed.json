@@ -1,6 +1,20 @@
 {
-  "generated": "2026-06-26T21:56:01.629Z",
+  "generated": "2026-06-27T08:10:34.023Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "isoDate": "2026-06-27T01:01:37.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic&#8217;s Mythos 5 is back",
+      "summary": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "isoDate": "2026-06-27T00:33:44.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
@@ -44,13 +58,6 @@
       "isoDate": "2026-06-26T14:07:03.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice ...",
-      "link": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "isoDate": "2026-06-26T14:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI will delay GPT-5.6 after Trump administration request",
       "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-tick...",
@@ -63,13 +70,6 @@
       "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challen...",
       "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
       "isoDate": "2026-06-25T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "summary": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t\n\nMeta is bringing back ...",
-      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "isoDate": "2026-06-25T09:06:19.000Z"
     },
     {
       "source": "VentureBeat AI",
