@@ -1,9 +1,51 @@
 {
-  "generated": "2026-06-27T13:00:26.080Z",
+  "generated": "2026-06-27T21:42:33.033Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "isoDate": "2026-06-27T20:42:36.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
+      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "isoDate": "2026-06-27T18:39:32.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team....",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "isoDate": "2026-06-27T16:45:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal ent...",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "isoDate": "2026-06-27T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro sa...",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "isoDate": "2026-06-27T13:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this en...",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "isoDate": "2026-06-27T12:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
       "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees....",
       "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "isoDate": "2026-06-27T01:01:37.000Z"
@@ -16,27 +58,6 @@
       "isoDate": "2026-06-27T00:33:44.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from us...",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "isoDate": "2026-06-26T18:32:14.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "summary": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring....",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "isoDate": "2026-06-26T18:19:36.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice ...",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "isoDate": "2026-06-26T17:43:22.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
       "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model,...",
@@ -44,32 +65,11 @@
       "isoDate": "2026-06-26T17:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will requi...",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "isoDate": "2026-06-26T16:24:47.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic&#8217;s Mythos mess is only getting worse",
       "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
       "isoDate": "2026-06-26T14:07:03.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
-      "summary": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-tick...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
-      "isoDate": "2026-06-25T21:57:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-      "summary": "To celebrate its new status as No. 1 in JD Power's initial quality ranking among mainstream automakers, Ford is opening up about the challen...",
-      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "isoDate": "2026-06-25T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
