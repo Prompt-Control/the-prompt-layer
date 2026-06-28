@@ -1,6 +1,13 @@
 {
-  "generated": "2026-06-28T08:35:37.373Z",
+  "generated": "2026-06-28T14:59:13.944Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "isoDate": "2026-06-28T14:12:06.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
@@ -63,13 +70,6 @@
       "summary": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model,...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "isoDate": "2026-06-26T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic&#8217;s Mythos mess is only getting worse",
-      "summary": "It's been two weeks since Anthropic took its Mythos-class models offline after a Friday evening ultimatum from the Trump administration. The...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "isoDate": "2026-06-26T14:07:03.000Z"
     },
     {
       "source": "VentureBeat AI",
