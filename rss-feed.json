@@ -1,19 +1,61 @@
 {
-  "generated": "2026-06-29T14:36:45.335Z",
+  "generated": "2026-06-29T21:01:00.294Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "The startup, Proception, is taking a unique approach to collecting training data to tackle one of the hardest problems in robotics: hands....",
-      "link": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
-      "isoDate": "2026-06-29T14:00:08.000Z"
+      "title": "Gemini’s personalized AI image generation is now free for US users",
+      "summary": "Google is expanding Gemini’s personalized AI image generation to eligible free users in the U.S., allowing the chatbot to create images base...",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "isoDate": "2026-06-29T20:12:59.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Ins...",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "isoDate": "2026-06-29T19:47:35.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI is teasing new hardware… for Codex",
+      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "isoDate": "2026-06-29T18:52:03.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Omen AI’s plan to optimize data centers is all wet",
-      "summary": "Omen AI raised a $31 million Series A to monitor chip coolant and stop bacterial outbreaks in data centers....",
-      "link": "https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/",
-      "isoDate": "2026-06-29T13:00:00.000Z"
+      "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+      "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival....",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "isoDate": "2026-06-29T18:10:26.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+      "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse cou...",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "isoDate": "2026-06-29T18:07:48.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+      "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September....",
+      "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "isoDate": "2026-06-29T17:39:17.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+      "summary": "Cursor has launched a new mobile app for remote oversight over coding agents....",
+      "link": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+      "isoDate": "2026-06-29T17:03:50.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Lawmakers want to ban AI companies from selling your health data",
+      "summary": "A new proposal would ban the sale of Americans' health and location information to data brokers - including information people reveal to an ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "isoDate": "2026-06-29T16:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -28,48 +70,6 @@
       "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Sp...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
       "isoDate": "2026-06-28T20:27:36.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
-      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”...",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "isoDate": "2026-06-28T19:05:39.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
-      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron...",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "isoDate": "2026-06-28T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
-      "summary": "Jonathan Rinderknecht was facing arson charges for setting a fire on New Year's Day in 2025, which became one of the deadliest wildfires in ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "isoDate": "2026-06-28T14:12:06.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers....",
-      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "isoDate": "2026-06-27T20:42:36.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
-      "summary": "Margaret Atwood onstage at Detroit Opera House on January 26, 2026 | Photo: Monica Morgan/Getty Images\t\n\nMaraget Atwood, the storied author ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "isoDate": "2026-06-27T18:39:32.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Tim Cook recently said price increases were \"unavoidable\" and described the company's pricing as \"unsustainable.\" The 16-inch MacBook Pro sa...",
-      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "isoDate": "2026-06-27T13:30:00.000Z"
     },
     {
       "source": "VentureBeat AI",
