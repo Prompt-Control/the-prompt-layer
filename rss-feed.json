@@ -1,6 +1,48 @@
 {
-  "generated": "2026-06-30T17:29:47.422Z",
+  "generated": "2026-06-30T22:53:02.377Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenClaw is finally available on Android and iOS",
+      "summary": "The free open source agentic program is finally invading your phone....",
+      "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+      "isoDate": "2026-06-30T21:53:28.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+      "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million....",
+      "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+      "isoDate": "2026-06-30T20:33:48.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra...",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "isoDate": "2026-06-30T19:24:51.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content....",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "isoDate": "2026-06-30T19:02:38.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip....",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "isoDate": "2026-06-30T18:13:02.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alt...",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "isoDate": "2026-06-30T18:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
@@ -9,46 +51,11 @@
       "isoDate": "2026-06-30T17:19:15.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
-      "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to b...",
-      "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
-      "isoDate": "2026-06-30T17:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Libby will filter out AI content, kind of",
       "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge ...",
       "link": "https://www.theverge.com/column/959433/libby-ai-filter",
       "isoDate": "2026-06-30T15:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "X now offers an MCP server to make its platform easier for AI tools to use",
-      "summary": "X has launched a hosted MCP server, making it easier for developers to connect AI applications with the company’s API....",
-      "link": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
-      "isoDate": "2026-06-30T15:08:42.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Podcasting platform Riverside enters the newsletter publishing game",
-      "summary": "Users will be able use AI to create newsletters based on their recordings....",
-      "link": "https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/",
-      "isoDate": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-      "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-suffici...",
-      "link": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-      "isoDate": "2026-06-30T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Lumo, Proton’s privacy-focused AI chatbot, gets an upgrade",
-      "summary": "Proton's Lumo 2.0 is dropping this week, giving users a broader variety of capabilities....",
-      "link": "https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/",
-      "isoDate": "2026-06-30T14:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Ins...",
       "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
       "isoDate": "2026-06-29T19:47:35.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAI is releasing some sort of device related to its AI-powered coding tool, Codex, on July 15th. In a video posted to X on Monday, OpenAI...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "isoDate": "2026-06-29T18:52:03.000Z"
     },
     {
       "source": "VentureBeat AI",
