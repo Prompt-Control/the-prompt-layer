@@ -1,6 +1,34 @@
 {
-  "generated": "2026-06-30T22:53:02.377Z",
+  "generated": "2026-07-01T10:58:17.740Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "The ‘Father of the Internet’ is finally retiring",
+      "summary": "Vinton Cerf, one of the creators of the protocols underlying the internet, will step down as Google's chief internet evangelist next week....",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "isoDate": "2026-07-01T03:15:37.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump drops restrictions on Anthropic’s Mythos and Fable models",
+      "summary": "The Trump administration's erratic approach to AI policymaking has left companies across the industry with little clarity about what will go...",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "isoDate": "2026-07-01T02:16:06.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+      "summary": "Wayve’s offering is part of a growing trend of AI startups using employee tenders as a strategic tool to attract and retain talent....",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "isoDate": "2026-07-01T02:04:40.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic&#8217;s long-sidelined Fable 5 is greenlit to return",
+      "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a po...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "isoDate": "2026-07-01T00:03:55.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenClaw is finally available on Android and iOS",
@@ -23,27 +51,6 @@
       "isoDate": "2026-06-30T19:24:51.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-      "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content....",
-      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-      "isoDate": "2026-06-30T19:02:38.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-      "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip....",
-      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-      "isoDate": "2026-06-30T18:13:02.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-      "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alt...",
-      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-      "isoDate": "2026-06-30T18:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
       "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality s...",
@@ -63,13 +70,6 @@
       "summary": "“After college, my plan was to come to New York and get a record deal.” | Cath Virginia / The Verge, Getty Images\t\n\nWatching Elon Musk fulmi...",
       "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
       "isoDate": "2026-06-30T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Ins...",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "isoDate": "2026-06-29T19:47:35.000Z"
     },
     {
       "source": "VentureBeat AI",
