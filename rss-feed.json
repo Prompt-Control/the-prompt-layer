@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-02T10:16:04.420Z",
+  "generated": "2026-07-02T17:13:22.103Z",
   "items": [
     {
       "source": "TechCrunch AI",
+      "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+      "summary": "OpenAI CEO Sam Altman has reportedly proposed giving 5% of the company’s equity to a U.S. sovereign wealth fund, reviving discussions about ...",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "isoDate": "2026-07-02T15:20:51.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+      "summary": "Microsoft follows Amazon, OpenAI, and Anthropic with its new AI deployment group....",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "isoDate": "2026-07-02T13:53:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Yep, we’re using OpenClaw to date now",
+      "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, a...",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "isoDate": "2026-07-02T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
+      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunti...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "isoDate": "2026-07-02T10:23:27.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps ...",
+      "summary": "Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office and Google Ap...",
       "link": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
       "isoDate": "2026-07-02T05:30:00.000Z"
     },
@@ -14,27 +42,6 @@
       "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wi...",
       "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
       "isoDate": "2026-07-01T18:54:18.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
-      "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing...",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "isoDate": "2026-07-01T18:47:22.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
-      "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or...",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "isoDate": "2026-07-01T17:48:37.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-      "summary": "Venice AI is already profitable, with annualized run-rate revenues of over $70 million, CEO Erik Voorhees said....",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "isoDate": "2026-07-01T14:25:23.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality s...",
       "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
       "isoDate": "2026-06-30T17:19:15.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Libby will filter out AI content, kind of",
-      "summary": "This is Lowpass by Janko Roettgers, a newsletter on the ever-evolving intersection of tech and entertainment, syndicated just for The Verge ...",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "isoDate": "2026-06-30T15:30:00.000Z"
     },
     {
       "source": "VentureBeat AI",
