@@ -1,6 +1,20 @@
 {
-  "generated": "2026-07-03T09:44:40.439Z",
+  "generated": "2026-07-03T16:05:42.661Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "isoDate": "2026-07-03T13:56:52.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "isoDate": "2026-07-03T11:49:10.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
@@ -56,20 +70,6 @@
       "summary": "After weeks of negotiating with the Trump administration, Anthropic is finally going to be able to bring Claude Fable 5 back online. In a po...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
       "isoDate": "2026-07-01T00:03:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
-      "summary": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra...",
-      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "isoDate": "2026-06-30T19:24:51.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-      "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality s...",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "isoDate": "2026-06-30T17:19:15.000Z"
     },
     {
       "source": "VentureBeat AI",
