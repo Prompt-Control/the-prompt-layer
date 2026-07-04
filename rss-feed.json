@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-04T15:45:54.170Z",
+  "generated": "2026-07-04T20:14:05.245Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI th...",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "isoDate": "2026-07-04T18:00:05.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software....",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "isoDate": "2026-07-04T16:32:08.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put fr...",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "isoDate": "2026-07-04T15:51:32.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "The fanfiction community is at war with AI — and itself",
@@ -35,27 +56,6 @@
       "summary": "A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "isoDate": "2026-07-03T11:49:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated....",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "isoDate": "2026-07-02T23:38:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
-      "summary": "Just for kicks, I took a look at Jersey Mike's IPO documents. Surely a sandwich shop would have no need to mention AI. But lo and behold....",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "isoDate": "2026-07-02T20:11:59.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta quietly launches vibe-coded gaming app Pocket",
-      "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts....",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "isoDate": "2026-07-02T18:44:02.000Z"
     },
     {
       "source": "The Verge AI",
