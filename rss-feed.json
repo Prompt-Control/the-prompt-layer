@@ -1,6 +1,41 @@
 {
-  "generated": "2026-07-07T19:15:45.930Z",
+  "generated": "2026-07-07T23:30:35.418Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta rolls out Muse, a new AI image generator",
+      "summary": "The new image-generating model has numerous use cases, including advertising, decorating and creator-based opportunities....",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "isoDate": "2026-07-07T22:18:10.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
+      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image...",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "isoDate": "2026-07-07T20:31:58.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+      "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cyc...",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "isoDate": "2026-07-07T20:04:32.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+      "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending....",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "isoDate": "2026-07-07T19:58:20.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+      "summary": "The company confirmed that the issue had been affecting accounts since May, with an additional 200 users banned over the weekend before its ...",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "isoDate": "2026-07-07T19:28:38.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Anthropic is launching Claude Cowork on mobile and web",
@@ -23,34 +58,6 @@
       "isoDate": "2026-07-07T13:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday....",
-      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-      "isoDate": "2026-07-07T12:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine....",
-      "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
-      "isoDate": "2026-07-07T09:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The ‘first’ AI-run ransomware attack still needed a human",
-      "summary": "An AI agent carried out the technical execution of a real-world ransomware attack for the first known time, but new details show a human sti...",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "isoDate": "2026-07-06T23:56:14.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
-      "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday....",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "isoDate": "2026-07-06T23:21:03.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "I spy",
       "summary": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has sim...",
@@ -63,13 +70,6 @@
       "summary": "Satya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\t\n\nA year after cutting around 9,100 employees, Mic...",
       "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
       "isoDate": "2026-07-06T13:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Some of the nation’s rich are letting AI teach their kids",
-      "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI mus...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "isoDate": "2026-07-05T22:30:54.000Z"
     },
     {
       "source": "VentureBeat AI",
