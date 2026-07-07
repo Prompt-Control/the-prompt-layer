@@ -1,10 +1,38 @@
 {
-  "generated": "2026-07-07T11:20:47.366Z",
+  "generated": "2026-07-07T19:15:45.930Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolli...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "isoDate": "2026-07-07T17:46:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork expands to mobile and web",
+      "summary": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if...",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "isoDate": "2026-07-07T16:27:18.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
+      "summary": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version o...",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "isoDate": "2026-07-07T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Savi’s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+      "summary": "The company just raised $7 million in seed funding, and is launching its app for iPhone and Android on Tuesday....",
+      "link": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+      "isoDate": "2026-07-07T12:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "The first American autonomous ground vehicles are fighting in Ukraine",
-      "summary": "Forterra has deployed more than 100...",
+      "summary": "Forterra has deployed more than 100 of its self-driving ATVs in conflict zones in Ukraine....",
       "link": "https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/",
       "isoDate": "2026-07-07T09:00:00.000Z"
     },
@@ -21,20 +49,6 @@
       "summary": "SK Hynix is experiencing a boom credited to AI. It will ride that to a multibillion-dollar U.S. IPO, expected to take place on Friday....",
       "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
       "isoDate": "2026-07-06T23:21:03.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
-      "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch....",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "isoDate": "2026-07-06T19:49:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
-      "summary": "The update is part of Apple's broader effort to make Siri feel more natural and personal, as it rebuilds the assistant around generative AI....",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "isoDate": "2026-07-06T19:01:59.000Z"
     },
     {
       "source": "The Verge AI",
@@ -56,20 +70,6 @@
       "summary": "Most Americans don't trust AI. It's proven that it doesn't know what safe toppings for pizza are. People don't even want to listen to AI mus...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
       "isoDate": "2026-07-05T22:30:54.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
-      "summary": "I call BS: the founding fathers definitely would have been Microsoft Teams users. | Image: Google\t\n\n\"Group project, but make it 1776.\" That'...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "isoDate": "2026-07-05T14:23:11.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t\n\n...",
-      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "isoDate": "2026-07-04T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
