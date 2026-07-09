@@ -1,75 +1,75 @@
 {
-  "generated": "2026-07-08T20:46:28.020Z",
+  "generated": "2026-07-09T17:25:42.527Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
-      "summary": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme d...",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "isoDate": "2026-07-08T20:37:03.000Z"
+      "title": "Meta’s new AI chips will begin production in September",
+      "summary": "In its bid to spend less on GPUs from providers like Nvidia, Meta is on track to start making its the latest versions of its AI-specific chi...",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "isoDate": "2026-07-09T17:17:37.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
-      "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful...",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "isoDate": "2026-07-08T19:30:16.000Z"
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "summary": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler techno...",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "isoDate": "2026-07-09T17:06:11.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "summary": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using ...",
+      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "isoDate": "2026-07-09T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI rolls out GPT-5.6 after government green light — and announces ‘ChatGPT Work’",
+      "summary": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"li...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "isoDate": "2026-07-09T17:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "This startup thinks robotics is about to have its ChatGPT moment",
-      "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build...",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "isoDate": "2026-07-08T19:19:15.000Z"
+      "title": "Anthropic’s new Claude feature is quietly selling you on AI",
+      "summary": "Claude’s new Reflect dashboard doesn’t just visualize how you use AI. It also subtly reinforces how much of your daily work now depends on A...",
+      "link": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+      "isoDate": "2026-07-09T14:53:09.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Google Photos adds a new AI ‘Video Remix’ tool",
-      "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add ...",
-      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "isoDate": "2026-07-08T18:30:08.000Z"
+      "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
+      "summary": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000....",
+      "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
+      "isoDate": "2026-07-09T14:51:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "summary": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new mo...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "isoDate": "2026-07-09T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Say hello to Claude Wrapped",
+      "summary": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookba...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "isoDate": "2026-07-09T13:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "summary": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. To...",
+      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "isoDate": "2026-07-09T13:11:53.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Why this CEO thinks video games make better training data than the internet",
-      "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just don’t have what it takes. Models like ChatGPT a...",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "isoDate": "2026-07-08T17:47:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "summary": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is des...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "isoDate": "2026-07-08T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta’s new Muse Image model can pull other Instagram users into AI photos",
-      "summary": "Meta is launching the first AI image generation model made by its Superintelligence Labs division. The Muse Image model now powers the image...",
-      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "isoDate": "2026-07-07T20:31:58.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic is launching Claude Cowork on mobile and web",
-      "summary": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolli...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "isoDate": "2026-07-07T17:46:59.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Solos debuts an even lighter version of its camera-less smart glasses",
-      "summary": "The AirGo A6 are available in multiple designs including several transparent color options. | Image: Solos\t\n\nSolos announced a new version o...",
-      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "isoDate": "2026-07-07T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "I spy",
-      "summary": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t\n\nI've long argued that Hollywood has sim...",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "isoDate": "2026-07-06T16:00:00.000Z"
+      "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+      "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs....",
+      "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+      "isoDate": "2026-07-09T13:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
