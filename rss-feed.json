@@ -1,10 +1,31 @@
 {
-  "generated": "2026-07-10T21:38:20.905Z",
+  "generated": "2026-07-11T06:25:24.183Z",
   "items": [
     {
       "source": "TechCrunch AI",
+      "title": "Meta removes controversial AI feature on Instagram after backlash",
+      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this w...",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "isoDate": "2026-07-10T23:55:07.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content fr...",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "isoDate": "2026-07-10T23:49:50.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says ...",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "isoDate": "2026-07-10T21:36:51.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee....",
+      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
       "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
       "isoDate": "2026-07-10T21:00:29.000Z"
     },
@@ -44,32 +65,11 @@
       "isoDate": "2026-07-10T13:20:25.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI says GPT 5.6 is the ‘preferred model’ for Microsoft Copilot 365 amid breakup chatter",
-      "summary": "OpenAI's new family of models will continue to power Microsoft's suite of workplace and productivity apps....",
-      "link": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-      "isoDate": "2026-07-10T00:16:54.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
       "summary": "Microsoft may once again be struggling to keep up with its own climate goals, according to its 2026 sustainability report. As reported by Ge...",
       "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "isoDate": "2026-07-10T00:04:13.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Fidji Simo steps down from leading OpenAI’s AGI work due to illness",
-      "summary": "OpenAI's Fidji Simo is departing her full-time role as the company's AGI chief and is transitioning to being a \"part-time advisor,\" she said...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "isoDate": "2026-07-09T23:24:04.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The ChatGPT browser is already dead",
-      "summary": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "isoDate": "2026-07-09T20:34:05.000Z"
     },
     {
       "source": "VentureBeat AI",
