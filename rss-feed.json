@@ -1,10 +1,52 @@
 {
-  "generated": "2026-07-13T10:41:15.261Z",
+  "generated": "2026-07-13T18:05:02.090Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-ter...",
+      "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "isoDate": "2026-07-13T17:28:37.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The 6 wildest claims in Apple&#8217;s lawsuit against OpenAI",
+      "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: ...",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "isoDate": "2026-07-13T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "What does a world of total user-aligned AI actually look like?...",
+      "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "isoDate": "2026-07-13T16:31:23.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Claude users in India are starting to see Indian rupee-denominated subscription plans....",
+      "link": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "isoDate": "2026-07-13T15:34:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini acros...",
+      "link": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "isoDate": "2026-07-13T14:18:16.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users...",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "isoDate": "2026-07-13T09:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Real Cool F...",
+      "summary": "Lorde performing at the 2026 Governors Ball. | Photo: Siegfried Anthony/Billboard via Getty Images\t\n\nLorde was performing at the Mad Cool Fe...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
       "isoDate": "2026-07-12T20:10:19.000Z"
     },
@@ -28,48 +70,6 @@
       "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting....",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "isoDate": "2026-07-11T14:13:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "\"Our intent was to provide a useful creative tool and to give people control over whether their public content could be referenced in this w...",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "isoDate": "2026-07-10T23:55:07.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content fr...",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "isoDate": "2026-07-10T23:49:50.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says ...",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "isoDate": "2026-07-10T21:36:51.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple sues OpenAI over alleged trade secret theft",
-      "summary": "Apple alleges the misconduct was directed by OpenAI's senior leadership, including a longtime former employee....",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "isoDate": "2026-07-10T21:00:29.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-      "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent ...",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "isoDate": "2026-07-10T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
-      "summary": "The AI chip boom just produced its biggest Wall Street moment yet. Now SK Hynix and Samsung are being asked to build U.S. factories....",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "isoDate": "2026-07-10T17:17:12.000Z"
     },
     {
       "source": "VentureBeat AI",
