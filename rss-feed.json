@@ -1,40 +1,47 @@
 {
-  "generated": "2026-07-15T12:54:04.970Z",
+  "generated": "2026-07-15T16:59:29.155Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-      "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers....",
-      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-      "isoDate": "2026-07-15T12:00:00.000Z"
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's pro...",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "isoDate": "2026-07-15T16:20:18.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designe...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "isoDate": "2026-07-15T16:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-      "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild....",
-      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-      "isoDate": "2026-07-15T12:00:00.000Z"
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored dea...",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "isoDate": "2026-07-15T15:29:33.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "summary": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences....",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "isoDate": "2026-07-15T00:27:04.000Z"
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+      "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterpr...",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "isoDate": "2026-07-15T13:10:47.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "summary": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage....",
-      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "isoDate": "2026-07-14T23:10:02.000Z"
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming....",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "isoDate": "2026-07-15T13:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "summary": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail t...",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "isoDate": "2026-07-14T22:22:24.000Z"
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "summary": "Rime is handling over 100 million calls each month across multiple companies....",
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "isoDate": "2026-07-15T13:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Google is announcing a big change to the Google Images homepage in honor of the platform's 25th anniversary this week. Instead of a mostly b...",
       "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
       "isoDate": "2026-07-14T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Spotify is now an AI chatbot, too",
-      "summary": "This is what the “Talk to Spotify” chatbox (left) looks like on the homepage. | Image: Spotify\t\n\nSpotify is experimenting with a new AI feat...",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "isoDate": "2026-07-14T15:47:36.000Z"
     },
     {
       "source": "VentureBeat AI",
