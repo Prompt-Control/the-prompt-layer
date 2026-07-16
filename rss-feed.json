@@ -1,12 +1,61 @@
 {
-  "generated": "2026-07-16T00:11:20.683Z",
+  "generated": "2026-07-16T15:46:44.659Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
-      "summary": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models....",
-      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
-      "isoDate": "2026-07-15T23:59:44.000Z"
+      "title": "Yes, you can now order DoorDash from the command line",
+      "summary": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place o...",
+      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+      "isoDate": "2026-07-16T15:38:55.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why is OpenAI selling a ChatGPT basketball?",
+      "summary": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball....",
+      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+      "isoDate": "2026-07-16T15:31:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+      "summary": "Drawing on more than a decade spent helping build some of the world's most influential AI systems, including research that later informed th...",
+      "link": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+      "isoDate": "2026-07-16T15:02:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why AMI Labs’ Alexandre LeBrun won’t call his AI ‘AGI’ or ‘superintelligence’",
+      "summary": "While everyone in AI is chasing \"superintelligence,\" Alexandre LeBrun, CEO of Yann LeCun’s world model startup, AMI Labs, dismisses the word...",
+      "link": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+      "isoDate": "2026-07-16T14:40:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Moonshot’s upcoming Kimi 3 is expected to close the gap with Anthropic’s Opus 4.8",
+      "summary": "The FT reports Kimi K3 will be the largest open AI model from China, with a parameter count between 2 trillion and 3 trillion....",
+      "link": "https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/",
+      "isoDate": "2026-07-16T14:26:29.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Claude can now use your 1Password credentials for you",
+      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like use...",
+      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
+      "isoDate": "2026-07-16T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google ordered to open Android and Search to rivals in Europe",
+      "summary": "Google must give rival AI assistants and search engines greater access to key parts of Android and Google Search after the European Union or...",
+      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
+      "isoDate": "2026-07-16T12:06:51.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Computer cops",
+      "summary": "I stood before a hulking glass and brick structure in the heart of Fort Worth, Texas. Thousands gathered inside to see what had been billed ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
+      "isoDate": "2026-07-16T11:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -28,55 +77,6 @@
       "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of Th...",
       "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
       "isoDate": "2026-07-15T20:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-      "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designe...",
-      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-      "isoDate": "2026-07-15T19:41:38.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-      "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made be...",
-      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-      "isoDate": "2026-07-15T18:06:05.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-      "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view....",
-      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-      "isoDate": "2026-07-15T18:04:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "summary": "So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images\t\n\nSuno data obtained in a hacking incident...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "isoDate": "2026-07-15T17:48:01.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-      "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio....",
-      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-      "isoDate": "2026-07-15T17:00:34.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI finally launches hardware… for Codex",
-      "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designe...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
-      "isoDate": "2026-07-15T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "summary": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparen...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "isoDate": "2026-07-14T21:26:32.000Z"
     },
     {
       "source": "VentureBeat AI",
