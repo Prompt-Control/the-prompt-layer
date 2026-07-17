@@ -1,6 +1,34 @@
 {
-  "generated": "2026-07-17T20:15:55.329Z",
+  "generated": "2026-07-17T23:37:47.003Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+      "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day....",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "isoDate": "2026-07-17T22:55:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding....",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "isoDate": "2026-07-17T22:12:56.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?...",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "isoDate": "2026-07-17T21:20:47.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Agility Robotics plants its flag in Tesla’s backyard",
+      "summary": "Agility is opening a new training center for its Digit robots in Fremont, California....",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "isoDate": "2026-07-17T20:19:49.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "AI-driven memory crunch jolts India’s smartphone market",
@@ -16,39 +44,11 @@
       "isoDate": "2026-07-17T19:34:30.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct r...",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "isoDate": "2026-07-17T17:45:46.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple’s plot to crush OpenAI",
       "summary": "Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the alleg...",
       "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
       "isoDate": "2026-07-17T17:41:32.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
-      "summary": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content...",
-      "link": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "isoDate": "2026-07-17T15:21:17.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
-      "summary": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct r...",
-      "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
-      "isoDate": "2026-07-17T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
-      "summary": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals....",
-      "link": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "isoDate": "2026-07-17T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
