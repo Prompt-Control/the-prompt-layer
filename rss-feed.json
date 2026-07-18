@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-18T11:30:15.112Z",
+  "generated": "2026-07-18T18:39:43.807Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "The apps, gadgets, and tools every reader needs",
+      "summary": "Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your...",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "isoDate": "2026-07-18T12:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Neil Rimer thinks the AI money is coming back out",
@@ -91,13 +98,6 @@
       "summary": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will ...",
       "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
       "isoDate": "2026-07-16T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Claude can now use your 1Password credentials for you",
-      "summary": "1Password has launched a new browser integration for Claude that allows the Anthropic chatbot to access stored security credentials like use...",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "isoDate": "2026-07-16T13:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
