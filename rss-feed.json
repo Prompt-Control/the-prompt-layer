@@ -1,6 +1,48 @@
 {
-  "generated": "2026-07-21T16:05:56.755Z",
+  "generated": "2026-07-21T20:48:27.807Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+      "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation....",
+      "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+      "isoDate": "2026-07-21T19:43:41.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI and the rise of the universal entertainment app",
+      "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI m...",
+      "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+      "isoDate": "2026-07-21T19:39:30.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Substack adds an AI detector to help spot blogs written by no one",
+      "summary": "Substack will now help users determine whether what they're reading may have been written by AI. A new tool coming to the platform can scan ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "isoDate": "2026-07-21T19:22:28.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "summary": "New data centers built through 2033 could consume as much electricity as India uses today....",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "isoDate": "2026-07-21T18:06:38.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about ...",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "isoDate": "2026-07-21T17:11:50.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "summary": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI m...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "isoDate": "2026-07-21T16:53:37.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "US threatens sanctions against Chinese AI models over IP theft",
@@ -16,13 +58,6 @@
       "isoDate": "2026-07-21T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-      "summary": "Deezer said more than 90,000 AI-generated tracks were uploaded daily on the platform in June....",
-      "link": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-      "isoDate": "2026-07-21T13:27:42.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Halliday’s latest smart glasses feature a much-improved display",
       "summary": "I was not a fan of the original Halliday glasses. The Gen 2 are better. | Image: Halliday\t\n\nI first slipped on Halliday's original smart gla...",
@@ -35,41 +70,6 @@
       "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, Monday,...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
       "isoDate": "2026-07-21T11:08:56.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Gritt exits stealth with $32 million for robots to build solar plants — then, everything else",
-      "summary": "Gritt is coming out of stealth with $34 million and plans to automate the hardest tasks on construction sites....",
-      "link": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-      "isoDate": "2026-07-21T10:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "summary": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models....",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "isoDate": "2026-07-21T00:12:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trump’s latest AI czar has already resigned",
-      "summary": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as ...",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "isoDate": "2026-07-20T22:21:04.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Here are the 30,000 songs Sony is suing Udio&#8217;s AI music generator over",
-      "summary": "Sony Music Entertainment has filed another lawsuit against Udio, accusing the AI music generator of infringing the copyright of more than 30...",
-      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "isoDate": "2026-07-20T22:19:12.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "SpaceX in your index fund, explained",
-      "summary": "AUUUUUGH | Image: Cath Virginia / The Verge, Getty Images\t\n\nIndex funds are touted as one of the safest ways to invest. Rather than picking ...",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "isoDate": "2026-07-20T21:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
