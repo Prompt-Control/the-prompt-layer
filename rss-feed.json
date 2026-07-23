@@ -1,12 +1,33 @@
 {
-  "generated": "2026-07-23T12:16:34.008Z",
+  "generated": "2026-07-23T14:57:26.720Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
+      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on order...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "isoDate": "2026-07-23T14:13:35.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the major trade secrets lawsuit between Apple and Ope...",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "isoDate": "2026-07-23T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "The right-wing boomers protesting data centers have a lot in common with the left",
       "summary": "A person holds signs during a nationwide protest against AI data center expansion outside Peace Hall in New Port Richey, Florida. | AFP via ...",
       "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
       "isoDate": "2026-07-23T12:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good",
+      "summary": "\"I don't think you get a model this strong and this quickly on the heels of Fable doing strictly distillation,\" one expert told TechCrunch....",
+      "link": "https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/",
+      "isoDate": "2026-07-23T11:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -37,13 +58,6 @@
       "isoDate": "2026-07-22T20:49:03.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, tha...",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "isoDate": "2026-07-22T19:11:46.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
       "summary": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verg...",
@@ -56,20 +70,6 @@
       "summary": "AMD says it's going to invest up to $5 billion in Anthropic, while helping to expand the AI company's computing power, according to an annou...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
       "isoDate": "2026-07-22T14:44:27.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta made its own AI detection system. It should have just used Google’s",
-      "summary": "Content Seal sounds a lot like a less accessible and reliable version of SynthID. | Image: Meta / The Verge\t\n\nIIn March, Meta's Oversight Bo...",
-      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "isoDate": "2026-07-22T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Utility companies promise to spare us from AI’s energy bill",
-      "summary": "The pledge was introduced in March, and has done little to quell concerns so far. | Image: Cath Virginia / The Verge, Getty Images\t\n\nIn the ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "isoDate": "2026-07-22T10:12:13.000Z"
     },
     {
       "source": "VentureBeat AI",
