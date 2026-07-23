@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-23T14:57:26.720Z",
+  "generated": "2026-07-23T16:21:29.038Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia is sending GPUs to the moon",
+      "summary": "If there's a place in the universe without GPUs, Nvidia is sending them there....",
+      "link": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon/",
+      "isoDate": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors ",
+      "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs re...",
+      "link": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+      "isoDate": "2026-07-23T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "summary": "Gemini had over 750 million monthly users in February....",
+      "link": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
+      "isoDate": "2026-07-23T14:52:44.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
@@ -35,27 +56,6 @@
       "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally....",
       "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
       "isoDate": "2026-07-23T06:09:13.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
-      "summary": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, tempor...",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "isoDate": "2026-07-22T23:47:54.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google justifies its massive AI spending with a booming cloud business",
-      "summary": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profit...",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "isoDate": "2026-07-22T22:01:52.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
-      "summary": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models....",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "isoDate": "2026-07-22T20:49:03.000Z"
     },
     {
       "source": "The Verge AI",
