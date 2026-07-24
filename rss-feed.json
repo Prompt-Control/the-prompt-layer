@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-24T12:09:37.574Z",
+  "generated": "2026-07-24T14:30:49.392Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
+      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents....",
+      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
+      "isoDate": "2026-07-24T13:36:42.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
@@ -49,13 +56,6 @@
       "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon C...",
       "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
       "isoDate": "2026-07-23T18:20:30.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Runway launches AI model router as generative media gets crowded",
-      "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a deve...",
-      "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "isoDate": "2026-07-23T17:07:35.000Z"
     },
     {
       "source": "The Verge AI",
