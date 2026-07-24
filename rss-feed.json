@@ -1,19 +1,68 @@
 {
-  "generated": "2026-07-24T14:30:49.392Z",
+  "generated": "2026-07-24T18:08:03.472Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "summary": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents....",
-      "link": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-      "isoDate": "2026-07-24T13:36:42.000Z"
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "summary": "AI coding startup Cognition has acquired Poke, the AI assistant you text like a friend, in a deal valuing the startup in the low nine figure...",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "isoDate": "2026-07-24T18:07:32.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "You can’t ignore Google Zero anymore",
+      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal ...",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "isoDate": "2026-07-24T17:29:48.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-      "summary": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s ...",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "isoDate": "2026-07-24T01:00:00.000Z"
+      "title": "Anthropic launches Opus 5",
+      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases....",
+      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "isoDate": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry di...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "isoDate": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta is making its AI chatbot more like an assistant",
+      "summary": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot wi...",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "isoDate": "2026-07-24T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates res...",
+      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
+      "isoDate": "2026-07-24T15:51:49.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
+      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol....",
+      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+      "isoDate": "2026-07-24T15:13:57.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Midjourney acquired the astrology app Co-Star",
+      "summary": "The AI lab Midjourney continues to expand its purview beyond image and video generation....",
+      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+      "isoDate": "2026-07-24T15:09:55.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The tech-broification of American science has officially begun",
+      "summary": "Trump’s science adviser Michael Kratsios has no science background. | Image: Getty / The Verge\t\n\nThe Trump administration unveiled the first...",
+      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "isoDate": "2026-07-24T14:43:55.000Z"
     },
     {
       "source": "The Verge AI",
@@ -21,55 +70,6 @@
       "summary": "Amazon is launching an update to its Alexa Plus assistant that will allow it to connect to smart home devices in new ways. With the update, ...",
       "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
       "isoDate": "2026-07-23T21:15:06.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year....",
-      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
-      "isoDate": "2026-07-23T20:33:02.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic updates Claude voice mode with more capable models",
-      "summary": "Claude's new voice model will let you reschedule your meeting or draft an email....",
-      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "isoDate": "2026-07-23T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Claude’s voice mode is now available for Opus and Sonnet",
-      "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opu...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "isoDate": "2026-07-23T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
-      "summary": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even th...",
-      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "isoDate": "2026-07-23T18:38:34.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Patreon is laying off 20 percent of workers",
-      "summary": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon C...",
-      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "isoDate": "2026-07-23T18:20:30.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-      "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tra...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "isoDate": "2026-07-23T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Lawmakers prepare bill requiring AI ‘kill switch’",
-      "summary": "Lawmakers are preparing to introduce an \"AI Kill Switch Act\" that would require AI companies to shut down or throttle their systems on order...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "isoDate": "2026-07-23T14:13:35.000Z"
     },
     {
       "source": "VentureBeat AI",
