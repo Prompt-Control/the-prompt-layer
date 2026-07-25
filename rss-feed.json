@@ -1,6 +1,20 @@
 {
-  "generated": "2026-07-25T15:53:07.852Z",
+  "generated": "2026-07-25T16:41:11.087Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand....",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "isoDate": "2026-07-25T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem....",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "isoDate": "2026-07-25T13:05:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
@@ -37,13 +51,6 @@
       "isoDate": "2026-07-24T17:29:48.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases....",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "isoDate": "2026-07-24T17:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
       "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry di...",
@@ -56,13 +63,6 @@
       "summary": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t\n\nMeta is upgrading its AI chatbot wi...",
       "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
       "isoDate": "2026-07-24T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates res...",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "isoDate": "2026-07-24T15:51:49.000Z"
     },
     {
       "source": "The Verge AI",
