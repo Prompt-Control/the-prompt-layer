@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-27T20:58:06.195Z",
+  "generated": "2026-07-27T22:01:13.334Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
+      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model i...",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "isoDate": "2026-07-27T21:17:11.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
@@ -35,13 +42,6 @@
       "summary": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant....",
       "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
       "isoDate": "2026-07-27T16:45:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s AI search is rapidly becoming the default, new data shows",
-      "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people disco...",
-      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-      "isoDate": "2026-07-27T15:57:12.000Z"
     },
     {
       "source": "The Verge AI",
