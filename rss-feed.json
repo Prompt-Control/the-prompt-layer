@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-27T19:05:28.113Z",
+  "generated": "2026-07-27T20:58:06.195Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assi...",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "isoDate": "2026-07-27T20:19:42.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
@@ -35,13 +42,6 @@
       "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people disco...",
       "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
       "isoDate": "2026-07-27T15:57:12.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026 ",
-      "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from f...",
-      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-      "isoDate": "2026-07-27T15:30:00.000Z"
     },
     {
       "source": "The Verge AI",
