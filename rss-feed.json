@@ -1,6 +1,34 @@
 {
-  "generated": "2026-07-28T19:00:42.811Z",
+  "generated": "2026-07-28T20:54:51.831Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself....",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "isoDate": "2026-07-28T20:45:12.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman is ready to decelerate",
+      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "isoDate": "2026-07-28T20:17:08.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "isoDate": "2026-07-28T19:46:43.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant s...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "isoDate": "2026-07-28T19:33:03.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
@@ -42,34 +70,6 @@
       "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge |...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
       "isoDate": "2026-07-28T09:07:14.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-      "summary": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales....",
-      "link": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-      "isoDate": "2026-07-28T04:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities....",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "isoDate": "2026-07-28T00:13:33.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Why China is giving away its best AI models",
-      "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "isoDate": "2026-07-27T16:51:50.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "isoDate": "2026-07-27T12:06:22.000Z"
     },
     {
       "source": "VentureBeat AI",
