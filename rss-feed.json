@@ -1,6 +1,34 @@
 {
-  "generated": "2026-07-28T12:28:16.969Z",
+  "generated": "2026-07-28T17:14:44.221Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
+      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
+      "isoDate": "2026-07-28T15:42:26.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "summary": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now g...",
+      "link": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+      "isoDate": "2026-07-28T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Recursive Superintelligence signs $410 million compute deal with Amazon",
+      "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date....",
+      "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+      "isoDate": "2026-07-28T13:19:17.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "isoDate": "2026-07-28T12:30:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Smart rings are looking like my kind of AI gadget",
@@ -30,27 +58,6 @@
       "isoDate": "2026-07-28T00:13:33.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "summary": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model i...",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "isoDate": "2026-07-27T21:17:11.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assi...",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "isoDate": "2026-07-27T20:19:42.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-      "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform....",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "isoDate": "2026-07-27T18:32:11.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Why China is giving away its best AI models",
       "summary": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20...",
@@ -63,13 +70,6 @@
       "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
       "isoDate": "2026-07-27T12:06:22.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI start...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "isoDate": "2026-07-24T19:06:58.000Z"
     },
     {
       "source": "VentureBeat AI",
