@@ -1,10 +1,17 @@
 {
-  "generated": "2026-07-29T15:01:30.073Z",
+  "generated": "2026-07-29T17:00:33.748Z",
   "items": [
     {
       "source": "TechCrunch AI",
+      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+      "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenanc...",
+      "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+      "isoDate": "2026-07-29T15:35:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
+      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
       "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
       "isoDate": "2026-07-29T14:41:06.000Z"
     },
@@ -49,13 +56,6 @@
       "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots....",
       "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
       "isoDate": "2026-07-28T21:29:34.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself....",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "isoDate": "2026-07-28T20:45:12.000Z"
     },
     {
       "source": "The Verge AI",
