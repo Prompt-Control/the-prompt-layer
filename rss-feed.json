@@ -1,6 +1,41 @@
 {
-  "generated": "2026-07-29T07:34:48.563Z",
+  "generated": "2026-07-29T15:01:30.073Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
+      "summary": "The startup analyzes calls, messages and CRM data to identify effective sales techniques and turn them into playbooks for AI agents....",
+      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
+      "isoDate": "2026-07-29T14:41:06.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Artists are lawyering up against AI slop, and some are even winning",
+      "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "isoDate": "2026-07-29T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+      "summary": "The AI agent that escaped from OpenAI and hacked developer platform Hugging Face attacked other companies as well, OpenAI revealed on Tuesda...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "isoDate": "2026-07-29T11:54:29.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, an...",
+      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+      "isoDate": "2026-07-29T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "We’re running out of reasons to ignore AI safety",
+      "summary": "Earlier this month, OpenAI gave several of its AI models a task: complete a test designed to measure their cybersecurity capabilities. It pu...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "isoDate": "2026-07-29T11:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
@@ -23,13 +58,6 @@
       "isoDate": "2026-07-28T20:45:12.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman is ready to decelerate",
-      "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"...",
-      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
-      "isoDate": "2026-07-28T20:17:08.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "AI leaders sign a statement asking the government to do something about automated AI",
       "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a...",
@@ -42,34 +70,6 @@
       "summary": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t\n\nIt's earnings season, and investors got an unpleasant s...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
       "isoDate": "2026-07-28T19:33:03.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "summary": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power....",
-      "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
-      "isoDate": "2026-07-28T15:42:26.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "isoDate": "2026-07-28T12:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Smart rings are looking like my kind of AI gadget",
-      "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkabl...",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "isoDate": "2026-07-28T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Hugging Face is being used to easily undress women and children",
-      "summary": "Hugging Face isn’t doing much to prevent the AI models it hosts from spitting out sexualized deepfakes. | Image: Cath Virginia / The Verge |...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "isoDate": "2026-07-28T09:07:14.000Z"
     },
     {
       "source": "VentureBeat AI",
