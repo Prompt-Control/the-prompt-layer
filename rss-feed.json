@@ -1,6 +1,27 @@
 {
-  "generated": "2026-07-30T16:22:29.726Z",
+  "generated": "2026-07-30T18:06:41.735Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+      "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also repl...",
+      "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+      "isoDate": "2026-07-30T18:05:21.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Ro...",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "isoDate": "2026-07-30T17:18:45.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million to acquire friend.com, and plastered ...",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "isoDate": "2026-07-30T16:33:32.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Okta buys AI security startup Permiso; source says for about $200M",
@@ -30,13 +51,6 @@
       "isoDate": "2026-07-30T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable",
-      "summary": "Cybersecurity experts told TechCrunch that one of the biggest lessons to be taken from the OpenAI hack against Hugging Face has nothing to d...",
-      "link": "https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/",
-      "isoDate": "2026-07-30T14:48:32.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Microsoft confirms Copilot ‘super app’ coming this year",
       "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesd...",
@@ -56,20 +70,6 @@
       "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that ...",
       "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
       "isoDate": "2026-07-29T21:06:52.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots",
-      "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "isoDate": "2026-07-29T18:15:02.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Artists are lawyering up against AI slop, and some are even winning",
-      "summary": "Artists whose work has been co-opted by AI are taking to court. | Image: Alex Parkin / The Verge\t\n\nWhen The Atlantic published a searchable ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "isoDate": "2026-07-29T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
