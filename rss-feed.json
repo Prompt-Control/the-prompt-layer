@@ -1,6 +1,13 @@
 {
-  "generated": "2026-07-31T17:14:21.113Z",
+  "generated": "2026-07-31T19:01:50.741Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments...",
+      "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+      "isoDate": "2026-07-31T17:26:32.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
@@ -56,13 +63,6 @@
       "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on t...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
       "isoDate": "2026-07-31T13:41:17.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents....",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "isoDate": "2026-07-31T01:06:54.000Z"
     },
     {
       "source": "The Verge AI",
