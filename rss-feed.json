@@ -1,33 +1,68 @@
 {
-  "generated": "2026-07-31T13:23:12.664Z",
+  "generated": "2026-07-31T17:14:21.113Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Here’s the problem with putting an AI image generator in Google Earth",
+      "summary": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these imag...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "isoDate": "2026-07-31T17:05:46.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendation...",
+      "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+      "isoDate": "2026-07-31T16:49:08.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The major labels propose rules to keep AI slop off the charts",
+      "summary": "Several record labels, including the big three - Universal Music Group, Sony Music, and Warner Music Group - have proposed rules regarding c...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "isoDate": "2026-07-31T16:36:48.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Siri AI could come with a paywall for power users",
+      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions....",
+      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
+      "isoDate": "2026-07-31T16:08:18.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more month...",
+      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+      "isoDate": "2026-07-31T15:16:17.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "summary": "The startup is building voice models designed to make AI phone calls pass the Turing test....",
+      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+      "isoDate": "2026-07-31T14:47:11.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "It’s time to panic about AI safety",
+      "summary": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we lear...",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "isoDate": "2026-07-31T14:03:04.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "summary": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on t...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "isoDate": "2026-07-31T13:41:17.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic says its own AI models breached three companies during security tests",
-      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents...",
+      "summary": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents....",
       "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
       "isoDate": "2026-07-31T01:06:54.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to pl...",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "isoDate": "2026-07-30T23:25:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "summary": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market c...",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "isoDate": "2026-07-30T23:08:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Investors love AI, as long as you’re a cloud host",
-      "summary": "Amazon isn't slowing down on data center spending — but investors don't seem to mind....",
-      "link": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/",
-      "isoDate": "2026-07-30T22:41:41.000Z"
     },
     {
       "source": "The Verge AI",
@@ -35,41 +70,6 @@
       "summary": "Apple may allow users to pay to increase their AI usage limits. During an earnings call on Thursday, Apple CEO Tim Cook said that he believe...",
       "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
       "isoDate": "2026-07-30T22:29:45.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The loss of Situational Awareness",
-      "summary": "Neither artificial nor intelligent.\t\n\nI am not by any means an expert at finance but I think I do now have some advice for people who are: D...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "isoDate": "2026-07-30T20:46:25.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
-      "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting d...",
-      "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
-      "isoDate": "2026-07-30T20:26:38.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
-      "summary": "A lot of content on LinkedIn might seem like AI slop, and now, you'll be able to report those posts. As part of a series of updates to reduc...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "isoDate": "2026-07-30T18:43:26.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google DeepMind’s new AI model can control a robot’s entire body",
-      "summary": "Apptronik’s Apollo 2 robot takes a baseball glove off of a shelf. | Image: Google\t\n\nGoogle DeepMind says the latest version of its Gemini Ro...",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "isoDate": "2026-07-30T17:18:45.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
-      "summary": "Do you remember Friend? The Friend that launched an AI pendant, spent $1.8 million of its $2.5 million in funding to acquire friend.com, and...",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "isoDate": "2026-07-30T16:33:32.000Z"
     },
     {
       "source": "VentureBeat AI",
