@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-02T20:02:27.857Z",
+  "generated": "2026-08-02T21:41:38.003Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Sam Altman and AI’s decel debate",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"...",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "isoDate": "2026-08-02T20:54:22.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Fender’s CEO seems to think your bandmates are just analog AI",
@@ -49,13 +56,6 @@
       "summary": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone....",
       "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "isoDate": "2026-08-01T15:58:17.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "summary": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face....",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "isoDate": "2026-07-31T22:47:26.000Z"
     },
     {
       "source": "The Verge AI",
