@@ -1,12 +1,47 @@
 {
-  "generated": "2026-08-04T12:50:47.211Z",
+  "generated": "2026-08-04T17:26:15.260Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
-      "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built....",
-      "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
-      "isoDate": "2026-08-04T12:00:00.000Z"
+      "title": "Spotify expands AI remix and covers project with Merlin partnership",
+      "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its ...",
+      "link": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/",
+      "isoDate": "2026-08-04T15:50:06.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Texas halts new data centers as governor calls for audits",
+      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulatio...",
+      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
+      "isoDate": "2026-08-04T15:42:35.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Texas says data centers must pass an audit before connecting to the grid",
+      "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid.\nGoverno...",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "isoDate": "2026-08-04T15:33:21.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business....",
+      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+      "isoDate": "2026-08-04T15:20:06.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have ret...",
+      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+      "isoDate": "2026-08-04T14:03:01.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is the future of data centers portable? Runware builds a pod to find out",
+      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod....",
+      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+      "isoDate": "2026-08-04T13:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -23,34 +58,6 @@
       "isoDate": "2026-08-04T10:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
-      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrus...",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "isoDate": "2026-08-03T23:19:50.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "summary": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling app...",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "isoDate": "2026-08-03T20:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Design Arena creators raise $7.9 million to bring taste to AI models",
-      "summary": "Design Arena is used by 5.3 million people around the world, providing critical human evaluations to frontier labs....",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "isoDate": "2026-08-03T19:28:57.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "summary": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue....",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "isoDate": "2026-08-03T19:09:56.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Europe’s AI labeling and transparency rules are now in effect",
       "summary": "The EU made some AI labels that companies can use instead of designing their own. | Image: The European Commission / The Verge\t\n\nThe Europea...",
@@ -63,13 +70,6 @@
       "summary": "The Alibaba logo is displayed outside its headquarters in Hangzhou, Zhejiang Province, China. | Image: NurPhoto via Getty Images\t\n\nChinese t...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
       "isoDate": "2026-08-03T11:01:11.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Fender’s CEO seems to think your bandmates are just analog AI",
-      "summary": "Edward “Bud” Cole speaks in Japan in 2023. | Image: Jun Sato/WireImage\t\n\nFender CEO Edward \"Bud\" Cole gave an interview to T3 in May celebra...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "isoDate": "2026-08-02T19:36:08.000Z"
     },
     {
       "source": "VentureBeat AI",
