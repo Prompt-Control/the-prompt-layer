@@ -1,6 +1,48 @@
 {
-  "generated": "2026-08-04T19:14:30.049Z",
+  "generated": "2026-08-04T20:58:56.841Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "AMD&#8217;s datacenter business is booming while gaming takes a backseat",
+      "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 bi...",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "isoDate": "2026-08-04T20:57:49.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "SpaceX has more neocloud revenue",
+      "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provid...",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "isoDate": "2026-08-04T20:47:55.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Open-weight AI models are catching up to the frontier. The safety gap remains. ",
+      "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing con...",
+      "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+      "isoDate": "2026-08-04T20:05:26.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup...",
+      "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "isoDate": "2026-08-04T19:48:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+      "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local storie...",
+      "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+      "isoDate": "2026-08-04T19:34:34.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against...",
+      "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+      "isoDate": "2026-08-04T19:28:49.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "How an OpenAI influencer trip backfired ",
@@ -23,53 +65,11 @@
       "isoDate": "2026-08-04T15:50:06.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Texas halts new data centers as governor calls for audits",
-      "summary": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulatio...",
-      "link": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/",
-      "isoDate": "2026-08-04T15:42:35.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Texas says data centers must pass an audit before connecting to the grid",
       "summary": "Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid.\nGoverno...",
       "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
       "isoDate": "2026-08-04T15:33:21.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-      "summary": "An analysis of the last seven years of Tesla earnings calls shows just little attention Musk pays to Tesla's car business....",
-      "link": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-      "isoDate": "2026-08-04T15:20:06.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-      "summary": "Apple says its trade secrets investigation into OpenAI has widened. In a new court filing, Apple claims additional former staff may have ret...",
-      "link": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-      "isoDate": "2026-08-04T14:03:01.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Is the future of data centers portable? Runware builds a pod to find out",
-      "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod....",
-      "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-      "isoDate": "2026-08-04T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI drags Apple’s lawsuit into the court of public opinion",
-      "summary": "OpenAI says Apple’s lawsuit is “careless, aggressive, and oddly personal.” | Image: Cath Virginia / The Verge, Getty Images\t\n\nApple's legal ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "isoDate": "2026-08-04T11:27:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Can Reddit fend off a new wave of AI SEO spam?",
-      "summary": "Earlier this year, a Reddit user had asked members of a skincare-focused subreddit if anyone had tried a specific hypochlorous acid spray, a...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "isoDate": "2026-08-04T10:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
