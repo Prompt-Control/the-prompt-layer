@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-05T20:52:47.477Z",
+  "generated": "2026-08-06T01:12:47.351Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "summary": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikip...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "isoDate": "2026-08-06T00:25:10.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software....",
+      "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "isoDate": "2026-08-05T21:21:28.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
@@ -56,20 +70,6 @@
       "summary": "Hark claims that its browser use agent is faster and cheaper than competition....",
       "link": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
       "isoDate": "2026-08-05T15:46:27.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Rogue AI agents created fake online identities in another hacking attempt",
-      "summary": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveri...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "isoDate": "2026-08-05T15:14:57.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals ",
-      "summary": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to s...",
-      "link": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-      "isoDate": "2026-08-05T15:05:00.000Z"
     },
     {
       "source": "VentureBeat AI",
