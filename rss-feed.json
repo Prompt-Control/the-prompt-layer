@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-07T17:37:28.583Z",
+  "generated": "2026-08-07T18:34:49.556Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "What&#8217;s behind the Google AI shake-up",
+      "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs a...",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "isoDate": "2026-08-07T16:45:14.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
@@ -14,6 +21,13 @@
       "summary": "Airbnb will debut a new AI-powered search experience with a toggle....",
       "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
       "isoDate": "2026-08-07T14:22:49.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
+      "summary": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re for...",
+      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
+      "isoDate": "2026-08-07T14:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -44,13 +58,6 @@
       "isoDate": "2026-08-06T17:39:43.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries....",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "isoDate": "2026-08-06T17:34:42.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "summary": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unli...",
@@ -63,13 +70,6 @@
       "summary": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy\t\n\nSoftBank contributed $50 million to ...",
       "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
       "isoDate": "2026-08-06T14:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The left and right agree on one thing: no data centers",
-      "summary": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers. \nGaby recen...",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "isoDate": "2026-08-06T14:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
