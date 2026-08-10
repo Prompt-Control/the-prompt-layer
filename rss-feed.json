@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-10T10:53:41.649Z",
+  "generated": "2026-08-10T11:38:39.607Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "summary": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll ne...",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "isoDate": "2026-08-10T11:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
@@ -63,13 +70,6 @@
       "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic fil...",
       "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
       "isoDate": "2026-08-07T18:59:46.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "isoDate": "2026-08-07T18:40:34.000Z"
     },
     {
       "source": "VentureBeat AI",
