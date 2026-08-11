@@ -1,10 +1,17 @@
 {
-  "generated": "2026-08-11T17:45:25.740Z",
+  "generated": "2026-08-11T18:41:32.365Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Another OpenAI executive takes off",
+      "summary": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab....",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
+      "isoDate": "2026-08-11T17:50:01.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "summary": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all...",
+      "summary": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all...",
       "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
       "isoDate": "2026-08-11T17:41:34.000Z"
     },
@@ -55,13 +62,6 @@
       "title": "Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations",
       "summary": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from edit...",
       "link": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/",
-      "isoDate": "2026-08-11T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Spotify says it won&#8217;t recommend music from &#8216;AI Personas&#8217;",
-      "summary": "Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-Septemb...",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
       "isoDate": "2026-08-11T13:00:00.000Z"
     },
     {
