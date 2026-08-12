@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-12T21:31:49.795Z",
+  "generated": "2026-08-12T22:26:54.641Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
+      "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is....",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "isoDate": "2026-08-12T22:26:37.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
@@ -35,13 +42,6 @@
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your stream...",
       "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "isoDate": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-      "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app....",
-      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-      "isoDate": "2026-08-12T16:57:58.000Z"
     },
     {
       "source": "The Verge AI",
