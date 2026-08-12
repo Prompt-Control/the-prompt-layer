@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-11T23:26:51.780Z",
+  "generated": "2026-08-12T00:49:12.825Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT",
+      "summary": "After a former lead writer claimed Saber \"replaced me with ChatGPT,\" CEO Matthew Karch now claims, \"Neither Saber nor Unigine have replaced ...",
+      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+      "isoDate": "2026-08-12T00:39:26.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
@@ -63,13 +70,6 @@
       "summary": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iO...",
       "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
       "isoDate": "2026-08-11T16:19:15.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "summary": "Zoom has patched a major security vulnerability that could allow an attacker to hijack anyone's device during a meeting. In a blog post on T...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "isoDate": "2026-08-11T14:45:44.000Z"
     },
     {
       "source": "VentureBeat AI",
