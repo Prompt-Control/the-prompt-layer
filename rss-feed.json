@@ -1,10 +1,31 @@
 {
-  "generated": "2026-08-13T18:43:12.683Z",
+  "generated": "2026-08-13T19:48:42.023Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI is losing its second executive this week",
+      "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Sl...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "isoDate": "2026-08-13T19:28:39.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT 5.6 Sol work at 14x the speed",
+      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users....",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "isoDate": "2026-08-13T19:22:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal....",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "isoDate": "2026-08-13T19:19:49.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "summary": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safe...",
+      "summary": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s saf...",
       "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
       "isoDate": "2026-08-13T18:28:14.000Z"
     },
@@ -37,20 +58,6 @@
       "isoDate": "2026-08-13T15:30:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
-      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts....",
-      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
-      "isoDate": "2026-08-13T15:08:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
-      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ....",
-      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
-      "isoDate": "2026-08-13T14:34:43.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Does Google even want to win at AI?",
       "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech indu...",
@@ -63,13 +70,6 @@
       "summary": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft\t\n\nMicrosoft is finally beginning to combine its ...",
       "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
       "isoDate": "2026-08-13T13:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Twitch streamers can now opt out from training Amazon’s AI",
-      "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your stream...",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "isoDate": "2026-08-12T17:29:10.000Z"
     },
     {
       "source": "VentureBeat AI",
