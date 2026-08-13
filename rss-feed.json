@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-13T14:11:42.841Z",
+  "generated": "2026-08-13T15:45:03.029Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
+      "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research...",
+      "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
+      "isoDate": "2026-08-13T15:30:52.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in ...",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "isoDate": "2026-08-13T15:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s new $500B plan is risky but brilliant, especially for aging GPUs",
+      "summary": "Nvidia has a plan to make sure its GPUs won't lose value. It wants to convince a new crop of financiers to keep lending for AI buildouts....",
+      "link": "https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/",
+      "isoDate": "2026-08-13T15:08:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple in talks to pay publishers to provide Siri with current news: report",
+      "summary": "The tech giant has considered a nine-figure budget for the payments, according to the WSJ....",
+      "link": "https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/",
+      "isoDate": "2026-08-13T14:34:43.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Does Google even want to win at AI?",
@@ -30,27 +58,6 @@
       "isoDate": "2026-08-12T20:10:40.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-      "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation....",
-      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-      "isoDate": "2026-08-12T18:19:12.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
-      "summary": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access...",
-      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
-      "isoDate": "2026-08-12T17:51:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
-      "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altim...",
-      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
-      "isoDate": "2026-08-12T17:41:29.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your stream...",
@@ -63,13 +70,6 @@
       "summary": "After weeks of controversy and speculation, music company D'Addario has admitted that AI, specifically Suno, was used as part of a recent pr...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
       "isoDate": "2026-08-12T15:52:07.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about ...",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "isoDate": "2026-08-12T14:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
