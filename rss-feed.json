@@ -1,12 +1,33 @@
 {
-  "generated": "2026-08-13T16:41:30.271Z",
+  "generated": "2026-08-13T17:46:05.967Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "summary": "Dali Rajic will take over as OpenAI's top salesperson....",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "isoDate": "2026-08-13T17:07:13.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "isoDate": "2026-08-13T16:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Microsoft kills off unsuccessful AI features while merging its separate Copilot apps",
       "summary": "Microsoft is simplifying Copilot by combining its consumer and business apps, and dropping AI-generated podcasts, Group Chats, Deep Research...",
       "link": "https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/",
       "isoDate": "2026-08-13T15:30:52.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "I looked inside an AI generated movie, and the best parts were all human",
+      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in ...",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "isoDate": "2026-08-13T15:30:00.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -23,6 +44,20 @@
       "isoDate": "2026-08-13T14:34:43.000Z"
     },
     {
+      "source": "The Verge AI",
+      "title": "Does Google even want to win at AI?",
+      "summary": "Today on Decoder, I’m talking with Hayden Field, The Verge’s senior AI reporter, about a question that’s been rocketing around the tech indu...",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "isoDate": "2026-08-13T14:10:31.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft is combining its Copilot apps ahead of a ‘super app’",
+      "summary": "You soon won’t have to look at two Copilot apps in your Windows taskbar. | Image: Microsoft\t\n\nMicrosoft is finally beginning to combine its ...",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "isoDate": "2026-08-13T13:30:00.000Z"
+    },
+    {
       "source": "TechCrunch AI",
       "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
       "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is....",
@@ -30,46 +65,11 @@
       "isoDate": "2026-08-12T22:26:37.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-      "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the ans...",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "isoDate": "2026-08-12T20:10:40.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Twitch streamers can now opt out from training Amazon’s AI",
       "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your stream...",
       "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
       "isoDate": "2026-08-12T17:29:10.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Guitar company D’Addario admits that AI music was used in a promotional video",
-      "summary": "Maybe don’t let the AI shred next time. | Image: D’Addario\t\n\nAfter weeks of controversy and speculation, music company D'Addario has admitte...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "isoDate": "2026-08-12T15:52:07.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "summary": "At least there’s no new proprietary charger this year. Huzzah!! | Photo: David Imel / The Verge\t\n\nThe $399 Google Pixel Watch 5 isn't about ...",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "isoDate": "2026-08-12T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Of course the ChatGPT dog cancer vaccine spawned a startup",
-      "summary": "Remember that much-hyped story about an Australian tech entrepreneur using ChatGPT, Grok, and other AI tools to craft a personalized cancer ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "isoDate": "2026-08-12T12:09:34.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Grok is now an AI ‘teammate’ you can assign work",
-      "summary": "You’ll have to be fine with letting Grok sign into your online accounts, however. | Image: SpaceXAI\t\n\nSpaceXAI has introduced Grok Bot, an a...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "isoDate": "2026-08-12T11:58:54.000Z"
     },
     {
       "source": "VentureBeat AI",
