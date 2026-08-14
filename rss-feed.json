@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-14T15:38:41.512Z",
+  "generated": "2026-08-14T16:37:19.306Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file...",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "isoDate": "2026-08-14T16:13:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the c...",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "isoDate": "2026-08-14T15:43:28.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Kog is going deeper to squeeze more inference out of GPUs",
@@ -14,6 +28,13 @@
       "summary": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers...",
       "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
       "isoDate": "2026-08-14T14:05:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong ",
+      "summary": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the c...",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "isoDate": "2026-08-14T14:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -30,32 +51,11 @@
       "isoDate": "2026-08-13T21:42:38.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "summary": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilit...",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "isoDate": "2026-08-13T21:13:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
-      "summary": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned....",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "isoDate": "2026-08-13T20:14:39.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI is losing its second executive this week",
       "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Sl...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "isoDate": "2026-08-13T19:28:39.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "summary": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users....",
-      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
-      "isoDate": "2026-08-13T19:22:40.000Z"
     },
     {
       "source": "The Verge AI",
