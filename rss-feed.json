@@ -1,13 +1,6 @@
 {
-  "generated": "2026-08-14T19:40:00.755Z",
+  "generated": "2026-08-14T20:18:35.803Z",
   "items": [
-    {
-      "source": "The Verge AI",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week....",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "isoDate": "2026-08-14T16:54:16.000Z"
-    },
     {
       "source": "The Verge AI",
       "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
@@ -70,6 +63,13 @@
       "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Sl...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "isoDate": "2026-08-13T19:28:39.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Suno is trying to look more like a real music production tool",
+      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "isoDate": "2026-08-13T16:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
