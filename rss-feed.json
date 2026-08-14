@@ -1,10 +1,24 @@
 {
-  "generated": "2026-08-14T16:37:19.306Z",
+  "generated": "2026-08-14T17:41:48.605Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Mark Zuckerberg has an Instagzam",
+      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week....",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "isoDate": "2026-08-14T16:54:16.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "summary": "Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggl...",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "isoDate": "2026-08-14T16:39:32.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Google will now allow users to remove visible watermark from its AI generations",
-      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file...",
+      "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "isoDate": "2026-08-14T16:13:40.000Z"
     },
@@ -56,20 +70,6 @@
       "summary": "Another OpenAI executive is departing. Denise Dresser, who joined OpenAI as its chief revenue officer in December after serving as CEO of Sl...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
       "isoDate": "2026-08-13T19:28:39.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Suno is trying to look more like a real music production tool",
-      "summary": "Suno is releasing Studio 2.0 with significant upgrades that push it closer to an actual digital audio workstation (DAW), rather than a bare-...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "isoDate": "2026-08-13T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "I looked inside an AI generated movie, and the best parts were all human",
-      "summary": "Imagine a trio of bumbling, English lads who fantasize about becoming megastars while knocking back a few pints in a grimy pub somewhere in ...",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "isoDate": "2026-08-13T15:30:00.000Z"
     },
     {
       "source": "VentureBeat AI",
