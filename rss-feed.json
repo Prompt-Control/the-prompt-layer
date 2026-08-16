@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-16T17:09:34.590Z",
+  "generated": "2026-08-16T20:07:02.824Z",
   "items": [
     {
       "source": "TechCrunch AI",
@@ -7,6 +7,13 @@
       "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
       "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
       "isoDate": "2026-08-16T16:53:51.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "summary": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "isoDate": "2026-08-16T14:56:40.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file....",
       "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
       "isoDate": "2026-08-14T16:13:40.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Apple trained its own AI model for China with help from Alibaba",
-      "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership t...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "isoDate": "2026-08-14T09:21:17.000Z"
     },
     {
       "source": "VentureBeat AI",
