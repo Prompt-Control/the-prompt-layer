@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-16T13:21:53.751Z",
+  "generated": "2026-08-16T14:10:21.686Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. ...",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "isoDate": "2026-08-16T12:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
@@ -63,13 +70,6 @@
       "summary": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership t...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
       "isoDate": "2026-08-14T09:21:17.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
-      "summary": "Mico is headed to Learn Live. | Image: Microsoft\t\n\nMicrosoft Copilot will no longer show its emotive yellow blob, Mico, when you use the cha...",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "isoDate": "2026-08-13T21:42:38.000Z"
     },
     {
       "source": "VentureBeat AI",
