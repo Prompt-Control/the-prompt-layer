@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-17T10:18:14.544Z",
+  "generated": "2026-08-17T11:13:43.965Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "summary": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transpa...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "isoDate": "2026-08-17T10:57:13.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "OpenAI reportedly disbanded its preparedness team",
@@ -63,13 +70,6 @@
       "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?...",
       "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
       "isoDate": "2026-08-15T18:58:39.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Mark Zuckerberg has an Instagzam",
-      "summary": "Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week....",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "isoDate": "2026-08-14T16:54:16.000Z"
     },
     {
       "source": "VentureBeat AI",
