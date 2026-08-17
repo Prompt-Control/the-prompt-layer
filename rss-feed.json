@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-17T16:12:02.820Z",
+  "generated": "2026-08-17T18:18:23.766Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online....",
+      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "isoDate": "2026-08-17T16:38:44.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "summary": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered...",
+      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "isoDate": "2026-08-17T16:15:12.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
@@ -35,20 +49,6 @@
       "summary": "OpenRouter's CEO recently described the startup as Stripe for AI....",
       "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
       "isoDate": "2026-08-16T20:57:04.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision....",
-      "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
-      "isoDate": "2026-08-16T20:32:01.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI....",
-      "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
-      "isoDate": "2026-08-16T16:53:51.000Z"
     },
     {
       "source": "The Verge AI",
