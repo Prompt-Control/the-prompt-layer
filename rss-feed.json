@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-19T16:15:35.684Z",
+  "generated": "2026-08-19T17:14:30.172Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI hit the brakes. Now what?",
+      "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reason...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "isoDate": "2026-08-19T17:10:09.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta AI is getting a Mac app",
+      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedi...",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "isoDate": "2026-08-19T17:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
@@ -63,20 +77,6 @@
       "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Huggi...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
       "isoDate": "2026-08-18T19:28:30.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
-      "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses t...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "isoDate": "2026-08-18T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google&#8217;s Pet Memory forgot who my cats are",
-      "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my ...",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "isoDate": "2026-08-18T12:01:29.000Z"
     },
     {
       "source": "VentureBeat AI",
