@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-19T14:20:34.171Z",
+  "generated": "2026-08-19T15:17:57.700Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether o...",
+      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+      "isoDate": "2026-08-19T15:00:00.000Z"
+    },
     {
       "source": "VentureBeat AI",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -11,7 +18,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Calendly throws its hat into meeting note-taker circus",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie...",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie....",
       "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
       "isoDate": "2026-08-19T14:09:39.000Z"
     },
@@ -20,6 +27,13 @@
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "summary": "It's the data, stupid....",
       "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "isoDate": "2026-08-19T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia’s new financial strategy does not compute",
+      "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath V...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "isoDate": "2026-08-19T12:00:00.000Z"
     },
     {
@@ -51,13 +65,6 @@
       "isoDate": "2026-08-18T19:28:30.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "summary": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and s...",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "isoDate": "2026-08-18T18:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
       "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses t...",
@@ -70,13 +77,6 @@
       "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my ...",
       "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
       "isoDate": "2026-08-18T12:01:29.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
-      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted mor...",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "isoDate": "2026-08-18T11:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
