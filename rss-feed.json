@@ -1,18 +1,25 @@
 {
-  "generated": "2026-08-19T13:34:28.989Z",
+  "generated": "2026-08-19T14:20:34.171Z",
   "items": [
+    {
+      "source": "VentureBeat AI",
+      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
+      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst a...",
+      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
+      "isoDate": "2026-08-19T14:18:12.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Calendly throws its hat into meeting note-taker circus",
+      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie...",
+      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+      "isoDate": "2026-08-19T14:09:39.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
       "summary": "It's the data, stupid....",
       "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "isoDate": "2026-08-19T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Nvidia’s new financial strategy does not compute",
-      "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath V...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
       "isoDate": "2026-08-19T12:00:00.000Z"
     },
     {
@@ -51,13 +58,6 @@
       "isoDate": "2026-08-18T18:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "summary": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says....",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "isoDate": "2026-08-18T17:21:58.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Firefox&#8217;s Smart Window promises a better AI browser",
       "summary": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses t...",
@@ -70,6 +70,13 @@
       "summary": "One of the best things my smart home does is help me care for my pets, and security cameras are particularly useful for keeping track of my ...",
       "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
       "isoDate": "2026-08-18T12:01:29.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Elon Musk broke the FAA — Palantir is picking up the pieces",
+      "summary": "On August 6th, the Minneapolis Air Route Traffic Control Center lost radar and communications for around two hours. The outage disrupted mor...",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "isoDate": "2026-08-18T11:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -98,13 +105,6 @@
       "summary": "Alfred Wahlforss was running out of options. His startup, Listen Labs, needed to hire over 100 engineers, but competing against Mark Zuckerb...",
       "link": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "isoDate": "2026-01-16T14:01:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-      "summary": "Salesforce on Tuesday launched an entirely rebuilt version of Slackbot, the company's workplace assistant, transforming it from a simple not...",
-      "link": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-      "isoDate": "2026-01-13T13:00:00.000Z"
     }
   ]
 }
