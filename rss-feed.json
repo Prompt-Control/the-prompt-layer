@@ -1,6 +1,34 @@
 {
-  "generated": "2026-08-19T18:14:20.454Z",
+  "generated": "2026-08-19T21:13:40.312Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoptio...",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "isoDate": "2026-08-19T19:11:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and st...",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "isoDate": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for c...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "isoDate": "2026-08-19T19:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabili...",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "isoDate": "2026-08-19T18:46:14.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Meet the startup helping Wall Street put a price on AI compute",
@@ -30,32 +58,11 @@
       "isoDate": "2026-08-19T15:44:53.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "summary": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether o...",
-      "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
-      "isoDate": "2026-08-19T15:00:00.000Z"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst a...",
       "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "isoDate": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Calendly throws its hat into meeting note-taker circus",
-      "summary": "Calendly is also releasing a meeting scheduling assistant called Callie....",
-      "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
-      "isoDate": "2026-08-19T14:09:39.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
-      "summary": "It's the data, stupid....",
-      "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "isoDate": "2026-08-19T12:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -70,13 +77,6 @@
       "summary": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, a...",
       "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
       "isoDate": "2026-08-18T19:48:26.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "summary": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Huggi...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "isoDate": "2026-08-18T19:28:30.000Z"
     },
     {
       "source": "VentureBeat AI",
