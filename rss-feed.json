@@ -1,6 +1,27 @@
 {
-  "generated": "2026-08-20T15:21:04.461Z",
+  "generated": "2026-08-20T16:18:22.494Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+      "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly ...",
+      "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "isoDate": "2026-08-20T16:07:26.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+      "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of ten hurdles the compa...",
+      "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+      "isoDate": "2026-08-20T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "It’s Greg Brockman’s OpenAI now",
+      "summary": "OpenAI has had a hell of a year. The company spent months battling former co-founder Elon Musk in a sensational jury trial, was hit with a h...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
+      "isoDate": "2026-08-20T15:45:55.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Welcome to the AI crisis in math",
@@ -25,7 +46,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "summary": "Binance's Agent OS works with tools including ChatGPT, Claude Code, and Cursor....",
+      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor....",
       "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
       "isoDate": "2026-08-20T09:30:00.000Z"
     },
@@ -35,20 +56,6 @@
       "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity...",
       "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
       "isoDate": "2026-08-19T23:32:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
-      "summary": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data....",
-      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
-      "isoDate": "2026-08-19T22:10:46.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-      "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like...",
-      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-      "isoDate": "2026-08-19T21:51:23.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reason...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
       "isoDate": "2026-08-19T17:10:09.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta AI is getting a Mac app",
-      "summary": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t\n\nMeta is launching a new Mac app dedi...",
-      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
-      "isoDate": "2026-08-19T17:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
