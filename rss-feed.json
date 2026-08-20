@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-20T13:36:15.447Z",
+  "generated": "2026-08-20T14:22:30.566Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Welcome to the AI crisis in math",
+      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and...",
+      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
+      "isoDate": "2026-08-20T14:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Meta AI’s new Mac app wants you to talk to your apps",
@@ -70,13 +77,6 @@
       "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst a...",
       "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "isoDate": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Nvidia’s new financial strategy does not compute",
-      "summary": "“Compute is an asset class! Compute is an asset class!” I continue to insist as I slowly shrink down and turn into a corncob | Image: Cath V...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "isoDate": "2026-08-19T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
