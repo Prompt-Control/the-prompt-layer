@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-21T19:17:34.518Z",
+  "generated": "2026-08-21T20:10:39.121Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that gre...",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "isoDate": "2026-08-21T19:43:39.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
@@ -35,13 +42,6 @@
       "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause a...",
       "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
       "isoDate": "2026-08-20T22:36:37.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "summary": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integr...",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "isoDate": "2026-08-20T22:09:51.000Z"
     },
     {
       "source": "The Verge AI",
