@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-21T12:18:58.124Z",
+  "generated": "2026-08-21T14:21:31.276Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space....",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "isoDate": "2026-08-21T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos o...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "isoDate": "2026-08-21T13:37:52.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
@@ -37,13 +51,6 @@
       "isoDate": "2026-08-20T20:53:13.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentiall...",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "isoDate": "2026-08-20T19:18:21.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "It’s Greg Brockman’s OpenAI now",
       "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a hi...",
@@ -63,13 +70,6 @@
       "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and con...",
       "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
       "isoDate": "2026-08-20T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google Gemini is getting a dedicated student hub",
-      "summary": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for c...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "isoDate": "2026-08-19T19:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
