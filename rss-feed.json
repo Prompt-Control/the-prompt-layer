@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-21T21:11:23.597Z",
+  "generated": "2026-08-21T22:09:55.508Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
+      "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. Acco...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "isoDate": "2026-08-21T21:25:50.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
@@ -10,16 +17,16 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space....",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Mar...",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
       "isoDate": "2026-08-21T14:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Mar...",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "summary": "There's about to be a big fight to secure access to space....",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
       "isoDate": "2026-08-21T14:00:00.000Z"
     },
     {
@@ -63,13 +70,6 @@
       "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and...",
       "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
       "isoDate": "2026-08-20T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Slack is launching collaborative vibe-coding channels",
-      "summary": "Slack is introducing dedicated channels where teams can vibe-code together with AI agents instead of jumping between different tools and con...",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "isoDate": "2026-08-20T12:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
