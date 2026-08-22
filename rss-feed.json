@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-22T16:08:09.169Z",
+  "generated": "2026-08-22T17:09:31.710Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "isoDate": "2026-08-22T16:30:34.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
@@ -35,13 +42,6 @@
       "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that gre...",
       "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
       "isoDate": "2026-08-21T19:43:39.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "summary": "There's about to be a big fight to secure access to space....",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "isoDate": "2026-08-21T14:00:00.000Z"
     },
     {
       "source": "The Verge AI",
