@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-22T18:10:12.142Z",
+  "generated": "2026-08-22T19:12:53.950Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a step...",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "isoDate": "2026-08-22T19:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI says California should strengthen its AI safety bill",
@@ -35,13 +42,6 @@
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. Acco...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "isoDate": "2026-08-21T21:25:50.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that gre...",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "isoDate": "2026-08-21T19:43:39.000Z"
     },
     {
       "source": "The Verge AI",
