@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-23T16:09:33.758Z",
+  "generated": "2026-08-23T17:10:14.727Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused....",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "isoDate": "2026-08-23T15:30:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
@@ -28,13 +35,6 @@
       "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed....",
       "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
       "isoDate": "2026-08-22T16:30:34.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI...",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "isoDate": "2026-08-22T16:00:00.000Z"
     },
     {
       "source": "The Verge AI",
