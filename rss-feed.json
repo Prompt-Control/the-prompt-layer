@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-23T14:10:55.955Z",
+  "generated": "2026-08-23T16:09:33.758Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to underm...",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "isoDate": "2026-08-23T15:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -28,13 +35,6 @@
       "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI...",
       "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
       "isoDate": "2026-08-22T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it d...",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "isoDate": "2026-08-21T23:07:25.000Z"
     },
     {
       "source": "The Verge AI",
