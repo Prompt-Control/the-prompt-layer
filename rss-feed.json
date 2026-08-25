@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-25T08:25:58.825Z",
+  "generated": "2026-08-25T09:22:13.302Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a suppose...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
+      "isoDate": "2026-08-25T09:15:03.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -63,13 +70,6 @@
       "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a hi...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
       "isoDate": "2026-08-20T15:45:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Welcome to the AI crisis in math",
-      "summary": "Today on Decoder, I’m talking with Robert Hart, The Verge’s London-based AI reporter, about what AI is doing to the field of mathematics and...",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "isoDate": "2026-08-20T14:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
