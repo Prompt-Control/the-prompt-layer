@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-25T17:20:34.676Z",
+  "generated": "2026-08-25T18:19:39.307Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Claude Cowork finally remembers what you told the app in chat",
+      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on projects, preferenc...",
+      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
+      "isoDate": "2026-08-25T17:50:33.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Gamma acquires Accel-backed design startup Lica",
@@ -42,13 +49,6 @@
       "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agents escaped a suppose...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
       "isoDate": "2026-08-25T09:15:03.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"...",
-      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-      "isoDate": "2026-08-25T00:23:12.000Z"
     },
     {
       "source": "The Verge AI",
