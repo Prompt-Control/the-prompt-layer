@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-25T13:38:25.805Z",
+  "generated": "2026-08-25T14:31:58.120Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "summary": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the curre...",
+      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
+      "isoDate": "2026-08-25T14:22:04.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a b...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
+      "isoDate": "2026-08-25T14:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Accel-backed Keenable is indexing the web for AI agents",
@@ -37,13 +51,6 @@
       "isoDate": "2026-08-24T21:24:17.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026 ",
-      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing i...",
-      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
-      "isoDate": "2026-08-24T19:54:19.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. Acco...",
@@ -63,13 +70,6 @@
       "summary": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google ap...",
       "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
       "isoDate": "2026-08-20T21:50:22.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "It’s Greg Brockman’s OpenAI now",
-      "summary": "OpenAI has had a hell of a year. The company spent months battling former cofounder Elon Musk in a sensational jury trial, was hit with a hi...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "isoDate": "2026-08-20T15:45:55.000Z"
     },
     {
       "source": "VentureBeat AI",
