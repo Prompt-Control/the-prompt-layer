@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-26T00:29:26.898Z",
+  "generated": "2026-08-26T02:16:05.561Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation....",
+      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+      "isoDate": "2026-08-26T00:40:59.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
@@ -28,13 +35,6 @@
       "summary": "Lica co-founders are going to work on Gamma's new research team....",
       "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
       "isoDate": "2026-08-25T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the curren...",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "isoDate": "2026-08-25T14:22:04.000Z"
     },
     {
       "source": "The Verge AI",
