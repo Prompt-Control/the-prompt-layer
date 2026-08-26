@@ -1,12 +1,26 @@
 {
-  "generated": "2026-08-26T18:31:39.550Z",
+  "generated": "2026-08-26T21:21:43.542Z",
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages....",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "isoDate": "2026-08-26T17:00:00.000Z"
+      "source": "TechCrunch AI",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture....",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "isoDate": "2026-08-26T19:37:34.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "summary": "Was Greg Brockman the right executive all along?...",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "isoDate": "2026-08-26T19:34:04.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date....",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "isoDate": "2026-08-26T19:05:22.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -23,32 +37,11 @@
       "isoDate": "2026-08-26T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
-      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before....",
-      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
-      "isoDate": "2026-08-26T14:37:01.000Z"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "summary": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channe...",
       "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "isoDate": "2026-08-26T14:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
-      "summary": "Z.ai confirms it is behind Ox Alpha, the mysterious open AI model topping benchmarks and leaderboards, and its weights are set to be release...",
-      "link": "https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/",
-      "isoDate": "2026-08-26T14:19:29.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "summary": "Robot bodies are waiting for their AI brains to catch up....",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "isoDate": "2026-08-26T13:30:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -77,6 +70,13 @@
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. Acco...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "isoDate": "2026-08-21T21:25:50.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmm...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "isoDate": "2026-08-21T13:37:52.000Z"
     },
     {
       "source": "VentureBeat AI",
