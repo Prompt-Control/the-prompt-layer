@@ -1,6 +1,27 @@
 {
-  "generated": "2026-08-26T14:31:41.635Z",
+  "generated": "2026-08-26T16:07:00.649Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "summary": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on t...",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "isoDate": "2026-08-26T15:47:28.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "summary": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence....",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "isoDate": "2026-08-26T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
+      "summary": "Gates is mostly in the Responsible AI camp, but there are a few ideas in here we hadn't heard before....",
+      "link": "https://techcrunch.com/2026/08/26/bill-gates-wants-to-see-a-robot-tax-and-human-reserved-jobs-to-mitigate-harms-from-ai/",
+      "isoDate": "2026-08-26T14:37:01.000Z"
+    },
     {
       "source": "VentureBeat AI",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -21,27 +42,6 @@
       "summary": "Robot bodies are waiting for their AI brains to catch up....",
       "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
       "isoDate": "2026-08-26T13:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coheren...",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "isoDate": "2026-08-26T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient...",
-      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "isoDate": "2026-08-26T12:55:28.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
-      "summary": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames....",
-      "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
-      "isoDate": "2026-08-26T12:00:00.000Z"
     },
     {
       "source": "The Verge AI",
