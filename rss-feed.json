@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-26T16:07:00.649Z",
+  "generated": "2026-08-26T18:31:39.550Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages....",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "isoDate": "2026-08-26T17:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -70,13 +77,6 @@
       "summary": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. Acco...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
       "isoDate": "2026-08-21T21:25:50.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Major YouTube creators are facing backlash for accepting AI money",
-      "summary": "A still from Sam Kolder’s video “AI is replacing me.” | Screenshot: The Verge, YouTube\t\n\nOver the past few days, a number of prominent filmm...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "isoDate": "2026-08-21T13:37:52.000Z"
     },
     {
       "source": "VentureBeat AI",
