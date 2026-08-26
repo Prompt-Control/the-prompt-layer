@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-25T23:14:05.372Z",
+  "generated": "2026-08-26T00:29:26.898Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and ...",
+      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+      "isoDate": "2026-08-26T00:06:20.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
@@ -35,13 +42,6 @@
       "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI systems, according to a b...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
       "isoDate": "2026-08-25T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents....",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "isoDate": "2026-08-25T13:00:00.000Z"
     },
     {
       "source": "The Verge AI",
