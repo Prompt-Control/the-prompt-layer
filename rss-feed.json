@@ -1,12 +1,82 @@
 {
-  "generated": "2026-08-27T13:11:02.655Z",
+  "generated": "2026-08-27T23:16:04.895Z",
   "items": [
     {
+      "source": "TechCrunch AI",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is no...",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "isoDate": "2026-08-27T19:52:52.000Z"
+    },
+    {
       "source": "The Verge AI",
-      "title": "Adobe is adding more AI to Photoshop",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools. Launching in beta,...",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "isoDate": "2026-08-27T13:00:00.000Z"
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" featur...",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "isoDate": "2026-08-27T19:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a...",
+      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
+      "isoDate": "2026-08-27T17:43:24.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
+      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
+      "isoDate": "2026-08-27T16:15:52.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users f...",
+      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
+      "isoDate": "2026-08-27T16:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”...",
+      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "isoDate": "2026-08-27T14:56:52.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "summary": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost pho...",
+      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
+      "isoDate": "2026-08-27T14:27:04.000Z"
+    },
+    {
+      "source": "VentureBeat AI",
+      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
+      "summary": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s...",
+      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
+      "isoDate": "2026-08-27T14:01:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI&#8217;s executive exodus has one big winner",
+      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes...",
+      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
+      "isoDate": "2026-08-27T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
+      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It...",
+      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
+      "isoDate": "2026-08-27T13:44:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Plaud is launching AI earbuds",
+      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
+      "isoDate": "2026-08-27T13:11:23.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -16,74 +86,11 @@
       "isoDate": "2026-08-27T12:01:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
-      "summary": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers....",
-      "link": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
-      "isoDate": "2026-08-27T11:35:59.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both pro...",
-      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
-      "isoDate": "2026-08-27T06:32:51.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
-      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring privacy concerns....",
-      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
-      "isoDate": "2026-08-27T00:24:57.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
-      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches be...",
-      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
-      "isoDate": "2026-08-26T23:47:18.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
-      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company to rake in over $100 ...",
-      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
-      "isoDate": "2026-08-26T21:40:53.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
-      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak....",
-      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
-      "isoDate": "2026-08-26T21:37:39.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI’s rogue AI model incident was worse than we thought",
-      "summary": "OpenAI released a report breaking down how people use ChatGPT and who they are. | Image: The Verge\t\n\nIn July, an unreleased OpenAI model bro...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
-      "isoDate": "2026-08-26T21:36:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
-      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages....",
-      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
-      "isoDate": "2026-08-26T17:00:00.000Z"
-    },
-    {
       "source": "VentureBeat AI",
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
       "summary": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channe...",
       "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "isoDate": "2026-08-26T14:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
-      "summary": "Bill Gates, chair of the Gates Foundation, speaks during a 2024 conference. | Bloomberg via Getty Images\t\n\nBill Gates has been reflecting a ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
-      "isoDate": "2026-08-26T11:07:40.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -98,13 +105,6 @@
       "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinki...",
       "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "isoDate": "2026-05-19T17:45:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announ...",
-      "link": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-      "isoDate": "2026-01-22T14:00:00.000Z"
     }
   ]
 }
