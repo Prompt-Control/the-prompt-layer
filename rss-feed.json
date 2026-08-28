@@ -1,19 +1,54 @@
 {
-  "generated": "2026-08-28T07:13:28.036Z",
+  "generated": "2026-08-28T19:39:07.427Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without de...",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "isoDate": "2026-08-28T19:30:38.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "summary": "There's a lot of capital pouring into the business of giving models away....",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "isoDate": "2026-08-28T18:19:40.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump’s EPA wants to let data centers hide their air pollution",
+      "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make i...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "isoDate": "2026-08-28T16:28:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
+      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its seco...",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "isoDate": "2026-08-28T12:46:12.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role....",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "isoDate": "2026-08-28T12:21:06.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
+      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "isoDate": "2026-08-28T03:14:06.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 ",
       "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by ...",
       "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
       "isoDate": "2026-08-27T23:16:45.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "summary": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is no...",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "isoDate": "2026-08-27T19:52:52.000Z"
     },
     {
       "source": "The Verge AI",
@@ -23,32 +58,11 @@
       "isoDate": "2026-08-27T19:30:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "summary": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a...",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "isoDate": "2026-08-27T17:43:24.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
       "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
       "isoDate": "2026-08-27T16:15:52.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "summary": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users f...",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "isoDate": "2026-08-27T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "summary": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”...",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "isoDate": "2026-08-27T14:56:52.000Z"
     },
     {
       "source": "VentureBeat AI",
@@ -63,20 +77,6 @@
       "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes...",
       "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
       "isoDate": "2026-08-27T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It...",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "isoDate": "2026-08-27T13:44:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Plaud is launching AI earbuds",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "isoDate": "2026-08-27T13:11:23.000Z"
     },
     {
       "source": "VentureBeat AI",
