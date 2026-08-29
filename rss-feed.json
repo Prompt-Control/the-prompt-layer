@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-29T09:26:11.920Z",
+  "generated": "2026-08-29T14:43:43.976Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles....",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "isoDate": "2026-08-29T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generate...",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "isoDate": "2026-08-29T12:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -37,13 +51,6 @@
       "isoDate": "2026-08-28T12:46:12.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role....",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "isoDate": "2026-08-28T12:21:06.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
       "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win...",
@@ -70,13 +77,6 @@
       "summary": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s...",
       "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "isoDate": "2026-08-27T14:01:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes...",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "isoDate": "2026-08-27T14:00:00.000Z"
     },
     {
       "source": "VentureBeat AI",
