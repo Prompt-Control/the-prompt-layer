@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T22:50:56.307Z",
+  "generated": "2026-08-30T00:49:14.783Z",
   "items": [
     {
       "source": "TechCrunch AI",
@@ -7,6 +7,13 @@
       "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy....",
       "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
       "isoDate": "2026-08-29T18:41:59.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking da...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "isoDate": "2026-08-29T18:19:53.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -63,13 +70,6 @@
       "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" featur...",
       "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
       "isoDate": "2026-08-27T19:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "isoDate": "2026-08-27T16:15:52.000Z"
     },
     {
       "source": "VentureBeat AI",
