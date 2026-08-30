@@ -1,6 +1,20 @@
 {
-  "generated": "2026-08-30T15:32:15.505Z",
+  "generated": "2026-08-30T21:40:54.948Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone...",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "isoDate": "2026-08-30T16:54:25.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahe...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "isoDate": "2026-08-30T15:35:10.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
@@ -44,13 +58,6 @@
       "isoDate": "2026-08-29T12:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, und...",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "isoDate": "2026-08-28T20:24:11.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Trump’s EPA wants to let data centers hide their air pollution",
       "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make i...",
@@ -63,13 +70,6 @@
       "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
       "isoDate": "2026-08-28T03:14:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" featur...",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "isoDate": "2026-08-27T19:30:00.000Z"
     },
     {
       "source": "VentureBeat AI",
