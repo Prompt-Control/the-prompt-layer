@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-30T11:10:46.414Z",
+  "generated": "2026-08-30T15:32:15.505Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment...",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "isoDate": "2026-08-30T15:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -10,8 +17,8 @@
     },
     {
       "source": "The Verge AI",
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking da...",
+      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
+      "summary": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
       "isoDate": "2026-08-29T18:19:53.000Z"
     },
@@ -42,13 +49,6 @@
       "summary": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, und...",
       "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
       "isoDate": "2026-08-28T20:24:11.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
-      "summary": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without de...",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "isoDate": "2026-08-28T19:30:38.000Z"
     },
     {
       "source": "The Verge AI",
