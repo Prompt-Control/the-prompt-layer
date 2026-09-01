@@ -1,6 +1,13 @@
 {
-  "generated": "2026-08-31T22:04:51.189Z",
+  "generated": "2026-09-01T06:50:52.073Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation....",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "isoDate": "2026-09-01T00:13:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "The Pentagon now has its own version of ChatGPT and Grok",
@@ -35,13 +42,6 @@
       "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documen...",
       "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
       "isoDate": "2026-08-31T15:34:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "summary": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big...",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "isoDate": "2026-08-31T15:15:25.000Z"
     },
     {
       "source": "The Verge AI",
