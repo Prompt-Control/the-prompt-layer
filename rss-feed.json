@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-02T18:09:48.191Z",
+  "generated": "2026-09-02T21:22:58.267Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "summary": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that ch...",
+      "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+      "isoDate": "2026-09-02T20:19:14.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemi...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "isoDate": "2026-09-02T20:11:40.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Amazon’s AI assistant can now spot fake emails from the company",
@@ -25,7 +39,7 @@
     {
       "source": "TechCrunch AI",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the st...",
+      "summary": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the st...",
       "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
       "isoDate": "2026-09-02T17:09:06.000Z"
     },
@@ -51,25 +65,11 @@
       "isoDate": "2026-09-02T16:04:10.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-      "summary": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months....",
-      "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-      "isoDate": "2026-09-02T16:01:48.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google is sending MrBeast into the wilderness, armed with AI",
       "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal ...",
       "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
       "isoDate": "2026-09-02T15:47:03.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
-      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the sus...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
-      "isoDate": "2026-09-02T14:35:03.000Z"
     },
     {
       "source": "VentureBeat AI",
