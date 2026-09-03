@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-03T18:55:37.375Z",
+  "generated": "2026-09-03T21:27:42.390Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+      "summary": "The high-profile startup's annual revenue run rate stands at over $100 million....",
+      "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+      "isoDate": "2026-09-03T19:36:29.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Abliteration.ai is making a business out of removing AI guardrails",
@@ -11,7 +18,7 @@
     {
       "source": "TechCrunch AI",
       "title": "Meta is paying to peek at how you use their latest AI model",
-      "summary": "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and pu...",
+      "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 9...",
       "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
       "isoDate": "2026-09-03T18:19:56.000Z"
     },
@@ -58,53 +65,11 @@
       "isoDate": "2026-09-03T15:35:14.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-      "summary": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding i...",
-      "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-      "isoDate": "2026-09-03T15:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google says its AI weather model is getting better",
       "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowf...",
       "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
       "isoDate": "2026-09-03T15:00:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee \n\nAgent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.\nThat’s...",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "isoDate": "2026-08-27T14:01:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB \n\nAs enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approvi...",
-      "link": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "isoDate": "2026-08-27T12:01:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications \n\nEnterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channe...",
-      "link": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
-      "isoDate": "2026-08-26T14:30:00.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
-      "summary": "Rob Strechay, until recently managing director and principal analyst at theCUBE Research, has joined VentureBeat as our first Lead Analyst a...",
-      "link": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
-      "isoDate": "2026-08-19T14:18:12.000Z"
-    },
-    {
-      "source": "VentureBeat AI",
-      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinki...",
-      "link": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-      "isoDate": "2026-05-19T17:45:00.000Z"
     }
   ]
 }
