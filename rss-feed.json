@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-05T10:57:49.180Z",
+  "generated": "2026-09-05T13:38:01.417Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as t...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "isoDate": "2026-09-05T11:15:55.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
@@ -63,13 +70,6 @@
       "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks,...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
       "isoDate": "2026-09-04T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Why AI food looks like that",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images pr...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "isoDate": "2026-09-04T11:00:00.000Z"
     }
   ]
 }
