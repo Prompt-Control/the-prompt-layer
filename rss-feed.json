@@ -1,9 +1,16 @@
 {
-  "generated": "2026-09-06T20:53:16.155Z",
+  "generated": "2026-09-07T05:20:10.242Z",
   "items": [
     {
+      "source": "The Verge AI",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, Fran...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "isoDate": "2026-09-06T23:36:04.000Z"
+    },
+    {
       "source": "TechCrunch AI",
-      "title": "Authors push back as publishers and agents seek share of Anthropic settlement",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
       "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
       "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
       "isoDate": "2026-09-06T20:47:37.000Z"
@@ -63,13 +70,6 @@
       "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
       "isoDate": "2026-09-04T13:34:12.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Instagram’s AI detection is a mess (again)",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over the last few weeks,...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "isoDate": "2026-09-04T12:00:00.000Z"
     }
   ]
 }
