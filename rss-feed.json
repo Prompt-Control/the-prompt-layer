@@ -1,10 +1,45 @@
 {
-  "generated": "2026-09-08T15:26:24.628Z",
+  "generated": "2026-09-08T19:01:45.051Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands o...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "isoDate": "2026-09-08T19:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem....",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "isoDate": "2026-09-08T17:32:15.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like O...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "isoDate": "2026-09-08T17:27:31.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment ...",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "isoDate": "2026-09-08T16:20:31.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "summary": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster....",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "isoDate": "2026-09-08T15:04:09.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Mistral raises €3B as sovereign AI becomes big business",
-      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity....",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity....",
       "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
       "isoDate": "2026-09-08T14:17:48.000Z"
     },
@@ -35,41 +70,6 @@
       "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, Fran...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
       "isoDate": "2026-09-06T23:36:04.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments....",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "isoDate": "2026-09-06T20:47:37.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"...",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "isoDate": "2026-09-06T16:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI....",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "isoDate": "2026-09-05T22:49:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as t...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "isoDate": "2026-09-05T11:15:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Av...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "isoDate": "2026-09-04T17:51:35.000Z"
     }
   ]
 }
