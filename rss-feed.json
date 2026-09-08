@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-08T11:47:50.618Z",
+  "generated": "2026-09-08T15:26:24.628Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "summary": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity....",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "isoDate": "2026-09-08T14:17:48.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our und...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "isoDate": "2026-09-08T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "summary": "Suspenseful clock ticking… as you wait for AI to take your job. | Image: Adobe\t\n\nAdobe is overhauling how editors interact with AI in its Pr...",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "isoDate": "2026-09-08T13:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Opaque recurrence, and other AI terms that you should probably know",
@@ -37,13 +58,6 @@
       "isoDate": "2026-09-05T22:49:55.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"...",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "isoDate": "2026-09-05T19:35:24.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI admits to German wiki ‘incident’",
       "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as t...",
@@ -56,20 +70,6 @@
       "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Av...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
       "isoDate": "2026-09-04T17:51:35.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute f...",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "isoDate": "2026-09-04T16:05:57.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging board for other agents, ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "isoDate": "2026-09-04T13:34:12.000Z"
     }
   ]
 }
