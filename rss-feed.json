@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-09T21:17:59.648Z",
+  "generated": "2026-09-09T23:34:47.006Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board....",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "isoDate": "2026-09-09T22:25:22.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Massachusetts hits data centers with new clean power rules",
+      "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development....",
+      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+      "isoDate": "2026-09-09T21:43:34.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "isoDate": "2026-09-09T21:42:19.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
@@ -44,32 +65,11 @@
       "isoDate": "2026-09-09T19:21:48.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-      "summary": "The update uses Apple Intelligence to make better sense of your health data....",
-      "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-      "isoDate": "2026-09-09T18:16:29.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
-      "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI....",
-      "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-      "isoDate": "2026-09-09T18:08:35.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Microsoft has new AI privacy rules for schools",
       "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on studen...",
       "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
       "isoDate": "2026-09-09T17:07:48.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
-      "summary": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-du...",
-      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
-      "isoDate": "2026-09-09T13:00:00.000Z"
     }
   ]
 }
