@@ -1,19 +1,61 @@
 {
-  "generated": "2026-09-09T10:11:51.350Z",
+  "generated": "2026-09-09T14:50:12.121Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hac...",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "isoDate": "2026-09-08T21:10:27.000Z"
+      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped....",
+      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+      "isoDate": "2026-09-09T14:18:34.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX....",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "isoDate": "2026-09-08T21:04:06.000Z"
+      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund....",
+      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+      "isoDate": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform....",
+      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+      "isoDate": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "summary": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-du...",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "isoDate": "2026-09-09T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Spac...",
+      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+      "isoDate": "2026-09-09T12:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of t...",
+      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+      "isoDate": "2026-09-09T12:05:34.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Students who use AI generally score worse at school",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educationa...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "isoDate": "2026-09-09T12:05:01.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "isoDate": "2026-09-09T09:56:28.000Z"
     },
     {
       "source": "The Verge AI",
@@ -28,48 +70,6 @@
       "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
       "isoDate": "2026-09-08T20:16:09.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-      "summary": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's bigges...",
-      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-      "isoDate": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands o...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "isoDate": "2026-09-08T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-      "summary": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem....",
-      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-      "isoDate": "2026-09-08T17:32:15.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like O...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "isoDate": "2026-09-08T17:27:31.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-      "summary": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment ...",
-      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-      "isoDate": "2026-09-08T16:20:31.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome and transform our und...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "isoDate": "2026-09-08T14:00:00.000Z"
     }
   ]
 }
