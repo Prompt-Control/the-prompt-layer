@@ -1,26 +1,47 @@
 {
-  "generated": "2026-09-09T14:50:12.121Z",
+  "generated": "2026-09-09T18:04:06.195Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "summary": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped....",
-      "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
-      "isoDate": "2026-09-09T14:18:34.000Z"
+      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
+      "summary": "The company also argued that its on-device models offer consumers more privacy....",
+      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
+      "isoDate": "2026-09-09T17:36:05.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on studen...",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "isoDate": "2026-09-09T17:07:48.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "summary": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund....",
-      "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
-      "isoDate": "2026-09-09T13:00:00.000Z"
+      "title": "Superintelligence is coming. Should we let it?",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach...",
+      "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+      "isoDate": "2026-09-09T16:05:35.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "summary": "Instacart is the latest app to bake a conversational AI assistant into its platform....",
-      "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
-      "isoDate": "2026-09-09T13:00:00.000Z"
+      "title": "ControlAI’s Connor Leahy on why superintelligence is ‘not a weapon, it’s an adversary’ ",
+      "summary": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach...",
+      "link": "https://techcrunch.com/podcast/controlais-connor-leahy-on-why-superintelligence-is-not-a-weapon-its-an-adversary/",
+      "isoDate": "2026-09-09T15:50:13.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Viral AI assistant Instinct now has its own email address",
+      "summary": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users...",
+      "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+      "isoDate": "2026-09-09T15:13:12.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI ",
+      "summary": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs....",
+      "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+      "isoDate": "2026-09-09T15:02:47.000Z"
     },
     {
       "source": "The Verge AI",
@@ -28,20 +49,6 @@
       "summary": "Maxton Hall. | Image: Prime Video\t\n\nAmazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-du...",
       "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
       "isoDate": "2026-09-09T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "summary": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Spac...",
-      "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
-      "isoDate": "2026-09-09T12:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
-      "summary": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of t...",
-      "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
-      "isoDate": "2026-09-09T12:05:34.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
       "isoDate": "2026-09-08T20:53:52.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "summary": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t\n\nOpenAI announced ChatGPT Images 2.5 on Tuesday and is adding ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "isoDate": "2026-09-08T20:16:09.000Z"
     }
   ]
 }
