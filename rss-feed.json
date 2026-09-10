@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-10T11:53:29.313Z",
+  "generated": "2026-09-10T15:17:09.354Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Sure, Meta’s AI Muse works, but it sure creeps me out",
+      "summary": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's firs...",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "isoDate": "2026-09-10T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI agents are flooding public services with new requests",
+      "summary": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCr...",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "isoDate": "2026-09-10T14:53:50.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "summary": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments....",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "isoDate": "2026-09-10T14:17:37.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Why the current tech backlash feels different",
+      "summary": "This interview has been lightly edited for length and clarity. \nNick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and o...",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "isoDate": "2026-09-10T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Mathematicians want proof OpenAI didn’t use their work ",
@@ -42,34 +70,6 @@
       "summary": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t\n\nOpenAI's announcement ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
       "isoDate": "2026-09-09T21:16:34.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rew...",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "isoDate": "2026-09-09T20:44:43.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise ne...",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "isoDate": "2026-09-09T20:24:48.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo....",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "isoDate": "2026-09-09T20:03:43.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arriv...",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "isoDate": "2026-09-09T19:30:12.000Z"
     }
   ]
 }
