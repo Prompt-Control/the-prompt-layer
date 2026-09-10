@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-10T06:42:04.981Z",
+  "generated": "2026-09-10T11:53:29.313Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Mathematicians want proof OpenAI didn’t use their work ",
+      "summary": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images\t\n\nAnother re...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "isoDate": "2026-09-10T11:00:57.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
@@ -63,13 +70,6 @@
       "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arriv...",
       "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
       "isoDate": "2026-09-09T19:30:12.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft has new AI privacy rules for schools",
-      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on studen...",
-      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
-      "isoDate": "2026-09-09T17:07:48.000Z"
     }
   ]
 }
