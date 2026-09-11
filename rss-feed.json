@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-11T11:52:37.338Z",
+  "generated": "2026-09-11T15:18:55.820Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information abou...",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "isoDate": "2026-09-11T14:25:21.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
@@ -63,13 +70,6 @@
       "summary": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t\n\nMeta has launched its new Muse assistant, marking the company's firs...",
       "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
       "isoDate": "2026-09-10T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Why the current tech backlash feels different",
-      "summary": "This interview has been lightly edited for length and clarity. \nNick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and o...",
-      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "isoDate": "2026-09-10T14:00:00.000Z"
     }
   ]
 }
