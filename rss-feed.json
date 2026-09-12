@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-12T11:19:04.248Z",
+  "generated": "2026-09-12T17:28:18.051Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its m...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "isoDate": "2026-09-12T16:23:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
+      "summary": "What would it actually look like to \"pace the frontier\"?...",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "isoDate": "2026-09-12T15:52:11.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump is giving data centers a pass to pollute",
+      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "isoDate": "2026-09-12T14:41:27.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "OpenAI just wants to win",
@@ -44,32 +65,11 @@
       "isoDate": "2026-09-11T20:33:18.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT....",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "isoDate": "2026-09-11T20:30:17.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic spent this week in hot water over cybersecurity",
       "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
       "isoDate": "2026-09-11T16:09:14.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for personal information abou...",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "isoDate": "2026-09-11T14:25:21.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools dir...",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "isoDate": "2026-09-10T21:25:21.000Z"
     }
   ]
 }
