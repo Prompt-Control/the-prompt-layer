@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-12T06:34:47.729Z",
+  "generated": "2026-09-12T11:19:04.248Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI just wants to win",
+      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of it...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "isoDate": "2026-09-12T11:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
@@ -63,13 +70,6 @@
       "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools dir...",
       "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
       "isoDate": "2026-09-10T21:25:21.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up i...",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "isoDate": "2026-09-10T19:44:20.000Z"
     }
   ]
 }
