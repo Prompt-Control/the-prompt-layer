@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-13T19:01:03.504Z",
+  "generated": "2026-09-13T21:50:23.628Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "isoDate": "2026-09-13T19:41:48.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity....",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "isoDate": "2026-09-13T19:40:15.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
@@ -51,25 +65,11 @@
       "isoDate": "2026-09-12T14:41:27.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "OpenAI just wants to win",
-      "summary": "OpenAI has spent the last few years planting flags across the increasingly difficult terrain in mathematics. This week, it claimed one of it...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "isoDate": "2026-09-12T11:00:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
       "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
       "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
       "isoDate": "2026-09-11T22:58:17.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a ...",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "isoDate": "2026-09-11T20:59:47.000Z"
     }
   ]
 }
