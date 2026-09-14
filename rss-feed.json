@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-14T07:14:52.933Z",
+  "generated": "2026-09-14T14:27:52.382Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor ...",
+      "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+      "isoDate": "2026-09-14T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
+      "summary": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making....",
+      "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+      "isoDate": "2026-09-14T13:55:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Da...",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "isoDate": "2026-09-14T13:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Trump and Mike Johnson think the AI industry is overreacting",
@@ -44,32 +65,11 @@
       "isoDate": "2026-09-12T20:19:16.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic CEO outlines plan to slow AI development",
-      "summary": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?...",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "isoDate": "2026-09-12T19:34:44.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic CEO says it’s time to pump the brakes on AI",
       "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its m...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
       "isoDate": "2026-09-12T16:23:40.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Trump is giving data centers a pass to pollute",
-      "summary": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "isoDate": "2026-09-12T14:41:27.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A....",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "isoDate": "2026-09-11T22:58:17.000Z"
     }
   ]
 }
