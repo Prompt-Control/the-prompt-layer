@@ -1,12 +1,54 @@
 {
-  "generated": "2026-09-15T06:49:37.557Z",
+  "generated": "2026-09-15T17:20:15.268Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it....",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "isoDate": "2026-09-15T01:50:48.000Z"
+      "title": "Meta expands subscription push with new AI-focused plans",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp....",
+      "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
+      "isoDate": "2026-09-15T17:05:24.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pa...",
+      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "isoDate": "2026-09-15T15:47:03.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C....",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "isoDate": "2026-09-15T15:22:48.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscrip...",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "isoDate": "2026-09-15T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI....",
+      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+      "isoDate": "2026-09-15T14:42:37.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (F...",
+      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-15T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSaf...",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "isoDate": "2026-09-15T13:36:45.000Z"
     },
     {
       "source": "The Verge AI",
@@ -16,13 +58,6 @@
       "isoDate": "2026-09-14T22:59:41.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel different...",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "isoDate": "2026-09-14T21:51:02.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "What execs and politicians are saying about slowing down AI development",
       "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Fro...",
@@ -30,46 +65,11 @@
       "isoDate": "2026-09-14T21:21:42.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode....",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "isoDate": "2026-09-14T20:44:14.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
       "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RA...",
       "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
       "isoDate": "2026-09-14T20:03:37.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "With iOS 27, I’m actually using Siri again",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day....",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "isoDate": "2026-09-14T17:10:30.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "summary": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for...",
-      "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-      "isoDate": "2026-09-14T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Da...",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "isoDate": "2026-09-14T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "isoDate": "2026-09-13T19:41:48.000Z"
     }
   ]
 }
