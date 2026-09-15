@@ -1,6 +1,41 @@
 {
-  "generated": "2026-09-14T19:38:32.446Z",
+  "generated": "2026-09-15T01:01:05.180Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed o...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "isoDate": "2026-09-14T22:59:41.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel different...",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "isoDate": "2026-09-14T21:51:02.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Fro...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "isoDate": "2026-09-14T21:21:42.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode....",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "isoDate": "2026-09-14T20:44:14.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RA...",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "isoDate": "2026-09-14T20:03:37.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "With iOS 27, I’m actually using Siri again",
@@ -23,20 +58,6 @@
       "isoDate": "2026-09-14T16:27:53.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-      "summary": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will conti...",
-      "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-      "isoDate": "2026-09-14T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-      "summary": "Fathom said that it has over 400,000 monthly active users....",
-      "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-      "isoDate": "2026-09-14T14:45:44.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
       "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Da...",
@@ -49,27 +70,6 @@
       "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
       "isoDate": "2026-09-13T19:41:48.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI’s rogue AI tried to hack another company in May",
-      "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent resear...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "isoDate": "2026-09-12T21:41:36.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
-      "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, A...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "isoDate": "2026-09-12T21:16:28.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "summary": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its m...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "isoDate": "2026-09-12T16:23:40.000Z"
     }
   ]
 }
