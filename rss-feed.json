@@ -1,26 +1,40 @@
 {
-  "generated": "2026-09-15T17:20:15.268Z",
+  "generated": "2026-09-15T20:30:15.676Z",
   "items": [
     {
       "source": "TechCrunch AI",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging t...",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "isoDate": "2026-09-15T20:12:53.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe...",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "isoDate": "2026-09-15T19:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world....",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "isoDate": "2026-09-15T18:29:20.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI agents now have a place to snitch",
+      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities....",
+      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
+      "isoDate": "2026-09-15T17:42:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "Meta expands subscription push with new AI-focused plans",
-      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp....",
+      "summary": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp....",
       "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
       "isoDate": "2026-09-15T17:05:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pa...",
-      "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "isoDate": "2026-09-15T15:47:03.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-      "summary": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C....",
-      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-      "isoDate": "2026-09-15T15:22:48.000Z"
     },
     {
       "source": "The Verge AI",
@@ -28,20 +42,6 @@
       "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscrip...",
       "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
       "isoDate": "2026-09-15T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
-      "summary": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI....",
-      "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
-      "isoDate": "2026-09-15T14:42:37.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-      "summary": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (F...",
-      "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-      "isoDate": "2026-09-15T14:30:00.000Z"
     },
     {
       "source": "The Verge AI",
