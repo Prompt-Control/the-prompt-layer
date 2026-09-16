@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-16T17:19:36.356Z",
+  "generated": "2026-09-16T20:29:52.423Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?...",
+      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+      "isoDate": "2026-09-16T20:12:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight....",
+      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+      "isoDate": "2026-09-16T18:25:25.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple...",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "isoDate": "2026-09-16T17:20:29.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Your AI agents can now control your Google Home devices",
+      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connect...",
+      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+      "isoDate": "2026-09-16T17:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Google will now let any AI agent run your smart home",
@@ -37,39 +65,11 @@
       "isoDate": "2026-09-16T14:45:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Threads’ new features let podcasters promote shows and reach listeners",
-      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and aud...",
-      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
-      "isoDate": "2026-09-16T14:24:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Septem...",
-      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-      "isoDate": "2026-09-16T14:15:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026 ",
-      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, o...",
-      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-      "isoDate": "2026-09-16T14:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "A brief history of AI executives calling for regulation",
       "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow do...",
       "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
       "isoDate": "2026-09-16T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are resp...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "isoDate": "2026-09-15T23:34:25.000Z"
     }
   ]
 }
