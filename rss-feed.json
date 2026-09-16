@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-16T06:53:46.197Z",
+  "generated": "2026-09-16T12:15:14.053Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "A brief history of AI executives calling for regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow do...",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "isoDate": "2026-09-16T12:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amazon launches Alexa+ in India with Hindi support",
+      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period...",
+      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+      "isoDate": "2026-09-16T10:34:47.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
@@ -11,7 +25,7 @@
     {
       "source": "The Verge AI",
       "title": "AI and data centers are incredibly unpopular in every poll",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are resp...",
+      "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are resp...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "isoDate": "2026-09-15T23:34:25.000Z"
     },
@@ -37,13 +51,6 @@
       "isoDate": "2026-09-15T19:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world....",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "isoDate": "2026-09-15T18:29:20.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
       "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscrip...",
@@ -63,13 +70,6 @@
       "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed o...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
       "isoDate": "2026-09-14T22:59:41.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Fro...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "isoDate": "2026-09-14T21:21:42.000Z"
     }
   ]
 }
