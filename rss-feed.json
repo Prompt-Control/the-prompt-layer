@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-15T23:13:37.380Z",
+  "generated": "2026-09-16T01:52:08.568Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI p...",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "isoDate": "2026-09-16T00:20:39.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are resp...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "isoDate": "2026-09-15T23:34:25.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "The AI data center boom is colliding with cities scarred by big industry ",
@@ -30,13 +44,6 @@
       "isoDate": "2026-09-15T18:29:20.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI agents now have a place to snitch",
-      "summary": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities....",
-      "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-      "isoDate": "2026-09-15T17:42:59.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
       "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscrip...",
@@ -63,13 +70,6 @@
       "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Fro...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
       "isoDate": "2026-09-14T21:21:42.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "summary": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RA...",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "isoDate": "2026-09-14T20:03:37.000Z"
     }
   ]
 }
