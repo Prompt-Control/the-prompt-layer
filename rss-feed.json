@@ -1,6 +1,62 @@
 {
-  "generated": "2026-09-16T12:15:14.053Z",
+  "generated": "2026-09-16T17:19:36.356Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Google will now let any AI agent run your smart home",
+      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGo...",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "isoDate": "2026-09-16T17:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic merges Claude chat and Cowork in one interface",
+      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers....",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+      "isoDate": "2026-09-16T16:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "isoDate": "2026-09-16T16:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunc...",
+      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-16T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The sexy AI-powered dating app scams are here",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "isoDate": "2026-09-16T14:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Threads’ new features let podcasters promote shows and reach listeners",
+      "summary": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and aud...",
+      "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+      "isoDate": "2026-09-16T14:24:58.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+      "summary": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before Septem...",
+      "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+      "isoDate": "2026-09-16T14:15:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026 ",
+      "summary": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, o...",
+      "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-16T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "A brief history of AI executives calling for regulation",
@@ -9,67 +65,11 @@
       "isoDate": "2026-09-16T12:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "summary": "Amazon is letting all customers use Alexa+ assistant in early access period...",
-      "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-      "isoDate": "2026-09-16T10:34:47.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI p...",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "isoDate": "2026-09-16T00:20:39.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "AI and data centers are incredibly unpopular in every poll",
       "summary": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are resp...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
       "isoDate": "2026-09-15T23:34:25.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The AI data center boom is colliding with cities scarred by big industry ",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborho...",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "isoDate": "2026-09-15T21:47:38.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging t...",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "isoDate": "2026-09-15T20:12:53.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe...",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "isoDate": "2026-09-15T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscrip...",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "isoDate": "2026-09-15T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "summary": "The new SimpliSafe Video Doorbell Series 2 adds 2K resolution and dual band Wi-Fi. | Image: Simplisafe\t\n\nDIY home security company SimpliSaf...",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "isoDate": "2026-09-15T13:36:45.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed o...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "isoDate": "2026-09-14T22:59:41.000Z"
     }
   ]
 }
