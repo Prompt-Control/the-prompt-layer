@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-16T20:29:52.423Z",
+  "generated": "2026-09-17T01:56:11.414Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+      "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but war...",
+      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+      "isoDate": "2026-09-16T21:07:24.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among f...",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "isoDate": "2026-09-16T20:59:13.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shippi...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "isoDate": "2026-09-16T20:40:46.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
@@ -49,27 +70,6 @@
       "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
       "isoDate": "2026-09-16T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
-      "summary": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunc...",
-      "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
-      "isoDate": "2026-09-16T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The sexy AI-powered dating app scams are here",
-      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-      "isoDate": "2026-09-16T14:45:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "A brief history of AI executives calling for regulation",
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow do...",
-      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "isoDate": "2026-09-16T12:00:00.000Z"
     }
   ]
 }
