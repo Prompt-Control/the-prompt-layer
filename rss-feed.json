@@ -1,6 +1,48 @@
 {
-  "generated": "2026-09-17T01:56:11.414Z",
+  "generated": "2026-09-17T12:15:48.132Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Inside the suddenly explosive world of AI safety",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "isoDate": "2026-09-17T11:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+      "summary": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies...",
+      "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+      "isoDate": "2026-09-17T05:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+      "summary": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founde...",
+      "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-17T03:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Snap tries to make the case again for its $2,200 smart glasses",
+      "summary": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist....",
+      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "isoDate": "2026-09-17T00:58:49.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Al Gore says the real AI risk isn’t data centers",
+      "summary": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI indu...",
+      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+      "isoDate": "2026-09-16T23:43:09.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks...",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "isoDate": "2026-09-16T23:40:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
@@ -23,53 +65,11 @@
       "isoDate": "2026-09-16T20:40:46.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?...",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "isoDate": "2026-09-16T20:12:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "summary": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight....",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "isoDate": "2026-09-16T18:25:25.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple might make servers again to cash in on the AI rush",
       "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple...",
       "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
       "isoDate": "2026-09-16T17:20:29.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Your AI agents can now control your Google Home devices",
-      "summary": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connect...",
-      "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-      "isoDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGo...",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "isoDate": "2026-09-16T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic merges Claude chat and Cowork in one interface",
-      "summary": "Anthropic is initially releasing these features to Pro and Max plan subscribers....",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-      "isoDate": "2026-09-16T16:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Claude comes for Gemini with its own take on Docs and Slides",
-      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-      "isoDate": "2026-09-16T16:30:00.000Z"
     }
   ]
 }
