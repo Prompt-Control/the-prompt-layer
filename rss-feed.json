@@ -1,10 +1,24 @@
 {
-  "generated": "2026-09-17T20:37:11.708Z",
+  "generated": "2026-09-17T23:09:42.189Z",
   "items": [
     {
       "source": "TechCrunch AI",
+      "title": "PrismML hopes its tiny LLM will change how we all use AI",
+      "summary": "If AI lab PrismML isn't on your radar yet, it should be....",
+      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
+      "isoDate": "2026-09-17T22:34:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
+      "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of Ameri...",
+      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
+      "isoDate": "2026-09-17T22:14:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
       "title": "The fix for rogue AI agents could be more AI",
-      "summary": "Y Combinator has funded 106 companies related to AI observability in recent years...",
+      "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer,...",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
       "isoDate": "2026-09-17T20:34:47.000Z"
     },
@@ -23,53 +37,39 @@
       "isoDate": "2026-09-17T20:19:37.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "summary": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics....",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "isoDate": "2026-09-17T20:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "summary": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times co...",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "isoDate": "2026-09-17T19:46:08.000Z"
+      "source": "The Verge AI",
+      "title": "The AI Superintelligence Slowdown",
+      "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "isoDate": "2026-09-17T19:28:24.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks...",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "isoDate": "2026-09-16T23:40:00.000Z"
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "summary": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and libra...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "isoDate": "2026-09-17T18:58:05.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among f...",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "isoDate": "2026-09-16T20:59:13.000Z"
+      "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+      "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spir...",
+      "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+      "isoDate": "2026-09-17T14:00:00.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shippi...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "isoDate": "2026-09-16T20:40:46.000Z"
+      "title": "AI is feared globally as the destroyer of jobs",
+      "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew\t\n\nPew ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
+      "isoDate": "2026-09-17T14:00:00.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple...",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "isoDate": "2026-09-16T17:20:29.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google will now let any AI agent run your smart home",
-      "summary": "Google is inviting third-party agents, including Claude and Open Claw, into Google Home. | Photo by Jennifer Pattison Tuohy / The Verge\t\n\nGo...",
-      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
-      "isoDate": "2026-09-16T17:00:00.000Z"
+      "title": "Inside the suddenly explosive world of AI safety",
+      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
+      "isoDate": "2026-09-17T11:30:00.000Z"
     }
   ]
 }
