@@ -1,10 +1,31 @@
 {
-  "generated": "2026-09-18T18:40:20.854Z",
+  "generated": "2026-09-18T21:18:04.334Z",
   "items": [
     {
       "source": "The Verge AI",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentat...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "isoDate": "2026-09-18T21:07:24.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "World model companies are keeping a lot of secrets",
+      "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their...",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "isoDate": "2026-09-18T20:18:14.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence....",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "isoDate": "2026-09-18T18:49:30.000Z"
+    },
+    {
+      "source": "The Verge AI",
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in...",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in dat...",
       "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "isoDate": "2026-09-18T18:29:17.000Z"
     },
@@ -30,25 +51,11 @@
       "isoDate": "2026-09-18T17:09:56.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace ...",
-      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
-      "isoDate": "2026-09-18T17:06:32.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Gavin Newsom is pushing for an AI kill switch",
       "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switc...",
       "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "isoDate": "2026-09-18T17:04:51.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation....",
-      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-      "isoDate": "2026-09-18T16:35:49.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
       "isoDate": "2026-09-18T15:30:16.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Flash floods can strike without warning — this new technology could change that",
-      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentuck...",
-      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
-      "isoDate": "2026-09-18T11:00:00.000Z"
     }
   ]
 }
