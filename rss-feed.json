@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-17T23:09:42.189Z",
+  "generated": "2026-09-18T01:43:21.110Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+      "summary": "The round values the data center giant at $30.9 billion....",
+      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+      "isoDate": "2026-09-17T23:25:52.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"Th...",
+      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+      "isoDate": "2026-09-17T23:21:17.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "PrismML hopes its tiny LLM will change how we all use AI",
@@ -21,20 +35,6 @@
       "summary": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer,...",
       "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
       "isoDate": "2026-09-17T20:34:47.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing ...",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "isoDate": "2026-09-17T20:34:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Is the AI safety debate about safety or control?",
-      "summary": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety....",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "isoDate": "2026-09-17T20:19:37.000Z"
     },
     {
       "source": "The Verge AI",
