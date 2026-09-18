@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-18T06:45:02.433Z",
+  "generated": "2026-09-18T11:55:02.613Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Flash floods can strike without warning — this new technology could change that",
+      "summary": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentuck...",
+      "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+      "isoDate": "2026-09-18T11:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
@@ -63,13 +70,6 @@
       "summary": "In 34 of the 37 surveyed countries, people are more likely to believe AI will lead to job losses over the next 20 years. | Image: Pew\t\n\nPew ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
       "isoDate": "2026-09-17T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Inside the suddenly explosive world of AI safety",
-      "summary": "On a sunny July day in Berkeley, California, the country's top AI safety researchers gathered on an unmarked floor of an unmarked building. ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996563/ai-safety-research-metr-redwood-openai-anthropic",
-      "isoDate": "2026-09-17T11:30:00.000Z"
     }
   ]
 }
