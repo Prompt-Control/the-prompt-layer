@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-19T19:38:50.738Z",
+  "generated": "2026-09-19T21:49:24.690Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+      "summary": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can a...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+      "isoDate": "2026-09-19T20:44:40.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff....",
+      "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "isoDate": "2026-09-19T20:39:13.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
+      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "isoDate": "2026-09-19T19:57:47.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Google’s Gemini is the latest AI model to hack other companies",
@@ -30,25 +51,11 @@
       "isoDate": "2026-09-19T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-      "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on y...",
-      "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-      "isoDate": "2026-09-19T14:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit...",
       "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "isoDate": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
-      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "isoDate": "2026-09-19T13:00:00.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentat...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "isoDate": "2026-09-18T21:07:24.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in dat...",
-      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "isoDate": "2026-09-18T18:29:17.000Z"
     }
   ]
 }
