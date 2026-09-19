@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-19T11:39:08.658Z",
+  "generated": "2026-09-19T14:53:06.315Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit...",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "isoDate": "2026-09-19T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models....",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "isoDate": "2026-09-19T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The AI regulation smackdown isn’t over",
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "isoDate": "2026-09-19T13:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -30,13 +51,6 @@
       "isoDate": "2026-09-18T23:13:31.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI hallucination nearly triggers US military operation",
-      "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns....",
-      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-      "isoDate": "2026-09-18T23:12:32.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentat...",
@@ -56,20 +70,6 @@
       "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switc...",
       "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
       "isoDate": "2026-09-18T17:04:51.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "What Hollywood thinks about existential AI warnings",
-      "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-      "isoDate": "2026-09-18T16:35:19.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Security researchers used Claude to help them hack into OpenAI",
-      "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
-      "isoDate": "2026-09-18T15:30:16.000Z"
     }
   ]
 }
