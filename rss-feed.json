@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-20T16:32:47.028Z",
+  "generated": "2026-09-20T19:06:29.696Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Is the AI industry really ready to slow down?",
+      "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down....",
+      "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+      "isoDate": "2026-09-20T18:56:04.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who hav...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+      "isoDate": "2026-09-20T18:50:18.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+      "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions...",
+      "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+      "isoDate": "2026-09-20T18:32:52.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co...",
+      "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+      "isoDate": "2026-09-20T18:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Trump now says he wants to form an ‘AI Force’",
@@ -37,39 +65,11 @@
       "isoDate": "2026-09-19T20:39:13.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax....",
-      "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-      "isoDate": "2026-09-19T19:57:47.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately....",
-      "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-      "isoDate": "2026-09-19T17:30:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Gemini went rogue, hacked three companies, and Google hid it",
       "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "isoDate": "2026-09-19T15:25:03.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
-      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eatin...",
-      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
-      "isoDate": "2026-09-19T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit...",
-      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "isoDate": "2026-09-19T14:00:00.000Z"
     }
   ]
 }
