@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-20T07:09:06.929Z",
+  "generated": "2026-09-20T12:39:57.572Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+      "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulner...",
+      "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+      "isoDate": "2026-09-20T12:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
@@ -63,13 +70,6 @@
       "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "isoDate": "2026-09-19T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-      "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentat...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-      "isoDate": "2026-09-18T21:07:24.000Z"
     }
   ]
 }
