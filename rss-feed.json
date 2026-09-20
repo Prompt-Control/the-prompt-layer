@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-20T12:39:57.572Z",
+  "generated": "2026-09-20T16:32:47.028Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Trump now says he wants to form an ‘AI Force’",
+      "summary": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+      "isoDate": "2026-09-20T15:39:22.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+      "summary": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up...",
+      "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-20T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
@@ -51,25 +65,11 @@
       "isoDate": "2026-09-19T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI safety conversations have gotten unbelievable",
-      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction....",
-      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
-      "isoDate": "2026-09-19T15:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit...",
       "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
       "isoDate": "2026-09-19T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The AI regulation smackdown isn’t over",
-      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-      "isoDate": "2026-09-19T13:00:00.000Z"
     }
   ]
 }
