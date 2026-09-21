@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T01:51:29.770Z",
+  "generated": "2026-09-21T07:18:27.188Z",
   "items": [
     {
       "source": "TechCrunch AI",
@@ -21,13 +21,6 @@
       "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down....",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
       "isoDate": "2026-09-20T18:56:04.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
-      "summary": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who hav...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-      "isoDate": "2026-09-20T18:50:18.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -70,6 +63,13 @@
       "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
       "isoDate": "2026-09-19T15:25:03.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antit...",
+      "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "isoDate": "2026-09-19T14:00:00.000Z"
     }
   ]
 }
