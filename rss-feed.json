@@ -1,6 +1,62 @@
 {
-  "generated": "2026-09-22T12:09:08.209Z",
+  "generated": "2026-09-22T17:22:50.030Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silico...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "isoDate": "2026-09-22T16:34:08.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"...",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "isoDate": "2026-09-22T16:30:07.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announce...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "isoDate": "2026-09-22T16:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender peop...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "isoDate": "2026-09-22T16:01:10.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe....",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "isoDate": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvi...",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "isoDate": "2026-09-22T15:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Re...",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "isoDate": "2026-09-22T14:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup i...",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "isoDate": "2026-09-22T14:15:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Meta patches Muse exploit that let attackers control the AI agent",
@@ -9,67 +65,11 @@
       "isoDate": "2026-09-22T11:53:58.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people....",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "isoDate": "2026-09-21T23:44:28.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "California tightens rules on AI data center energy and water use",
       "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as report...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
       "isoDate": "2026-09-21T20:29:45.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research....",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "isoDate": "2026-09-21T20:15:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operato...",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "isoDate": "2026-09-21T19:25:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period af...",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "isoDate": "2026-09-21T19:19:21.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're u...",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "isoDate": "2026-09-21T17:55:18.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the ...",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "isoDate": "2026-09-21T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a c...",
-      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "isoDate": "2026-09-21T13:36:52.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images\t\n\nGovernments need to rein in increasingly capable AI agents befo...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "isoDate": "2026-09-21T10:18:06.000Z"
     }
   ]
 }
