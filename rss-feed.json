@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-22T17:22:50.030Z",
+  "generated": "2026-09-22T20:31:59.855Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally....",
+      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+      "isoDate": "2026-09-22T20:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+      "summary": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace ...",
+      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+      "isoDate": "2026-09-22T19:09:11.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+      "summary": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra....",
+      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+      "isoDate": "2026-09-22T18:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
@@ -35,27 +56,6 @@
       "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe....",
       "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
       "isoDate": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
-      "summary": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvi...",
-      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
-      "isoDate": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-      "summary": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Re...",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-      "isoDate": "2026-09-22T14:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-      "summary": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup i...",
-      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-      "isoDate": "2026-09-22T14:15:00.000Z"
     },
     {
       "source": "The Verge AI",
