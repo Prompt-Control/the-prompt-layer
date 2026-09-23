@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-22T20:31:59.855Z",
+  "generated": "2026-09-23T01:57:46.646Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "isoDate": "2026-09-23T00:17:17.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starti...",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "isoDate": "2026-09-22T23:21:49.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "summary": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach....",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "isoDate": "2026-09-22T21:56:43.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as rep...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "isoDate": "2026-09-22T20:52:40.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -30,13 +58,6 @@
       "isoDate": "2026-09-22T16:34:08.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "summary": "Anthropic called it \"the strongest-performing model we've tested to date.\"...",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "isoDate": "2026-09-22T16:30:07.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
       "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announce...",
@@ -49,27 +70,6 @@
       "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender peop...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
       "isoDate": "2026-09-22T16:01:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AstroForge is putting AI in command of its next spacecraft",
-      "summary": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe....",
-      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-      "isoDate": "2026-09-22T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta patches Muse exploit that let attackers control the AI agent",
-      "summary": "The zero-day exploit required local access to the user’s device, but gave potential attackers access to Muse accounts. | Image: The Verge\t\n\n...",
-      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
-      "isoDate": "2026-09-22T11:53:58.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "California tightens rules on AI data center energy and water use",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as report...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "isoDate": "2026-09-21T20:29:45.000Z"
     }
   ]
 }
