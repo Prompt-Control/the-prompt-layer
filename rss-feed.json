@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-24T00:02:49.884Z",
+  "generated": "2026-09-24T05:33:24.891Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "summary": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta ...",
+      "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+      "isoDate": "2026-09-24T01:13:32.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "summary": "The tiny hardware device creates  another mobile home for its AI agent Muse....",
+      "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "isoDate": "2026-09-24T00:46:17.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta is making a standalone Muse AI gadget",
+      "summary": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Ma...",
+      "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+      "isoDate": "2026-09-24T00:15:20.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Muse is coming to Meta smart glasses",
@@ -37,13 +58,6 @@
       "isoDate": "2026-09-23T22:45:00.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
-      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. ...",
-      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
-      "isoDate": "2026-09-23T22:30:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Anthropic says its biology lab has already found something big",
       "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop....",
@@ -56,20 +70,6 @@
       "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopp...",
       "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "isoDate": "2026-09-23T19:31:28.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT mobile app gets voice-based agentic features",
-      "summary": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks....",
-      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
-      "isoDate": "2026-09-23T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Even Americans who use AI every day are worried about it",
-      "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation....",
-      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
-      "isoDate": "2026-09-23T16:49:58.000Z"
     }
   ]
 }
