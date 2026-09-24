@@ -1,33 +1,61 @@
 {
-  "generated": "2026-09-23T21:08:11.878Z",
+  "generated": "2026-09-24T00:02:49.884Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Muse is coming to Meta smart glasses",
+      "summary": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the ne...",
+      "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+      "isoDate": "2026-09-23T23:40:56.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta introduces camera-free AI glasses",
+      "summary": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life....",
+      "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+      "isoDate": "2026-09-23T23:39:44.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta ditches the camera on its newest smart glasses",
+      "summary": "The Ray-Ban Meta Audio Glasses have no cameras. | Photo by Brett Putman / The Verge\t\n\nWalking around Meta Connect 2026, everyone's sporting ...",
+      "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+      "isoDate": "2026-09-23T23:37:17.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta is making Muse more powerful and will let you video chat with it, too",
+      "summary": "Meta is quickly iterating on its new Muse AI agent, announcing a bunch of updates today that make the bot more capable and able to chat with...",
+      "link": "https://www.theverge.com/tech/999454/meta-muse-ai-agent-video-chat-connect-2026",
+      "isoDate": "2026-09-23T23:19:42.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta Connect 2026: The biggest news and announcements",
+      "summary": "It’s about time for Meta Connect, the company’s annual product launch event. This year, given the company’s major focus on AI and wearables ...",
+      "link": "https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements",
+      "isoDate": "2026-09-23T22:45:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta Connect 2026 live blog: On the ground at Mark Zuckerberg’s next big product launch",
+      "summary": "It's time once again for Meta's annual September product launch event, and The Verge is on the ground in Menlo Park to cover the show live. ...",
+      "link": "https://www.theverge.com/tech/998457/meta-connect-2026-live-blog-mark-zuckerberg-keynote",
+      "isoDate": "2026-09-23T22:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says its biology lab has already found something big",
+      "summary": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop....",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "isoDate": "2026-09-23T22:17:39.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
       "summary": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopp...",
       "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
       "isoDate": "2026-09-23T19:31:28.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-      "summary": "An adorable little bear that wants to help you buy things.\t\n\nModern life comes with an unending, auto-populating to-do list. \nIt never cease...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-      "isoDate": "2026-09-23T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Data centers are black boxes, but California wants to change that ",
-      "summary": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data ...",
-      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-      "isoDate": "2026-09-23T18:22:57.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-      "summary": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Cr...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-      "isoDate": "2026-09-23T18:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -42,34 +70,6 @@
       "summary": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation....",
       "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
       "isoDate": "2026-09-23T16:49:58.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-      "summary": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial super...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-      "isoDate": "2026-09-23T16:23:05.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "YouTube Music gets more conversational with new AI features",
-      "summary": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching f...",
-      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-      "isoDate": "2026-09-23T15:19:30.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "YouTube will let you build your own algorithm with AI",
-      "summary": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed a...",
-      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-      "isoDate": "2026-09-23T14:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "YouTube is building AI creator tools that do almost everything for them",
-      "summary": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algori...",
-      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-      "isoDate": "2026-09-23T14:30:00.000Z"
     }
   ]
 }
