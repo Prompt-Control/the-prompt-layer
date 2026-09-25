@@ -1,26 +1,61 @@
 {
-  "generated": "2026-09-25T15:35:30.663Z",
+  "generated": "2026-09-25T19:35:59.435Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-      "summary": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss clos...",
-      "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-      "isoDate": "2026-09-25T15:00:00.000Z"
+      "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
+      "summary": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion,...",
+      "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
+      "isoDate": "2026-09-25T19:13:38.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-      "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people....",
-      "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-      "isoDate": "2026-09-25T14:15:00.000Z"
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses....",
+      "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "isoDate": "2026-09-25T18:48:33.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.",
-      "summary": "Last 24 hours to save up to $200 on your TechCrunch Disrupt 2026 pass. Leave the event further in your startup's trajectory than where you s...",
-      "link": "https://techcrunch.com/2026/09/25/last-24-hours-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-5-to-attend/",
-      "isoDate": "2026-09-25T14:00:00.000Z"
+      "title": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "summary": "The funding, which comes from Third Point, Nvidia, and others, will  fuel the company's massive AI data center buildout....",
+      "link": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/",
+      "isoDate": "2026-09-25T18:33:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+      "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s tu...",
+      "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+      "isoDate": "2026-09-25T18:22:47.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Some Supabase customers are publicly exposing reams of people’s data to the web",
+      "summary": "The findings highlight how AI-generated and vibe-coded apps can spill and expose users' data when not configured or secured properly....",
+      "link": "https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/",
+      "isoDate": "2026-09-25T17:29:46.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fasc...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "isoDate": "2026-09-25T16:49:53.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Sony and UMG are suing Suno again",
+      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSony and Universa...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "isoDate": "2026-09-25T15:51:56.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Sinc...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "isoDate": "2026-09-25T15:39:48.000Z"
     },
     {
       "source": "The Verge AI",
@@ -35,41 +70,6 @@
       "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three A...",
       "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
       "isoDate": "2026-09-25T12:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "summary": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment peri...",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "isoDate": "2026-09-25T05:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time....",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "isoDate": "2026-09-24T19:59:26.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a....",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "isoDate": "2026-09-24T19:15:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.  \nThe ...",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "isoDate": "2026-09-24T18:04:44.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools  that...",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "isoDate": "2026-09-24T17:52:29.000Z"
     }
   ]
 }
