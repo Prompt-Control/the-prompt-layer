@@ -1,6 +1,13 @@
 {
-  "generated": "2026-09-26T14:46:37.961Z",
+  "generated": "2026-09-26T18:06:27.087Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the de...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "isoDate": "2026-09-26T16:34:59.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -63,13 +70,6 @@
       "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Sinc...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
       "isoDate": "2026-09-25T15:39:48.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "summary": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of G...",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "isoDate": "2026-09-25T13:00:00.000Z"
     }
   ]
 }
