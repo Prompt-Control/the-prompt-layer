@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-27T14:28:46.790Z",
+  "generated": "2026-09-27T18:41:57.147Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones s...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "isoDate": "2026-09-27T17:21:07.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "summary": "\"AI is the devil and I its maker.\"...",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "isoDate": "2026-09-27T16:30:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
@@ -44,13 +58,6 @@
       "isoDate": "2026-09-26T01:08:57.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans....",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "isoDate": "2026-09-25T23:11:10.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta makes the Muse filesystem even more accessible",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fasc...",
@@ -63,13 +70,6 @@
       "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSony and Universa...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
       "isoDate": "2026-09-25T15:51:56.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns about AI safety. Sinc...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "isoDate": "2026-09-25T15:39:48.000Z"
     }
   ]
 }
