@@ -1,6 +1,27 @@
 {
-  "generated": "2026-09-27T18:41:57.147Z",
+  "generated": "2026-09-27T21:40:46.230Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox th...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "isoDate": "2026-09-27T20:46:36.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "isoDate": "2026-09-27T20:34:28.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic....",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "isoDate": "2026-09-27T19:57:30.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -37,13 +58,6 @@
       "isoDate": "2026-09-26T16:34:59.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves....",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "isoDate": "2026-09-26T14:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
       "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business.\nMatth...",
@@ -51,25 +65,11 @@
       "isoDate": "2026-09-26T14:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing line of smart glasses....",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "isoDate": "2026-09-26T01:08:57.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Meta makes the Muse filesystem even more accessible",
       "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fasc...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
       "isoDate": "2026-09-25T16:49:53.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Sony and UMG are suing Suno again",
-      "summary": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t\n\nSony and Universa...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "isoDate": "2026-09-25T15:51:56.000Z"
     }
   ]
 }
