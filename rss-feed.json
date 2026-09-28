@@ -1,75 +1,75 @@
 {
-  "generated": "2026-09-28T14:35:53.510Z",
+  "generated": "2026-09-28T20:52:01.175Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "summary": "Modulate deploys its models to detect deepfake, fraud and scam...",
-      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "isoDate": "2026-09-28T14:05:00.000Z"
+      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist....",
+      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+      "isoDate": "2026-09-28T20:39:33.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is Oct. 2",
-      "summary": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your star...",
-      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "isoDate": "2026-09-28T14:00:00.000Z"
+      "title": "Shopify opens checkout to browser-based AI agents",
+      "summary": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buye...",
+      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+      "isoDate": "2026-09-28T19:33:57.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI’s AI agents need to catch up",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's ho...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "isoDate": "2026-09-28T18:45:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Insuretech Outmarket raises $34.5M just months after prior round",
-      "summary": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers....",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "isoDate": "2026-09-28T14:00:00.000Z"
+      "title": "Nvidia launches new platform for reining in rogue AI agents",
+      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia...",
+      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
+      "isoDate": "2026-09-28T18:31:23.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. \nAtlassian is one of those companies that every other co...",
-      "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-      "isoDate": "2026-09-28T14:00:00.000Z"
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headqua...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "isoDate": "2026-09-28T18:30:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "summary": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion....",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "isoDate": "2026-09-28T13:38:48.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hackin...",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "isoDate": "2026-09-28T13:36:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox th...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "isoDate": "2026-09-27T20:46:36.000Z"
+      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
+      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn....",
+      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
+      "isoDate": "2026-09-28T18:00:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump...",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "isoDate": "2026-09-27T20:34:28.000Z"
+      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents....",
+      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+      "isoDate": "2026-09-28T17:29:50.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "summary": "The United Nations logo on a gate outside the UN headquarters in New York. | AFP via Getty Images\t\n\nSecurity researcher Rowan Howard-Jones s...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "isoDate": "2026-09-27T17:21:07.000Z"
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months af...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "isoDate": "2026-09-28T17:00:23.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the de...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "isoDate": "2026-09-26T16:34:59.000Z"
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathemat...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "isoDate": "2026-09-28T17:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Jo...",
+      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+      "isoDate": "2026-09-28T16:44:57.000Z"
     }
   ]
 }
