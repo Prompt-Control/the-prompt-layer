@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-29T06:18:33.986Z",
+  "generated": "2026-09-29T13:27:14.973Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the...",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "isoDate": "2026-09-29T12:45:05.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million....",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "isoDate": "2026-09-29T12:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "summary": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t\n\nAs President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro ...",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "isoDate": "2026-09-29T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "isoDate": "2026-09-29T11:48:27.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
@@ -30,20 +58,6 @@
       "isoDate": "2026-09-28T21:31:35.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "isoDate": "2026-09-28T21:29:18.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "summary": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist....",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "isoDate": "2026-09-28T20:39:33.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI’s AI agents need to catch up",
       "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's ho...",
@@ -56,20 +70,6 @@
       "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headqua...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
       "isoDate": "2026-09-28T18:30:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months af...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "isoDate": "2026-09-28T17:00:23.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathemat...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "isoDate": "2026-09-28T17:00:00.000Z"
     }
   ]
 }
