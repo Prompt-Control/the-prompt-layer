@@ -1,6 +1,34 @@
 {
-  "generated": "2026-09-28T20:52:01.175Z",
+  "generated": "2026-09-29T00:39:18.269Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
+      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+      "isoDate": "2026-09-29T00:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI reportedly ditches model over safety concerns",
+      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders....",
+      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+      "isoDate": "2026-09-28T23:39:20.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research ...",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "isoDate": "2026-09-28T21:31:35.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+      "summary": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago....",
+      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+      "isoDate": "2026-09-28T21:29:18.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
@@ -23,32 +51,11 @@
       "isoDate": "2026-09-28T18:45:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "summary": "As the debate rages over whether the recent spate of rogue AI agents is a step toward AGI or a more conventional engineering problem, Nvidia...",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "isoDate": "2026-09-28T18:31:23.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
       "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headqua...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
       "isoDate": "2026-09-28T18:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "summary": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn....",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "isoDate": "2026-09-28T18:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "summary": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents....",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "isoDate": "2026-09-28T17:29:50.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathemat...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
       "isoDate": "2026-09-28T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Jo...",
-      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "isoDate": "2026-09-28T16:44:57.000Z"
     }
   ]
 }
