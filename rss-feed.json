@@ -1,75 +1,75 @@
 {
-  "generated": "2026-09-29T13:27:14.973Z",
+  "generated": "2026-09-29T18:55:37.715Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-      "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the...",
-      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-      "isoDate": "2026-09-29T12:45:05.000Z"
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned....",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "isoDate": "2026-09-29T18:35:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Reco raises $55M as AI agent security startups crowd the market",
-      "summary": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million....",
-      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
-      "isoDate": "2026-09-29T12:30:00.000Z"
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies....",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "isoDate": "2026-09-29T17:45:51.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "summary": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t\n\nAs President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro ...",
-      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "isoDate": "2026-09-29T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
-      "summary": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
-      "isoDate": "2026-09-29T11:48:27.000Z"
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "isoDate": "2026-09-29T17:35:03.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah ...",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "isoDate": "2026-09-29T05:13:43.000Z"
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ong...",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "isoDate": "2026-09-29T17:20:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India....",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "isoDate": "2026-09-29T00:30:00.000Z"
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with...",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "isoDate": "2026-09-29T17:17:15.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "summary": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders....",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "isoDate": "2026-09-28T23:39:20.000Z"
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for auto...",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "isoDate": "2026-09-29T17:15:00.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "summary": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t\n\nAMD announced today that it's acquiring World Labs, an AI research ...",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "isoDate": "2026-09-28T21:31:35.000Z"
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "isoDate": "2026-09-29T17:15:00.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "OpenAI’s AI agents need to catch up",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's ho...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "isoDate": "2026-09-28T18:45:00.000Z"
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a g...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "isoDate": "2026-09-29T17:12:27.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headqua...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "isoDate": "2026-09-28T18:30:00.000Z"
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "isoDate": "2026-09-29T16:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his F...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "isoDate": "2026-09-29T14:08:21.000Z"
     }
   ]
 }
