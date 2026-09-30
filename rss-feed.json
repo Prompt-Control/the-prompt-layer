@@ -1,19 +1,61 @@
 {
-  "generated": "2026-09-29T18:55:37.715Z",
+  "generated": "2026-09-30T01:40:26.324Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+      "isoDate": "2026-09-30T00:19:13.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetr...",
+      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+      "isoDate": "2026-09-29T23:30:55.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"arti...",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "isoDate": "2026-09-29T22:25:45.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirec...",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "isoDate": "2026-09-29T22:20:59.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "summary": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles...",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "isoDate": "2026-09-29T21:49:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be d...",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "isoDate": "2026-09-29T20:15:47.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut....",
+      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "isoDate": "2026-09-29T19:52:37.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
       "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned....",
       "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
       "isoDate": "2026-09-29T18:35:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-      "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies....",
-      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "isoDate": "2026-09-29T17:45:51.000Z"
     },
     {
       "source": "The Verge AI",
@@ -23,53 +65,11 @@
       "isoDate": "2026-09-29T17:35:03.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "AI-powered app maker Wabi pivots to a messaging experience",
-      "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ong...",
-      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-      "isoDate": "2026-09-29T17:20:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI launches Dots, its bubbly agentic avatar",
-      "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with...",
-      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-      "isoDate": "2026-09-29T17:17:15.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for auto...",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "isoDate": "2026-09-29T17:15:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI launches Dots, its Muse competitor",
       "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
       "isoDate": "2026-09-29T17:15:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Protesters gather at OpenAI’s DevDay",
-      "summary": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a g...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-      "isoDate": "2026-09-29T17:12:27.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI DevDay 2026: The biggest news and announcements",
-      "summary": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
-      "isoDate": "2026-09-29T16:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
-      "summary": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his F...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
-      "isoDate": "2026-09-29T14:08:21.000Z"
     }
   ]
 }
