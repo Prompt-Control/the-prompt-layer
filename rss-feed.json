@@ -1,75 +1,75 @@
 {
-  "generated": "2026-09-30T14:17:41.226Z",
+  "generated": "2026-09-30T23:14:50.956Z",
   "items": [
     {
-      "source": "The Verge AI",
-      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-      "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Wa...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "isoDate": "2026-09-30T12:24:32.000Z"
-    },
-    {
       "source": "TechCrunch AI",
-      "title": "Airbnb adds AI search, more social features",
-      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations....",
-      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-      "isoDate": "2026-09-30T12:00:00.000Z"
+      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member....",
+      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+      "isoDate": "2026-09-30T21:07:40.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-      "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-      "isoDate": "2026-09-30T00:19:13.000Z"
+      "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+      "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex...",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "isoDate": "2026-09-30T20:41:41.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-      "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetr...",
-      "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-      "isoDate": "2026-09-29T23:30:55.000Z"
+      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence....",
+      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+      "isoDate": "2026-09-30T19:00:57.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price....",
+      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+      "isoDate": "2026-09-30T18:23:57.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Trump orders US government to call AI ‘Super Intelligence’",
-      "summary": "Image: Carolyn Van Houten / The Washington Post via Getty Images\t\n\nThe US executive branch is no longer acknowledging the existence of \"arti...",
-      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-      "isoDate": "2026-09-29T22:25:45.000Z"
+      "title": "The AI Tamagotchis are coming",
+      "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and c...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "isoDate": "2026-09-30T18:07:38.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-      "summary": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirec...",
-      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-      "isoDate": "2026-09-29T22:20:59.000Z"
+      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content....",
+      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+      "isoDate": "2026-09-30T17:45:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The ugly economics of consumer AI",
+      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough....",
+      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+      "isoDate": "2026-09-30T17:24:45.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-      "summary": "Elon Musk | Image: Laura Normand / The Verge\t\n\nGrokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles...",
-      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-      "isoDate": "2026-09-29T21:49:09.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s latest features take direct aim at the app store model",
-      "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be d...",
-      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-      "isoDate": "2026-09-29T20:15:47.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-      "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut....",
-      "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-      "isoDate": "2026-09-29T19:52:37.000Z"
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "isoDate": "2026-09-30T17:15:49.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-      "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-      "isoDate": "2026-09-29T17:35:03.000Z"
+      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisi...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "isoDate": "2026-09-30T15:18:49.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Google reportedly tests paying publishers for AI search results",
+      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report fr...",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "isoDate": "2026-09-30T14:51:49.000Z"
     }
   ]
 }
