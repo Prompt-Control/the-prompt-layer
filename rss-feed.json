@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-30T07:33:34.419Z",
+  "generated": "2026-09-30T14:17:41.226Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+      "summary": "Anyone else getting “The Last Supper” vibes from this photo taken at the White House tech gathering? | Photographer: Tierney L. Cross/The Wa...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "isoDate": "2026-09-30T12:24:32.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Airbnb adds AI search, more social features",
+      "summary": "Airbnb is also launching new services such as meal delivery and laundry in select locations....",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "isoDate": "2026-09-30T12:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Sam Altman says OpenAI won’t go public until its models are safe",
@@ -51,25 +65,11 @@
       "isoDate": "2026-09-29T19:52:37.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-      "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned....",
-      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-      "isoDate": "2026-09-29T18:35:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
       "summary": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
       "isoDate": "2026-09-29T17:35:03.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI launches Dots, its Muse competitor",
-      "summary": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t\n\nOpenAI is responding to Meta's buzzy Muse AI with ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-      "isoDate": "2026-09-29T17:15:00.000Z"
     }
   ]
 }
