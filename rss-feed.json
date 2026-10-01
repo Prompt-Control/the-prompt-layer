@@ -1,6 +1,20 @@
 {
-  "generated": "2026-09-30T23:14:50.956Z",
+  "generated": "2026-10-01T02:37:15.286Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+      "summary": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks ...",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "isoDate": "2026-10-01T00:23:45.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+      "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work....",
+      "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+      "isoDate": "2026-09-30T23:43:07.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
@@ -44,13 +58,6 @@
       "isoDate": "2026-09-30T17:45:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The ugly economics of consumer AI",
-      "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough....",
-      "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-      "isoDate": "2026-09-30T17:24:45.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
       "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch...",
@@ -63,13 +70,6 @@
       "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisi...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
       "isoDate": "2026-09-30T15:18:49.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "summary": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report fr...",
-      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "isoDate": "2026-09-30T14:51:49.000Z"
     }
   ]
 }
