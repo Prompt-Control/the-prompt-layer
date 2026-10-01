@@ -1,6 +1,48 @@
 {
-  "generated": "2026-10-01T09:28:23.805Z",
+  "generated": "2026-10-01T16:43:30.985Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system....",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "isoDate": "2026-10-01T15:12:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+      "summary": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t\n\nAt OpenAI...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "isoDate": "2026-10-01T14:36:50.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consume...",
+      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "isoDate": "2026-10-01T14:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center...",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "isoDate": "2026-10-01T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with ...",
+      "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "isoDate": "2026-10-01T13:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed...",
+      "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "isoDate": "2026-10-01T12:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
@@ -16,13 +58,6 @@
       "isoDate": "2026-09-30T23:43:07.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-      "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member....",
-      "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-      "isoDate": "2026-09-30T21:07:40.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
       "summary": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex...",
@@ -30,46 +65,11 @@
       "isoDate": "2026-09-30T20:41:41.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-      "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence....",
-      "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-      "isoDate": "2026-09-30T19:00:57.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-      "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price....",
-      "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-      "isoDate": "2026-09-30T18:23:57.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "The AI Tamagotchis are coming",
       "summary": "Sam Altman onstage at OpenAI’s DevDay 2026. | Photo: Hayden Field / The Verge\t\n\nWhile AI has made plenty of inroads on people's phones and c...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
       "isoDate": "2026-09-30T18:07:38.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-      "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content....",
-      "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-      "isoDate": "2026-09-30T17:45:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "isoDate": "2026-09-30T17:15:49.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisi...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "isoDate": "2026-09-30T15:18:49.000Z"
     }
   ]
 }
