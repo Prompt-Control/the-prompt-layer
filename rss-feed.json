@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-02T19:35:30.649Z",
+  "generated": "2026-10-02T23:20:32.097Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money....",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "isoDate": "2026-10-02T21:09:14.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company su...",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "isoDate": "2026-10-02T21:08:37.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an up...",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "isoDate": "2026-10-02T20:08:40.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
@@ -44,32 +65,11 @@
       "isoDate": "2026-10-02T17:37:36.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-      "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% ...",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-      "isoDate": "2026-10-02T17:32:05.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "AI hallucinations are making entitled customers even worse",
       "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"So...",
       "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
       "isoDate": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassu...",
-      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "isoDate": "2026-10-02T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more...",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "isoDate": "2026-10-02T11:52:20.000Z"
     }
   ]
 }
