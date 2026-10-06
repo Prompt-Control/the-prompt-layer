@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-05T22:57:07.866Z",
+  "generated": "2026-10-06T02:36:27.945Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "isoDate": "2026-10-05T23:09:55.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
@@ -63,13 +70,6 @@
       "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety...",
       "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
       "isoDate": "2026-10-05T17:29:22.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a C...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "isoDate": "2026-10-05T16:55:42.000Z"
     }
   ]
 }
