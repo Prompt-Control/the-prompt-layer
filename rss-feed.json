@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-07T20:14:07.337Z",
+  "generated": "2026-10-08T00:29:39.800Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B....",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "isoDate": "2026-10-07T20:48:45.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+      "summary": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and ...",
+      "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+      "isoDate": "2026-10-07T20:22:37.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
@@ -51,25 +65,11 @@
       "isoDate": "2026-10-07T17:46:44.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "summary": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online....",
-      "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-      "isoDate": "2026-10-07T16:53:46.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "ChatGPT is getting college planning tools",
       "summary": "A preview of OpenAI’s College Planner. | Image: OpenAI\t\n\nOpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in A...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
       "isoDate": "2026-10-07T16:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-      "summary": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ve...",
-      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-      "isoDate": "2026-10-07T15:07:08.000Z"
     }
   ]
 }
