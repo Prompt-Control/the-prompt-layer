@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-08T20:16:40.119Z",
+  "generated": "2026-10-09T13:54:05.126Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+      "summary": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach o...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "isoDate": "2026-10-09T09:48:26.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-so...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "isoDate": "2026-10-08T21:53:51.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "summary": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a...",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "isoDate": "2026-10-08T21:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "California is trying to shut down robot vs. human cage matches",
@@ -37,13 +58,6 @@
       "isoDate": "2026-10-08T18:19:42.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "summary": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate wo...",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "isoDate": "2026-10-08T18:18:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "USA Today becomes the latest publisher to sue OpenAI",
       "summary": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" ...",
@@ -56,20 +70,6 @@
       "summary": "If Elon Musk and SpaceXAI were going to back any Linux distro, it seems obvious they'd back Omarchy. Today it was announced that SpaceXAI wo...",
       "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
       "isoDate": "2026-10-08T17:57:01.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including e...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "isoDate": "2026-10-08T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s AI note-taking app transcribes your meetings completely offline",
-      "summary": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by Te...",
-      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "isoDate": "2026-10-08T15:27:30.000Z"
     }
   ]
 }
