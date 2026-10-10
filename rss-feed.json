@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-09T23:37:11.510Z",
+  "generated": "2026-10-10T02:54:11.555Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+      "summary": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice....",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "isoDate": "2026-10-10T00:18:32.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
@@ -49,13 +56,6 @@
       "summary": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earli...",
       "link": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
       "isoDate": "2026-10-09T16:53:02.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Danu Robotics’ fight to build a better recycling robot",
-      "summary": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste....",
-      "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
-      "isoDate": "2026-10-09T16:45:00.000Z"
     },
     {
       "source": "The Verge AI",
