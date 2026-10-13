@@ -1,75 +1,75 @@
 {
-  "generated": "2026-10-13T16:30:51.142Z",
+  "generated": "2026-10-13T21:36:14.108Z",
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed...",
-      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-      "isoDate": "2026-10-13T16:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. ...",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "isoDate": "2026-10-13T14:00:00.000Z"
+      "source": "The Verge AI",
+      "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "summary": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The em...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "isoDate": "2026-10-13T20:45:25.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month....",
-      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "isoDate": "2026-10-13T13:50:19.000Z"
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+      "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and t...",
+      "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+      "isoDate": "2026-10-13T20:36:44.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Shopify opens its catalog up to more AI agents",
+      "summary": "CANADA - 2025/07/20: In this photo illustration, the Shopify logo is seen displayed on a smartphone screen. (Photo Illustration by Thomas Fu...",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "isoDate": "2026-10-13T19:42:42.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic ti...",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "isoDate": "2026-10-13T19:00:48.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up...",
-      "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "isoDate": "2026-10-13T13:28:06.000Z"
+      "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+      "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure....",
+      "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+      "isoDate": "2026-10-13T18:30:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially pr...",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "isoDate": "2026-10-13T13:00:00.000Z"
+      "title": "Facebook is giving users more control over their algorithm",
+      "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram....",
+      "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+      "isoDate": "2026-10-13T18:05:24.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Character.AI files for bankruptcy",
-      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Di...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-      "isoDate": "2026-10-13T10:32:23.000Z"
+      "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+      "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a ...",
+      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "isoDate": "2026-10-13T18:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicle...",
+      "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+      "isoDate": "2026-10-13T17:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+      "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily ...",
+      "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+      "isoDate": "2026-10-13T17:18:25.000Z"
     },
     {
       "source": "The Verge AI",
-      "title": "Meta has some Wonder Full new AI models ",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs divisio...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "isoDate": "2026-10-12T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "summary": "Microsoft’s Maia 300 chip. | Image: Microsoft\t\n\nMicrosoft is announcing its third-generation Maia in-house AI chip today, designed to be the...",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "isoDate": "2026-10-12T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-      "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skep...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-      "isoDate": "2026-10-11T18:33:56.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-      "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: a...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-      "isoDate": "2026-10-11T11:00:00.000Z"
+      "title": "Facebook will let you customize your feed algorithm using AI",
+      "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta sa...",
+      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "isoDate": "2026-10-13T17:01:31.000Z"
     }
   ]
 }
