@@ -1,19 +1,47 @@
 {
-  "generated": "2026-10-13T08:34:23.113Z",
+  "generated": "2026-10-13T16:30:51.142Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable...",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "isoDate": "2026-10-12T17:56:56.000Z"
+      "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+      "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed...",
+      "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+      "isoDate": "2026-10-13T16:30:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million....",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "isoDate": "2026-10-12T17:19:14.000Z"
+      "title": "TechCrunch Disrupt 2026: Day 1",
+      "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. ...",
+      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+      "isoDate": "2026-10-13T14:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+      "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month....",
+      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+      "isoDate": "2026-10-13T13:50:19.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+      "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up...",
+      "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+      "isoDate": "2026-10-13T13:28:06.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+      "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially pr...",
+      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+      "isoDate": "2026-10-13T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Character.AI files for bankruptcy",
+      "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Di...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+      "isoDate": "2026-10-13T10:32:23.000Z"
     },
     {
       "source": "The Verge AI",
@@ -21,27 +49,6 @@
       "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs divisio...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
       "isoDate": "2026-10-12T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually ...",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "isoDate": "2026-10-12T15:45:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies....",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "isoDate": "2026-10-12T15:31:19.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a ...",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "isoDate": "2026-10-12T15:27:59.000Z"
     },
     {
       "source": "The Verge AI",
@@ -63,13 +70,6 @@
       "summary": "Baby’s first local AI agent. | Photo: Antonio G. Di Benedetto / The Verge\t\n\nI'm embarking on a journey I've so far been hesitant to go on: a...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
       "isoDate": "2026-10-11T11:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "isoDate": "2026-10-10T22:10:17.000Z"
     }
   ]
 }
