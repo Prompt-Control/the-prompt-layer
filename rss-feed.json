@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-15T00:59:52.257Z",
+  "generated": "2026-10-15T05:35:23.332Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Figma announces new features to define how agents work on its platform",
+      "summary": "Figma is also releasing its code layers feature in open beta....",
+      "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+      "isoDate": "2026-10-15T04:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "summary": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, a...",
+      "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "isoDate": "2026-10-15T01:01:32.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
@@ -56,20 +70,6 @@
       "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
       "isoDate": "2026-10-14T18:22:56.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-      "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed....",
-      "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-      "isoDate": "2026-10-14T18:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Deezer will soon let you filter out AI-generated music",
-      "summary": "Deezer said that the new toggle will be rolled out by the end of the year....",
-      "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-      "isoDate": "2026-10-14T15:16:04.000Z"
     }
   ]
 }
