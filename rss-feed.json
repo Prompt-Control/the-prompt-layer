@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-14T22:44:17.280Z",
+  "generated": "2026-10-15T00:59:52.257Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+      "summary": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-gen...",
+      "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+      "isoDate": "2026-10-15T00:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a c...",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "isoDate": "2026-10-14T22:53:31.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
@@ -18,7 +32,7 @@
     {
       "source": "The Verge AI",
       "title": "The AI race is back on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left th...",
+      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images\t\n\nLast week, Anthrop...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
       "isoDate": "2026-10-14T19:06:03.000Z"
     },
@@ -51,25 +65,11 @@
       "isoDate": "2026-10-14T18:00:00.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "My AI doppelganger tells me what to eat",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potio...",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "isoDate": "2026-10-14T17:00:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Deezer will soon let you filter out AI-generated music",
       "summary": "Deezer said that the new toggle will be rolled out by the end of the year....",
       "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
       "isoDate": "2026-10-14T15:16:04.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-      "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the s...",
-      "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-      "isoDate": "2026-10-14T15:13:24.000Z"
     }
   ]
 }
