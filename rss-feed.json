@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-15T22:43:16.400Z",
+  "generated": "2026-10-16T05:11:50.794Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March....",
+      "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "isoDate": "2026-10-15T23:44:56.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "isoDate": "2026-10-15T22:43:23.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
@@ -56,20 +70,6 @@
       "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, qu...",
       "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
       "isoDate": "2026-10-15T18:56:46.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "summary": "The new Muse Spark Open AI model can work on M5 Ultra Mac Studios. | Photo: Amelia Holowaty Krales / The Verge\t\n\nMeta announced the Muse Spa...",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "isoDate": "2026-10-15T18:15:36.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-      "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join ...",
-      "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-      "isoDate": "2026-10-15T18:00:00.000Z"
     }
   ]
 }
