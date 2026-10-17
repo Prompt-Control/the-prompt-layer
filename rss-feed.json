@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-17T13:17:54.423Z",
+  "generated": "2026-10-17T16:41:27.290Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites,...",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "isoDate": "2026-10-17T15:04:36.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Websites are closing their doors to AI agents",
@@ -63,13 +70,6 @@
       "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser ...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "isoDate": "2026-10-15T22:43:23.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues l...",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "isoDate": "2026-10-15T22:35:55.000Z"
     }
   ]
 }
