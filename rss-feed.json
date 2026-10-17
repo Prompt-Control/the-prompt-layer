@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-17T09:46:15.250Z",
+  "generated": "2026-10-17T13:17:54.423Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Websites are closing their doors to AI agents",
+      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "isoDate": "2026-10-17T13:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Replit is no longer working with Anthropic, CEO says",
@@ -63,13 +70,6 @@
       "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues l...",
       "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
       "isoDate": "2026-10-15T22:35:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The tech backlash is now in theaters",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical l...",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "isoDate": "2026-10-15T21:39:52.000Z"
     }
   ]
 }
