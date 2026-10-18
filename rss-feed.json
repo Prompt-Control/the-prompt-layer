@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-18T19:44:08.586Z",
+  "generated": "2026-10-18T21:57:43.416Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund....",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "isoDate": "2026-10-18T20:37:40.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "A woman was arrested in Philly for blocking a delivery robot",
@@ -49,13 +56,6 @@
       "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
       "isoDate": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permi...",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "isoDate": "2026-10-16T17:52:24.000Z"
     },
     {
       "source": "The Verge AI",
