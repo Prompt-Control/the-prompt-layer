@@ -1,10 +1,17 @@
 {
-  "generated": "2026-10-18T17:39:11.009Z",
+  "generated": "2026-10-18T19:44:08.586Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "isoDate": "2026-10-18T18:28:10.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at D...",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a st...",
       "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
       "isoDate": "2026-10-18T16:30:00.000Z"
     },
@@ -63,13 +70,6 @@
       "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - includi...",
       "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
       "isoDate": "2026-10-16T14:02:40.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "isoDate": "2026-10-15T22:43:23.000Z"
     }
   ]
 }
