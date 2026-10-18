@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-18T14:56:08.755Z",
+  "generated": "2026-10-18T17:39:11.009Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at D...",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "isoDate": "2026-10-18T16:30:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -42,13 +49,6 @@
       "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permi...",
       "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
       "isoDate": "2026-10-16T17:52:24.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego ...",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "isoDate": "2026-10-16T16:30:00.000Z"
     },
     {
       "source": "The Verge AI",
