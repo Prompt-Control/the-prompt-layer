@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-19T07:14:01.381Z",
+  "generated": "2026-10-19T15:02:43.649Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "summary": "Today, I’m talking with Illinois Governor JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. \nIf you’ve been listening to t...",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "isoDate": "2026-10-19T14:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI s...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "isoDate": "2026-10-19T13:58:41.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newe...",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "isoDate": "2026-10-19T12:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
@@ -49,27 +70,6 @@
       "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites,...",
       "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "isoDate": "2026-10-17T15:04:36.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Websites are closing their doors to AI agents",
-      "summary": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on you...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "isoDate": "2026-10-17T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: A...",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "isoDate": "2026-10-16T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - includi...",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "isoDate": "2026-10-16T14:02:40.000Z"
     }
   ]
 }
