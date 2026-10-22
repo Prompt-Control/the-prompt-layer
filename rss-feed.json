@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-21T22:49:44.061Z",
+  "generated": "2026-10-22T01:01:13.932Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "summary": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters....",
+      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "isoDate": "2026-10-21T22:51:22.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Data centers could erase decades of air quality gains",
@@ -63,13 +70,6 @@
       "summary": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Ge...",
       "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
       "isoDate": "2026-10-21T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
-      "summary": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey....",
-      "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
-      "isoDate": "2026-10-21T14:00:00.000Z"
     }
   ]
 }
