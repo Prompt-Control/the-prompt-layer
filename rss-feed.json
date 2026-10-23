@@ -1,6 +1,41 @@
 {
-  "generated": "2026-10-23T02:07:56.702Z",
+  "generated": "2026-10-23T17:58:54.460Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "The iPhone Duo should have been an iPad",
+      "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the chall...",
+      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "isoDate": "2026-10-23T17:00:18.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using ...",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "isoDate": "2026-10-23T16:52:55.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news...",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "isoDate": "2026-10-23T14:47:41.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Retro gaming is being overrun with AI",
+      "summary": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iP...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "isoDate": "2026-10-23T12:00:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
+      "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027....",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "isoDate": "2026-10-23T04:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Left alone with nothing to do, AI agents started playing",
@@ -23,27 +58,6 @@
       "isoDate": "2026-10-22T21:51:25.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - b...",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "isoDate": "2026-10-22T20:32:05.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta turns Muse sharing back on",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researche...",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "isoDate": "2026-10-22T20:24:04.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "summary": "Mars not depicted. | Image: Cath Virginia / The Verge, Getty Images\t\n\nOh sure, SpaceX's credit risk is pretty high because it's about to bor...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "isoDate": "2026-10-22T19:45:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those ac...",
@@ -56,20 +70,6 @@
       "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?...",
       "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
       "isoDate": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Canva releases its first image generation model",
-      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs....",
-      "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-      "isoDate": "2026-10-22T19:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Discord now formats Markdown previews right",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunc...",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "isoDate": "2026-10-22T18:58:19.000Z"
     }
   ]
 }
