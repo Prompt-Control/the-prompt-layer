@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-23T17:58:54.460Z",
+  "generated": "2026-10-23T20:57:15.342Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "summary": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "isoDate": "2026-10-23T19:32:39.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026 ",
+      "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities...",
+      "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+      "isoDate": "2026-10-23T19:06:23.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "The iPhone Duo should have been an iPad",
@@ -51,25 +65,11 @@
       "isoDate": "2026-10-22T22:08:24.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, a...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "isoDate": "2026-10-22T21:51:25.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
       "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those ac...",
       "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
       "isoDate": "2026-10-22T19:07:09.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?...",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "isoDate": "2026-10-22T19:00:00.000Z"
     }
   ]
 }
