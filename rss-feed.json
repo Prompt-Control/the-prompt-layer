@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-24T19:06:28.419Z",
+  "generated": "2026-10-24T22:01:16.580Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature se...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "isoDate": "2026-10-24T21:29:12.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe...",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "isoDate": "2026-10-24T19:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Pennsylvania will require labels on AI-generated ads",
@@ -37,13 +51,6 @@
       "isoDate": "2026-10-23T23:05:49.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command....",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "isoDate": "2026-10-23T21:59:19.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "OpenAI now trains its frontier AI models with no internet access",
       "summary": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on ...",
@@ -63,13 +70,6 @@
       "summary": "We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the chall...",
       "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
       "isoDate": "2026-10-23T17:00:18.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using ...",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "isoDate": "2026-10-23T16:52:55.000Z"
     }
   ]
 }
