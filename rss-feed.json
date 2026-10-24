@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-24T16:18:27.643Z",
+  "generated": "2026-10-24T19:06:28.419Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "isoDate": "2026-10-24T18:32:21.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Block’s new voice model sounds eerily human",
@@ -63,13 +70,6 @@
       "summary": "Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using ...",
       "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
       "isoDate": "2026-10-23T16:52:55.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "summary": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news...",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "isoDate": "2026-10-23T14:47:41.000Z"
     }
   ]
 }
