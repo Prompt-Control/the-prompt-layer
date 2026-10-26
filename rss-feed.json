@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-26T17:42:46.286Z",
+  "generated": "2026-10-26T21:57:20.882Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious.\n\n\"Competition for access to ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "isoDate": "2026-10-26T21:45:31.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively making it harder for ...",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "isoDate": "2026-10-26T17:30:55.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, fr...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "isoDate": "2026-10-26T17:10:23.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
@@ -11,7 +32,7 @@
     {
       "source": "TechCrunch AI",
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the co...",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets....",
       "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "isoDate": "2026-10-26T16:46:36.000Z"
     },
@@ -37,20 +58,6 @@
       "isoDate": "2026-10-26T14:00:00.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
-      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude to beat OpenAI to th...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-      "isoDate": "2026-10-26T13:32:49.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Can AI help solve the COBOL code crisis?",
-      "summary": "A computer running COBOL 73, an antiquated computer programming language, awaits taxpayer information entries at the Internal Revenue Servic...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
-      "isoDate": "2026-10-26T13:15:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
       "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest....",
@@ -63,13 +70,6 @@
       "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corpo...",
       "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
       "isoDate": "2026-10-25T16:57:32.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening o...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "isoDate": "2026-10-25T13:25:32.000Z"
     }
   ]
 }
