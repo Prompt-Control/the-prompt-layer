@@ -1,6 +1,20 @@
 {
-  "generated": "2026-10-27T06:53:42.831Z",
+  "generated": "2026-10-27T12:47:45.443Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue....",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "isoDate": "2026-10-27T11:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Data center backlash is uniting America",
+      "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server stora...",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "isoDate": "2026-10-27T10:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
@@ -56,20 +70,6 @@
       "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets....",
       "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
       "isoDate": "2026-10-26T16:46:36.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Microsoft offers buyouts to 60,000 employees",
-      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft...",
-      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
-      "isoDate": "2026-10-26T15:58:27.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic officially files for its public debut",
-      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance ...",
-      "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-      "isoDate": "2026-10-26T14:35:22.000Z"
     }
   ]
 }
