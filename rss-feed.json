@@ -1,6 +1,27 @@
 {
-  "generated": "2026-10-28T07:35:05.755Z",
+  "generated": "2026-10-28T14:34:21.416Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+      "summary": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is...",
+      "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+      "isoDate": "2026-10-28T13:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Voters in Texas agree: They hate data centers",
+      "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "isoDate": "2026-10-28T12:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
+      "summary": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illus...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+      "isoDate": "2026-10-28T11:27:30.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -30,13 +51,6 @@
       "isoDate": "2026-10-27T21:44:34.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Who’s really in charge at Anthropic after the IPO?",
-      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure....",
-      "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-      "isoDate": "2026-10-27T21:38:28.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
       "summary": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an e...",
@@ -56,20 +70,6 @@
       "summary": "Anthropic cofounder and CEO Dario Amodei. | Bloomberg via Getty Images\t\n\nAnthropic wants to have it both ways. With its impending IPO, it wa...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
       "isoDate": "2026-10-27T16:51:22.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "summary": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms bas...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "isoDate": "2026-10-27T16:14:18.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main upd...",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "isoDate": "2026-10-27T16:00:00.000Z"
     }
   ]
 }
