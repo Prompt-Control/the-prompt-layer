@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-30T02:11:43.058Z",
+  "generated": "2026-10-30T09:07:12.472Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+      "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large l...",
+      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+      "isoDate": "2026-10-30T09:00:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
@@ -10,7 +17,7 @@
     },
     {
       "source": "TechCrunch AI",
-      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
       "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue...",
       "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
       "isoDate": "2026-10-29T23:42:22.000Z"
@@ -63,13 +70,6 @@
       "summary": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story insi...",
       "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
       "isoDate": "2026-10-29T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic’s business plan: Build God or die trying",
-      "summary": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-      "isoDate": "2026-10-29T13:30:00.000Z"
     }
   ]
 }
