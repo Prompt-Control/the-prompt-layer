@@ -1,17 +1,45 @@
 {
-  "generated": "2026-11-03T22:05:26.381Z",
+  "generated": "2026-11-04T02:46:23.305Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "The biggest modding site in PC gaming is taking a stance on AI",
+      "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will hav...",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "isoDate": "2026-11-04T00:42:10.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Please stop asking me when the AI bubble will pop",
+      "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "isoDate": "2026-11-03T23:37:45.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic is working on a system to prove AI models’ identity",
+      "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from....",
+      "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+      "isoDate": "2026-11-03T22:41:03.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Data centers are turning to old jet engines as the wait for power grows",
+      "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less e...",
+      "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+      "isoDate": "2026-11-03T22:19:53.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-      "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate in...",
+      "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate in...",
       "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
       "isoDate": "2026-11-03T21:43:08.000Z"
     },
     {
       "source": "TechCrunch AI",
       "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-      "summary": "Palantir delivered such a huge third-quarter earnings report on Monday that its press release even bragged that the numbers were “crushing c...",
+      "summary": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever....",
       "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
       "isoDate": "2026-11-03T21:05:55.000Z"
     },
@@ -37,39 +65,11 @@
       "isoDate": "2026-11-03T19:34:43.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
-      "summary": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for....",
-      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
-      "isoDate": "2026-11-03T18:42:16.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
       "summary": "Starting today, Siri can tune into the Apple Watch's mic with Audio Intelligence features that are available in the new watchOS 27.3 develop...",
       "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
       "isoDate": "2026-11-03T18:31:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI says ChatGPT is catching up to Google in search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume of search queries r...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "isoDate": "2026-11-03T18:30:42.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Indie games are missing launch dates because Steam is backed up",
-      "summary": "A screenshot from Food Devils, which is missing its planned launch today.\t\n\nMany indie game developers have recently posted on social media ...",
-      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "isoDate": "2026-11-03T18:14:50.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic is still grappling with the economics of compute",
-      "summary": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse....",
-      "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
-      "isoDate": "2026-11-03T17:07:01.000Z"
     }
   ]
 }
