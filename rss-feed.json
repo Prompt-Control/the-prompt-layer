@@ -1,19 +1,54 @@
 {
-  "generated": "2026-11-05T18:20:55.607Z",
+  "generated": "2026-11-05T23:52:05.391Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "summary": "OpenAI President Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turna...",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "isoDate": "2026-11-05T18:02:27.000Z"
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay...",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "isoDate": "2026-11-05T22:40:55.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multip...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "isoDate": "2026-11-05T22:26:50.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances....",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "isoDate": "2026-11-05T18:00:00.000Z"
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Mu...",
+      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "isoDate": "2026-11-05T19:48:28.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive ...",
+      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "isoDate": "2026-11-05T19:12:39.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure....",
+      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "isoDate": "2026-11-05T19:06:12.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Muse has a voice mode now",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today.\nThe feature has been r...",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "isoDate": "2026-11-05T19:03:04.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterpri...",
+      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "isoDate": "2026-11-05T18:02:27.000Z"
     },
     {
       "source": "The Verge AI",
@@ -35,41 +70,6 @@
       "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as...",
       "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
       "isoDate": "2026-11-05T17:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "summary": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and le...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "isoDate": "2026-11-05T17:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Pr...",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "isoDate": "2026-11-05T16:16:45.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "summary": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents...",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "isoDate": "2026-11-05T15:19:05.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The hidden supply chain costs of the AI boom",
-      "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcom...",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "isoDate": "2026-11-05T15:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "summary": "Aina's ring can also take calls and help you dictate notes on your Mac....",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "isoDate": "2026-11-05T14:42:00.000Z"
     }
   ]
 }
