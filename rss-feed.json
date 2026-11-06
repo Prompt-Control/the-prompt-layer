@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-05T23:52:05.391Z",
+  "generated": "2026-11-06T03:49:04.625Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commit...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "isoDate": "2026-11-06T00:37:56.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Airbnb is working on an AI travel agent",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 ea...",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "isoDate": "2026-11-06T00:06:12.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
@@ -56,20 +70,6 @@
       "summary": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects i...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
       "isoDate": "2026-11-05T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "summary": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red a...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "isoDate": "2026-11-05T17:51:52.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "summary": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as...",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "isoDate": "2026-11-05T17:00:00.000Z"
     }
   ]
 }
