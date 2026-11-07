@@ -1,6 +1,34 @@
 {
-  "generated": "2026-11-07T10:43:49.700Z",
+  "generated": "2026-11-07T16:39:45.828Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "summary": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t\n\nAround 7PM each weeknight, I find myself...",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "isoDate": "2026-11-07T15:50:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The US let Nvidia sell chips to an empty office in China",
+      "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese fir...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "isoDate": "2026-11-07T15:43:45.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "AI broke the cybersecurity world. What’s next?",
+      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity ...",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "isoDate": "2026-11-07T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appear...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "isoDate": "2026-11-07T12:30:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
@@ -16,25 +44,11 @@
       "isoDate": "2026-11-06T23:46:18.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. Th...",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "isoDate": "2026-11-06T23:00:44.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming we...",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "isoDate": "2026-11-06T22:53:46.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "All the latest updates on AI data centers",
-      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "isoDate": "2026-11-06T20:02:22.000Z"
     },
     {
       "source": "TechCrunch AI",
@@ -51,25 +65,11 @@
       "isoDate": "2026-11-06T18:44:20.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-      "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to ...",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "isoDate": "2026-11-06T18:10:10.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "How a Blue Wave midterm might reshape the AI industry",
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data cent...",
       "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "isoDate": "2026-11-06T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "AI is the new dating dealbreaker",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connec...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "isoDate": "2026-11-06T17:00:00.000Z"
     }
   ]
 }
