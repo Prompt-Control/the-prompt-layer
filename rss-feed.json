@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-08T18:33:10.585Z",
+  "generated": "2026-11-08T22:33:01.107Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "summary": "In a memo to the company, Huang admitted that he had an affair....",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "isoDate": "2026-11-08T21:00:11.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, wh...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "isoDate": "2026-11-08T20:22:39.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple is racing to make Siri more agentic",
+      "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI ...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "isoDate": "2026-11-08T19:18:19.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Elvis and Eminem rights holders are suing Suno",
@@ -37,20 +58,6 @@
       "isoDate": "2026-11-07T15:43:45.000Z"
     },
     {
-      "source": "The Verge AI",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "summary": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity ...",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "isoDate": "2026-11-07T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "summary": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t\n\nAnthropic is using AI to build more powerful AI. And it appear...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "isoDate": "2026-11-07T12:30:00.000Z"
-    },
-    {
       "source": "TechCrunch AI",
       "title": "Crusoe sells troubled Wyoming data center project to Google",
       "summary": "The deal highlights the challenges of developing massive AI data centers....",
@@ -63,13 +70,6 @@
       "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming we...",
       "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
       "isoDate": "2026-11-06T22:53:46.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to...",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "isoDate": "2026-11-06T18:44:38.000Z"
     }
   ]
 }
