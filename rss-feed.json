@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-07T20:34:31.582Z",
+  "generated": "2026-11-08T00:02:06.011Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "summary": "On Equity, we unpacked what the midterms mean for the tech industry....",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "isoDate": "2026-11-07T22:07:22.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to sp...",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "isoDate": "2026-11-07T21:17:08.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -56,20 +70,6 @@
       "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to...",
       "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
       "isoDate": "2026-11-06T18:44:38.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers....",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "isoDate": "2026-11-06T18:44:20.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data cent...",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "isoDate": "2026-11-06T18:00:00.000Z"
     }
   ]
 }
