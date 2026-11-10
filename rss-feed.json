@@ -1,6 +1,62 @@
 {
-  "generated": "2026-11-09T21:08:49.479Z",
+  "generated": "2026-11-10T03:51:25.761Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported....",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "isoDate": "2026-11-10T01:27:12.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film in...",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "isoDate": "2026-11-10T00:28:49.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "What could China get from Jensen Huang?",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "isoDate": "2026-11-09T23:51:58.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "summary": "Jensen Huang and President Trump. | Getty Images\t\n\nPresident Trump held a White House press briefing earlier today and responded to several ...",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "isoDate": "2026-11-09T23:47:46.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wi...",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "isoDate": "2026-11-09T23:28:37.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by h...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "isoDate": "2026-11-09T23:07:59.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a C...",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "isoDate": "2026-11-09T22:46:09.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The race is on to sue Nvidia",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and ...",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "isoDate": "2026-11-09T22:23:42.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
@@ -9,67 +65,11 @@
       "isoDate": "2026-11-09T20:09:06.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with...",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-      "isoDate": "2026-11-09T19:24:51.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
       "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated L...",
       "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
       "isoDate": "2026-11-09T19:09:58.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" techn...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "isoDate": "2026-11-09T19:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export rest...",
-      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-      "isoDate": "2026-11-09T18:09:52.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for y...",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "isoDate": "2026-11-09T18:07:23.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna....",
-      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-      "isoDate": "2026-11-09T18:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-      "summary": "Step 1. Cut a hole in the box. | Image: The Verge\t\n\nI would prefer that these people's sex lives were none of my business but I guess we hav...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "isoDate": "2026-11-09T17:36:08.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
-      "summary": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse....",
-      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
-      "isoDate": "2026-11-09T16:56:54.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
-      "summary": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
-      "isoDate": "2026-11-09T15:50:38.000Z"
     }
   ]
 }
