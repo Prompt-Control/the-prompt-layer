@@ -1,19 +1,54 @@
 {
-  "generated": "2026-11-11T18:54:43.838Z",
+  "generated": "2026-11-12T01:05:30.443Z",
   "items": [
     {
       "source": "TechCrunch AI",
-      "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-      "summary": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consul...",
-      "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-      "isoDate": "2026-11-11T16:16:07.000Z"
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure....",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "isoDate": "2026-11-11T23:50:00.000Z"
     },
     {
       "source": "TechCrunch AI",
-      "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-      "summary": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter....",
-      "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-      "isoDate": "2026-11-11T16:14:44.000Z"
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years....",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "isoDate": "2026-11-11T23:28:45.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+      "summary": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accuse...",
+      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+      "isoDate": "2026-11-11T23:17:05.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affai...",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "isoDate": "2026-11-11T22:44:36.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "United won’t let your AI agent book your flight",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns.\nThe company says i...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "isoDate": "2026-11-11T21:54:21.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Why the data center you dread might never even be built",
+      "summary": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for ...",
+      "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+      "isoDate": "2026-11-11T20:15:15.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Meta is losing its longtime head of  infrastructure",
+      "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role....",
+      "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+      "isoDate": "2026-11-11T20:12:01.000Z"
     },
     {
       "source": "The Verge AI",
@@ -23,13 +58,6 @@
       "isoDate": "2026-11-11T16:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-      "summary": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wr...",
-      "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-      "isoDate": "2026-11-11T15:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
       "summary": "A graphic representing Google’s AlphaGenome Atlas. | Image: Google\t\n\nResearchers at Google DeepMind have unveiled a new AI model designed to...",
@@ -37,39 +65,11 @@
       "isoDate": "2026-11-11T15:00:00.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-      "summary": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments....",
-      "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-      "isoDate": "2026-11-11T14:00:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
       "summary": "Project Screen Test lets you talk with AI-generated characters to shape their personality. | Image: Adobe\t\n\nSome of the most impressive tech...",
       "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
       "isoDate": "2026-11-11T14:00:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-      "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now....",
-      "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-      "isoDate": "2026-11-11T07:30:51.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "summary": "As espionage targets go, Jensen Huang is perhaps one of the least surprising on Earth. The Nvidia CEO runs one of the world's most valuable ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "isoDate": "2026-11-10T19:04:05.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "ChatGPT is getting verified AI ‘Business Agents’",
-      "summary": "ChatGPT is going to let you chat with verified \"Business Agents\" that represent a brand to help you with things like comparison shopping. Th...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "isoDate": "2026-11-10T18:00:00.000Z"
     }
   ]
 }
