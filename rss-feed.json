@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-14T11:48:45.724Z",
+  "generated": "2026-11-14T17:22:09.809Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing in...",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "isoDate": "2026-11-14T16:34:15.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. Thi...",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "isoDate": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January ...",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "isoDate": "2026-11-14T12:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Amazon has a plan to index the world’s online shopping data",
@@ -44,32 +65,11 @@
       "isoDate": "2026-11-13T16:00:12.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "summary": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race t...",
-      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "isoDate": "2026-11-13T15:58:00.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "What&#8217;s really at stake in the Jensen Huang saga",
       "summary": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most im...",
       "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
       "isoDate": "2026-11-13T14:47:16.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "summary": "Let’s get to work. | Photo: Allison Johnson / The Verge\t\n\nNormally, the products I test don't offer to help me write up my experience with t...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "isoDate": "2026-11-13T14:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Let’s talk about Jensen Huang’s many affairs!",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "isoDate": "2026-11-13T12:00:00.000Z"
     }
   ]
 }
