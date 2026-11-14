@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-14T17:22:09.809Z",
+  "generated": "2026-11-14T21:42:46.414Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon....",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "isoDate": "2026-11-14T21:41:22.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe...",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "isoDate": "2026-11-14T17:30:00.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
@@ -49,20 +63,6 @@
       "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....",
       "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
       "isoDate": "2026-11-13T19:37:57.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips....",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "isoDate": "2026-11-13T18:40:30.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers....",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "isoDate": "2026-11-13T16:00:12.000Z"
     },
     {
       "source": "The Verge AI",
