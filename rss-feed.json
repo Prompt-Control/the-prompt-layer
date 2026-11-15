@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-14T21:42:46.414Z",
+  "generated": "2026-11-15T01:22:23.727Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Where was Nvidia’s security team?",
+      "summary": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an...",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "isoDate": "2026-11-15T00:08:07.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
@@ -56,13 +63,6 @@
       "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out st...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
       "isoDate": "2026-11-13T20:45:10.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith....",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "isoDate": "2026-11-13T19:37:57.000Z"
     },
     {
       "source": "The Verge AI",
