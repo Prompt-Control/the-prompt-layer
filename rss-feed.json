@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-15T15:55:11.662Z",
+  "generated": "2026-11-15T20:37:49.837Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
+      "summary": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to sh...",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "isoDate": "2026-11-15T20:20:57.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+      "summary": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to furth...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "isoDate": "2026-11-15T19:15:43.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "An overview of Jensen Huang’s messy days",
@@ -56,20 +70,6 @@
       "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the in...",
       "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "isoDate": "2026-11-13T23:49:11.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lo...",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "isoDate": "2026-11-13T22:43:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "summary": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out st...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "isoDate": "2026-11-13T20:45:10.000Z"
     }
   ]
 }
