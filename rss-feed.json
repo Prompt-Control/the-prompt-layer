@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-16T00:27:19.703Z",
+  "generated": "2026-11-16T07:23:40.387Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Apple launches new app to study how people use AI for health",
+      "summary": "Apple's new app for a study will answer everyday medical questions...",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "isoDate": "2026-11-16T01:30:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+      "summary": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how usef...",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "isoDate": "2026-11-16T01:26:56.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
@@ -51,25 +65,11 @@
       "isoDate": "2026-11-15T00:08:07.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon....",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "isoDate": "2026-11-14T21:41:22.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
       "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. Thi...",
       "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
       "isoDate": "2026-11-14T15:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January ...",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "isoDate": "2026-11-14T12:00:00.000Z"
     }
   ]
 }
