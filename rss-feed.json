@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-15T20:37:49.837Z",
+  "generated": "2026-11-16T00:27:19.703Z",
   "items": [
+    {
+      "source": "TechCrunch AI",
+      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "summary": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics....",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "isoDate": "2026-11-15T23:30:00.000Z"
+    },
+    {
+      "source": "TechCrunch AI",
+      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
+      "summary": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"...",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "isoDate": "2026-11-15T21:56:35.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
+      "summary": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should ge...",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "isoDate": "2026-11-15T20:43:49.000Z"
+    },
     {
       "source": "TechCrunch AI",
       "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
@@ -37,20 +58,6 @@
       "isoDate": "2026-11-14T21:41:22.000Z"
     },
     {
-      "source": "TechCrunch AI",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expe...",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "isoDate": "2026-11-14T17:30:00.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing in...",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "isoDate": "2026-11-14T16:34:15.000Z"
-    },
-    {
       "source": "The Verge AI",
       "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
       "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. Thi...",
@@ -63,13 +70,6 @@
       "summary": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t\n\nOn January ...",
       "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
       "isoDate": "2026-11-14T12:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the in...",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "isoDate": "2026-11-13T23:49:11.000Z"
     }
   ]
 }
