@@ -1,12 +1,19 @@
 {
-  "generated": "2026-11-17T09:47:27.316Z",
+  "generated": "2026-11-17T18:47:44.594Z",
   "items": [
     {
-      "source": "TechCrunch AI",
-      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
-      "summary": "Three months since introducing its product, AI cybersecurity startup Corba has raised a $125 million Series A at a $1 billion valuation led ...",
-      "link": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
-      "isoDate": "2026-11-16T23:32:32.000Z"
+      "source": "The Verge AI",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "summary": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with th...",
+      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+      "isoDate": "2026-11-17T16:19:03.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he sa...",
+      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "isoDate": "2026-11-17T16:09:57.000Z"
     },
     {
       "source": "The Verge AI",
@@ -14,13 +21,6 @@
       "summary": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent fig...",
       "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
       "isoDate": "2026-11-16T23:17:34.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
-      "summary": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports...",
-      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
-      "isoDate": "2026-11-16T22:03:02.000Z"
     },
     {
       "source": "The Verge AI",
@@ -35,41 +35,6 @@
       "summary": "Sam… thank you. | Image: Getty Images\t\n\nOpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I wa...",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
       "isoDate": "2026-11-16T20:41:28.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
-      "summary": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year ...",
-      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
-      "isoDate": "2026-11-16T20:29:37.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "US data centers now burn more electricity than a midsized country",
-      "summary": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature ...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
-      "isoDate": "2026-11-16T20:27:58.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "California state AG sues OpenAI over rogue agent incidents",
-      "summary": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident....",
-      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
-      "isoDate": "2026-11-16T20:07:13.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
-      "summary": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy....",
-      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
-      "isoDate": "2026-11-16T19:12:02.000Z"
-    },
-    {
-      "source": "TechCrunch AI",
-      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
-      "summary": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry wi...",
-      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
-      "isoDate": "2026-11-16T18:11:10.000Z"
     }
   ]
 }
