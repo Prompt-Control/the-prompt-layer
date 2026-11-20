@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-20T04:52:57.220Z",
+  "generated": "2026-11-20T13:40:08.174Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+      "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Sig...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+      "isoDate": "2026-11-20T12:30:47.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Apple is hiring engineers to build its own AI agent",
@@ -28,13 +35,6 @@
       "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can n...",
       "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
       "isoDate": "2026-11-19T20:05:06.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Gemini on Mac can now use your computer",
-      "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps...",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "isoDate": "2026-11-19T18:21:13.000Z"
     }
   ]
 }
