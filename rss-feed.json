@@ -1,6 +1,27 @@
 {
-  "generated": "2026-11-20T13:40:08.174Z",
+  "generated": "2026-11-20T21:35:10.728Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities ...",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "isoDate": "2026-11-20T18:50:19.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+      "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "isoDate": "2026-11-20T16:34:13.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "The week everything fell apart",
+      "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. E...",
+      "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
+      "isoDate": "2026-11-20T14:06:59.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Signal is blocking Gemini and Siri AI from reading your screen",
@@ -14,27 +35,6 @@
       "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing cod...",
       "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
       "isoDate": "2026-11-19T22:31:41.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "A brief history of Nvidia’s recent stock fluctuations",
-      "summary": "Traders work on the floor of the New York Stock Exchange during morning trading on November 18, 2026 in New York City. | Image: Getty Images...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-      "isoDate": "2026-11-19T21:59:35.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Meta’s Muse Charm might cost $300",
-      "summary": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to Th...",
-      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-      "isoDate": "2026-11-19T20:22:17.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Google is putting AI chats right on the homepage",
-      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can n...",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "isoDate": "2026-11-19T20:05:06.000Z"
     }
   ]
 }
