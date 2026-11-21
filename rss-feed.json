@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-21T10:20:09.185Z",
+  "generated": "2026-11-21T17:48:09.725Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Can Anthropic afford to put safety first?",
+      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series ...",
+      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "isoDate": "2026-11-21T15:00:00.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+      "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now ...",
+      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+      "isoDate": "2026-11-21T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -21,20 +35,6 @@
       "summary": "There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. E...",
       "link": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
       "isoDate": "2026-11-20T14:06:59.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "summary": "Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Sig...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "isoDate": "2026-11-20T12:30:47.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "summary": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing cod...",
-      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-      "isoDate": "2026-11-19T22:31:41.000Z"
     }
   ]
 }
