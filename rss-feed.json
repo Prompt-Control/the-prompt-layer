@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-22T02:42:27.991Z",
+  "generated": "2026-11-22T18:05:46.223Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "The vibe-coding revolution is coming to all the gadgets",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything,...",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "isoDate": "2026-11-22T13:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "The UN fails to agree on rules regulating ‘killer robots’",
@@ -28,13 +35,6 @@
       "summary": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities ...",
       "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "isoDate": "2026-11-20T18:50:19.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "summary": "Anthropic went public on November 19th, 2026. | Photo: Getty Images\t\n\nAnthropic mathematician Levent Alpöge claims he has proved the Riemann...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-      "isoDate": "2026-11-20T16:34:13.000Z"
     }
   ]
 }
