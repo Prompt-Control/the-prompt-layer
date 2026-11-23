@@ -1,6 +1,20 @@
 {
-  "generated": "2026-11-23T04:13:45.542Z",
+  "generated": "2026-11-23T15:27:46.747Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Jensen Huang is back as Nvidia’s CEO",
+      "summary": "Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Hu...",
+      "link": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated",
+      "isoDate": "2026-11-23T14:04:24.000Z"
+    },
+    {
+      "source": "The Verge AI",
+      "title": "Meta Muse can do your Black Friday shopping at Walmart",
+      "summary": "Muse can find Walmart’s Black Friday deals so that you don’t have to. | Image: Walmart\t\n\nWalmart will now let Meta's Muse shop on your behal...",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+      "isoDate": "2026-11-23T11:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "We haven’t seen the last of the major tech outages",
@@ -21,20 +35,6 @@
       "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything,...",
       "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
       "isoDate": "2026-11-22T13:00:00.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapon...",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "isoDate": "2026-11-21T20:03:37.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Can Anthropic afford to put safety first?",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series ...",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "isoDate": "2026-11-21T15:00:00.000Z"
     }
   ]
 }
