@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-27T10:27:28.559Z",
+  "generated": "2026-11-27T19:42:10.360Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "summary": "Widgets, your way. | Photo: Allison Johnson / The Verge\t\n\nAside from dealing with my calendar, there's one thing I want AI to do: tell me if...",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "isoDate": "2026-11-27T14:00:00.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
@@ -28,13 +35,6 @@
       "summary": "Nothing is showing off a much more detailed look at its upcoming AI earbuds ahead of their December 8th release. The Ear Note buds can recor...",
       "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
       "isoDate": "2026-11-25T16:00:59.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Amazon is reportedly in talks to end Muse AI shopping block",
-      "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions...",
-      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "isoDate": "2026-11-25T14:12:33.000Z"
     }
   ]
 }
