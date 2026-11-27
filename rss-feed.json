@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-26T08:57:50.365Z",
+  "generated": "2026-11-27T01:58:14.789Z",
   "items": [
+    {
+      "source": "The Verge AI",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy...",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "isoDate": "2026-11-26T09:54:40.000Z"
+    },
     {
       "source": "The Verge AI",
       "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -28,13 +35,6 @@
       "summary": "Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions...",
       "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
       "isoDate": "2026-11-25T14:12:33.000Z"
-    },
-    {
-      "source": "The Verge AI",
-      "title": "Has vibe coding made open source the new normal for synths?",
-      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving comp...",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "isoDate": "2026-11-25T13:00:00.000Z"
     }
   ]
 }
